@@ -5071,3 +5071,6 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.03.25-23.13.13:366][115]AssetCheck: New page: Asset Save: multiple assets
 [2021.03.25-23.13.13:366][115]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2021.03.25-23.13.13:366][115]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.03.25-23.14.06:368][522]LogSavePackage: Moving '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Saved/ThirdPersonCharacterBCB763834F34FB512A85F3AF68AC5978.tmp' to '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.03.25-23.14.06:425][522]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.03.25-23.14.06:425][522]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
