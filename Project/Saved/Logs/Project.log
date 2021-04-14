@@ -803,3 +803,1692 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.13-21.41.41:454][179]LogDirectoryWatcher: A directory notification failed for 'D:/OneDrive/Documents/GitHub/Game250Project/Project/Saved/Collections/' because it could not be accessed. Aborting watch request...
 [2021.04.13-21.42.27:976][906]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
 [2021.04.13-21.43.11:555][338]LogSlate: Window 'New Channel' being destroyed
+[2021.04.13-21.43.54:049][736]LogSlate: Took 0.029157 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.04.13-21.43.55:383][736]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.04.13-21.44.05:173][269]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/HookPoint.HookPoint
+[2021.04.13-21.44.07:203][269]LogBlueprintEditor: Perf: 0.7 total seconds to load all 5 blueprint libraries in project. Avoid references to content in blueprint libraries to shorten this time.
+[2021.04.13-21.44.07:203][269]LogBlueprintEditor: Perf: 0.3 seconds loading: /Engine/ArtTools/RenderToTexture/Macros/RenderToTextureFunctionLibrary
+[2021.04.13-21.44.07:204][269]LogBlueprintEditor: Perf: 0.2 seconds loading: /Engine/ArtTools/RenderToTexture/Macros/RenderToTextureMacros
+[2021.04.13-21.44.08:454][269]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0023 seconds. Added 126 classes and 0 folders.
+[2021.04.13-21.44.14:292][363]LogRenderer: Reallocating scene render targets to support 948x568 Format 10 NumSamples 1 (Frame:84).
+[2021.04.13-21.44.14:706][378]LogSlate: Window 'HookPoint' being destroyed
+[2021.04.13-21.46.18:495][684]LogSlate: Took 0.063862 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.04.13-21.49.32:214][700]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CustomMaterials/HookMaterial" FILE="../../../../OneDrive/Documents/GitHub/Game250Project/Project/Content/CustomMaterials/HookMaterial.uasset" SILENT=true
+[2021.04.13-21.49.32:465][700]LogSavePackage: Moving '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Saved/HookMaterialD3B1FA184CB3D79A9DB3B0AE613B80D3.tmp' to '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Content/CustomMaterials/HookMaterial.uasset'
+[2021.04.13-21.49.32:853][700]LogUObjectHash: Compacting FUObjectHashTables data took   5.03ms
+[2021.04.13-21.49.32:917][700]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2021.04.13-21.49.32:938][700]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.04.13-21.49.33:220][700]AssetCheck: New page: Asset Save: HookMaterial
+[2021.04.13-21.49.33:220][700]LogContentValidation: Display: Validating Material /Game/CustomMaterials/HookMaterial.HookMaterial
+[2021.04.13-21.49.34:264][760]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/CustomMaterials/HookMaterial.HookMaterial
+[2021.04.13-21.49.34:460][760]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MaterialEditor' in 0.0004 seconds. Added 3 classes and 0 folders.
+[2021.04.13-21.49.34:540][760]LogMaterial: Display: Missing cached shader map for material HookMaterial, compiling. 
+[2021.04.13-21.49.36:013][760]LogMaterial: Display: Missing cached shader map for material HookMaterial, compiling. 
+[2021.04.13-21.49.36:144][760]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.04.13-21.49.36:144][760]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.04.13-21.49.36:144][760]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.04.13-21.49.36:144][760]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.04.13-21.49.36:144][760]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.04.13-21.49.36:144][760]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.04.13-21.49.36:144][760]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.04.13-21.49.36:144][760]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.04.13-21.49.36:178][760]LogMaterial: Display: Missing cached shader map for material HookMaterial, compiling. 
+[2021.04.13-21.49.36:616][760]LogSlate: Took 0.084490 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.04.13-21.49.40:116][921]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.04.13-21.49.40:117][921]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2021.04.13-21.49.40:414][939]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2021.04.13-21.49.40:451][941]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2021.04.13-21.49.40:537][946]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.04.13-21.49.40:579][949]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2021.04.13-21.49.40:615][951]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2021.04.13-21.49.40:647][953]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2021.04.13-21.49.41:017][975]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2021.04.13-21.49.56:432][870]LogMaterial: Display: Missing cached shader map for material HookMaterial, compiling. 
+[2021.04.13-21.49.56:449][870]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.04.13-21.49.56:449][870]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.04.13-21.49.56:449][870]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.04.13-21.49.56:449][870]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.04.13-21.49.56:449][870]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.04.13-21.49.56:449][870]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.04.13-21.49.56:449][870]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.04.13-21.49.56:449][870]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.04.13-21.49.56:449][870]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.04.13-21.49.57:085][891]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.04.13-21.49.57:730][922]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.04.13-21.49.57:730][922]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.04.13-21.49.57:730][922]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.04.13-21.49.57:730][922]MaterialEditorStats: Texture samplers: 2/16
+[2021.04.13-21.50.03:708][262]LogMaterial: Display: Missing cached shader map for material HookMaterial, compiling. 
+[2021.04.13-21.50.03:763][263]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.04.13-21.50.03:763][263]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.04.13-21.50.03:763][263]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.04.13-21.50.03:763][263]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.04.13-21.50.03:763][263]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.04.13-21.50.03:763][263]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.04.13-21.50.03:763][263]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.04.13-21.50.03:763][263]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.04.13-21.50.04:476][306]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.04.13-21.50.14:363][886]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.04.13-21.50.14:363][886]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.04.13-21.50.14:363][886]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.04.13-21.50.14:363][886]MaterialEditorStats: Texture samplers: 2/16
+[2021.04.13-21.51.21:977][270]LogMaterial: Display: Missing cached shader map for material HookMaterial, compiling. 
+[2021.04.13-21.51.21:985][270]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.04.13-21.51.22:052][271]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.04.13-21.51.22:052][271]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.04.13-21.51.22:052][271]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.04.13-21.51.22:052][271]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.04.13-21.51.22:052][271]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.04.13-21.51.22:052][271]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.04.13-21.51.22:052][271]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.04.13-21.51.22:052][271]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.04.13-21.51.23:078][330]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2021.04.13-21.51.23:245][340]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.04.13-21.51.23:666][365]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.04.13-21.51.23:716][368]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.04.13-21.51.23:783][372]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2021.04.13-21.51.23:859][376]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.04.13-21.51.23:859][376]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.04.13-21.51.23:859][376]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.04.13-21.51.23:859][376]MaterialEditorStats: Texture samplers: 2/16
+[2021.04.13-21.51.31:149][780]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.04.13-21.51.31:156][780]LogMaterial: Display: Missing cached shader map for material HookMaterial, compiling. 
+[2021.04.13-21.51.31:161][780]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.04.13-21.51.31:161][780]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.04.13-21.51.31:161][780]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2021.04.13-21.51.31:161][780]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2021.04.13-21.51.31:162][780]LogSlate: Window 'Color Picker' being destroyed
+[2021.04.13-21.51.31:211][780]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2021.04.13-21.51.31:211][780]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2021.04.13-21.51.31:211][780]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2021.04.13-21.51.31:212][780]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2021.04.13-21.51.31:874][817]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2021.04.13-21.51.31:891][818]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.04.13-21.51.31:907][819]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.04.13-21.51.32:054][828]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2021.04.13-21.51.32:072][829]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.04.13-21.51.32:815][873]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.04.13-21.51.32:815][873]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.04.13-21.51.32:815][873]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.04.13-21.51.32:815][873]MaterialEditorStats: Texture samplers: 2/16
+[2021.04.13-21.51.36:747][ 96]LogMaterial: Display: Missing cached shader map for material HookMaterial, compiling. 
+[2021.04.13-21.51.36:760][ 96]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.04.13-21.51.36:760][ 96]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.04.13-21.51.36:760][ 96]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.04.13-21.51.36:760][ 96]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.04.13-21.51.36:760][ 96]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.04.13-21.51.36:760][ 96]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.04.13-21.51.36:760][ 96]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.04.13-21.51.36:760][ 96]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.04.13-21.51.36:760][ 96]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.04.13-21.51.36:776][ 96]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.04.13-21.51.36:784][ 96]LogMaterial: Display: Missing cached shader map for material HookMaterial, compiling. 
+[2021.04.13-21.51.36:798][ 96]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.04.13-21.51.36:807][ 96]LogMaterial: Display: Missing cached shader map for material HookMaterial, compiling. 
+[2021.04.13-21.51.36:815][ 96]LogSlate: Window 'Color Picker' being destroyed
+[2021.04.13-21.51.37:516][137]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2021.04.13-21.51.37:516][137]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 12
+[2021.04.13-21.51.37:776][152]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2021.04.13-21.51.37:933][161]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2021.04.13-21.51.37:979][164]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2021.04.13-21.51.38:013][166]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 8
+[2021.04.13-21.51.38:058][169]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 7
+[2021.04.13-21.51.38:096][171]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2021.04.13-21.51.38:181][176]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2021.04.13-21.51.38:349][186]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2021.04.13-21.51.38:647][204]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2021.04.13-21.51.38:665][205]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2021.04.13-21.51.38:780][212]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2021.04.13-21.51.40:112][283]LogMaterial: Display: Missing cached shader map for material HookMaterial, compiling. 
+[2021.04.13-21.51.40:130][283]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.04.13-21.51.40:130][283]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.04.13-21.51.40:130][283]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.04.13-21.51.40:130][283]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.04.13-21.51.40:130][283]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.04.13-21.51.40:130][283]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.04.13-21.51.40:130][283]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.04.13-21.51.40:130][283]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.04.13-21.51.40:132][283]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.04.13-21.51.40:863][326]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2021.04.13-21.51.40:895][328]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.04.13-21.51.41:178][345]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.04.13-21.51.41:296][352]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.04.13-21.51.41:363][356]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2021.04.13-21.51.41:503][364]MaterialEditorStats: Base pass shader: 119 instructions
+[2021.04.13-21.51.41:503][364]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2021.04.13-21.51.41:503][364]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.04.13-21.51.41:503][364]MaterialEditorStats: Texture samplers: 2/16
+[2021.04.13-21.51.52:110][979]LogMaterialEditor: Saving and Compiling material HookMaterial
+[2021.04.13-21.51.53:566][979]LogMaterial: Display: Missing cached shader map for material HookMaterial, compiling. 
+[2021.04.13-21.51.53:612][979]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.04.13-21.51.53:612][979]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.04.13-21.51.53:612][979]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.04.13-21.51.53:612][979]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.04.13-21.51.53:612][979]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.04.13-21.51.53:612][979]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.04.13-21.51.53:612][979]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.04.13-21.51.53:612][979]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.04.13-21.51.53:794][979]LogMaterial: Display: Missing cached shader map for material HookMaterial, compiling. 
+[2021.04.13-21.51.54:028][979]LogUObjectHash: Compacting FUObjectHashTables data took   9.81ms
+[2021.04.13-21.51.54:077][979]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.13-21.51.54:658][979]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2021.04.13-21.51.54:658][979]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 14
+[2021.04.13-21.51.54:658][979]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2021.04.13-21.51.54:658][979]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2021.04.13-21.51.54:658][979]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 10
+[2021.04.13-21.51.54:658][979]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 8
+[2021.04.13-21.51.54:658][979]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2021.04.13-21.51.54:658][979]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.04.13-21.51.54:658][979]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.04.13-21.51.54:658][979]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2021.04.13-21.51.54:820][979]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2021.04.13-21.51.54:830][979]TextureStreamingBuild: Display: Compiling optional shaders took 0.800 seconds.
+[2021.04.13-21.51.55:010][979]LogUObjectHash: Compacting FUObjectHashTables data took   6.29ms
+[2021.04.13-21.51.55:672][979]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.04.13-21.51.55:718][979]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CustomMaterials/HookMaterial" FILE="../../../../OneDrive/Documents/GitHub/Game250Project/Project/Content/CustomMaterials/HookMaterial.uasset" SILENT=true
+[2021.04.13-21.51.55:724][979]LogSavePackage: Moving '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Saved/HookMaterial7535F2AF450198FC05DFEC872687C32A.tmp' to '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Content/CustomMaterials/HookMaterial.uasset'
+[2021.04.13-21.51.55:765][979]AssetCheck: New page: Asset Save: HookMaterial
+[2021.04.13-21.51.55:765][979]LogContentValidation: Display: Validating Material /Game/CustomMaterials/HookMaterial.HookMaterial
+[2021.04.13-21.51.55:771][979]MaterialEditorStats: Base pass shader: 119 instructions
+[2021.04.13-21.51.55:771][979]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2021.04.13-21.51.55:771][979]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.04.13-21.51.55:771][979]MaterialEditorStats: Texture samplers: 3/16
+[2021.04.13-21.52.12:811][937]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/CustomMaterials/SoulMat1.SoulMat1
+[2021.04.13-21.52.12:814][937]LogMaterial: Display: Missing cached shader map for material SoulMat1, compiling. 
+[2021.04.13-21.52.12:901][937]LogMaterial: Display: Missing cached shader map for material SoulMat1, compiling. 
+[2021.04.13-21.52.12:908][937]LogMaterial: Display: Missing cached shader map for material SoulMat1, compiling. 
+[2021.04.13-21.52.12:921][937]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.04.13-21.52.12:921][937]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.04.13-21.52.12:921][937]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.04.13-21.52.12:921][937]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.04.13-21.52.12:921][937]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.04.13-21.52.12:921][937]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.04.13-21.52.12:921][937]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.04.13-21.52.12:921][937]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.04.13-21.52.13:627][974]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.04.13-21.52.14:135][  4]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.04.13-21.52.14:135][  4]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.04.13-21.52.14:135][  4]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.04.13-21.52.14:135][  4]MaterialEditorStats: Texture samplers: 2/16
+[2021.04.13-21.52.22:454][502]LogMaterial: Display: Missing cached shader map for material SoulMat1, compiling. 
+[2021.04.13-21.52.22:460][502]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.04.13-21.52.22:481][503]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 13
+[2021.04.13-21.52.22:481][503]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 12
+[2021.04.13-21.52.22:481][503]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2021.04.13-21.52.22:481][503]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 10
+[2021.04.13-21.52.22:481][503]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2021.04.13-21.52.22:481][503]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2021.04.13-21.52.22:481][503]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2021.04.13-21.52.22:481][503]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2021.04.13-21.52.23:209][546]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2021.04.13-21.52.23:209][546]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.04.13-21.52.23:492][563]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.04.13-21.52.23:624][571]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.04.13-21.52.23:691][575]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2021.04.13-21.52.23:850][584]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.04.13-21.52.23:850][584]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.04.13-21.52.23:850][584]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.04.13-21.52.23:850][584]MaterialEditorStats: Texture samplers: 2/16
+[2021.04.13-21.52.56:894][556]LogMaterial: Display: Missing cached shader map for material SoulMat1, compiling. 
+[2021.04.13-21.52.56:908][556]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.04.13-21.52.56:908][556]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.04.13-21.52.56:908][556]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.04.13-21.52.56:908][556]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.04.13-21.52.56:908][556]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.04.13-21.52.56:908][556]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.04.13-21.52.56:908][556]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.04.13-21.52.56:908][556]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.04.13-21.52.56:908][556]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.04.13-21.52.56:923][556]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.04.13-21.52.56:928][556]LogMaterial: Display: Missing cached shader map for material SoulMat1, compiling. 
+[2021.04.13-21.52.56:937][556]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.04.13-21.52.56:943][556]LogMaterial: Display: Missing cached shader map for material SoulMat1, compiling. 
+[2021.04.13-21.52.56:948][556]LogSlate: Window 'Color Picker' being destroyed
+[2021.04.13-21.52.57:856][608]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2021.04.13-21.52.57:888][610]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2021.04.13-21.52.58:138][625]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2021.04.13-21.52.58:291][634]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2021.04.13-21.52.58:345][637]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2021.04.13-21.52.58:407][641]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 8
+[2021.04.13-21.52.58:459][644]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.04.13-21.52.58:545][649]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2021.04.13-21.52.58:545][649]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2021.04.13-21.52.58:772][662]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.04.13-21.52.58:957][673]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2021.04.13-21.52.59:119][683]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2021.04.13-21.52.59:254][691]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2021.04.13-21.53.08:894][264]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.04.13-21.53.08:894][264]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.04.13-21.53.08:894][264]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.04.13-21.53.08:894][264]MaterialEditorStats: Texture samplers: 2/16
+[2021.04.13-21.53.40:591][993]LogMaterial: Display: Missing cached shader map for material SoulMat1, compiling. 
+[2021.04.13-21.53.40:919][994]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.04.13-21.53.40:919][994]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.04.13-21.53.40:919][994]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.04.13-21.53.40:919][994]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.04.13-21.53.40:919][994]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.04.13-21.53.40:919][994]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.04.13-21.53.40:919][994]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.04.13-21.53.40:919][994]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.04.13-21.53.41:487][ 27]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.04.13-21.53.42:022][ 59]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.04.13-21.53.42:022][ 59]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.04.13-21.53.42:022][ 59]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.04.13-21.53.42:022][ 59]MaterialEditorStats: Texture samplers: 2/16
+[2021.04.13-21.53.50:761][566]LogMaterial: Display: Missing cached shader map for material SoulMat1, compiling. 
+[2021.04.13-21.53.50:769][566]LogMaterial: Display: Missing cached shader map for material SoulMat1, compiling. 
+[2021.04.13-21.53.50:780][566]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.04.13-21.53.50:781][566]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.04.13-21.53.50:781][566]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.04.13-21.53.50:781][566]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.04.13-21.53.50:781][566]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.04.13-21.53.50:781][566]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.04.13-21.53.50:781][566]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.04.13-21.53.50:781][566]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.04.13-21.53.50:785][566]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.04.13-21.53.51:488][607]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2021.04.13-21.53.51:488][607]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2021.04.13-21.53.51:775][624]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.04.13-21.53.51:868][629]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.04.13-21.53.51:946][634]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2021.04.13-21.53.52:121][644]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.04.13-21.53.52:121][644]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.04.13-21.53.52:121][644]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.04.13-21.53.52:121][644]MaterialEditorStats: Texture samplers: 2/16
+[2021.04.13-21.53.53:142][703]LogMaterial: Display: Missing cached shader map for material SoulMat1, compiling. 
+[2021.04.13-21.53.53:154][704]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.04.13-21.53.53:154][704]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.04.13-21.53.53:154][704]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.04.13-21.53.53:154][704]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.04.13-21.53.53:154][704]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.04.13-21.53.53:154][704]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.04.13-21.53.53:154][704]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.04.13-21.53.53:154][704]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.04.13-21.53.53:867][747]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.04.13-21.53.54:372][777]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.04.13-21.53.54:372][777]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.04.13-21.53.54:372][777]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.04.13-21.53.54:372][777]MaterialEditorStats: Texture samplers: 2/16
+[2021.04.13-21.54.03:002][282]LogMaterial: Display: Missing cached shader map for material SoulMat1, compiling. 
+[2021.04.13-21.54.03:025][282]LogMaterial: Display: Missing cached shader map for material SoulMat1, compiling. 
+[2021.04.13-21.54.03:060][283]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.04.13-21.54.03:060][283]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.04.13-21.54.03:060][283]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.04.13-21.54.03:060][283]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.04.13-21.54.03:060][283]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.04.13-21.54.03:060][283]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.04.13-21.54.03:060][283]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.04.13-21.54.03:060][283]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.04.13-21.54.03:838][326]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.04.13-21.54.05:478][410]LogMaterial: Display: Missing cached shader map for material SoulMat1, compiling. 
+[2021.04.13-21.54.05:500][412]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.04.13-21.54.05:500][412]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.04.13-21.54.05:500][412]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.04.13-21.54.05:500][412]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.04.13-21.54.05:500][412]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.04.13-21.54.05:500][412]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.04.13-21.54.05:500][412]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.04.13-21.54.05:500][412]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.04.13-21.54.06:199][453]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2021.04.13-21.54.06:744][485]MaterialEditorStats: Base pass shader: 119 instructions
+[2021.04.13-21.54.06:744][485]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2021.04.13-21.54.06:744][485]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.04.13-21.54.06:744][485]MaterialEditorStats: Texture samplers: 2/16
+[2021.04.13-21.54.15:713][ 23]LogMaterial: Display: Missing cached shader map for material SoulMat1, compiling. 
+[2021.04.13-21.54.15:719][ 23]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.04.13-21.54.15:719][ 23]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.04.13-21.54.15:719][ 23]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.04.13-21.54.15:719][ 23]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.04.13-21.54.15:719][ 23]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.04.13-21.54.15:719][ 23]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.04.13-21.54.15:719][ 23]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.04.13-21.54.15:719][ 23]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.04.13-21.54.15:720][ 23]LogMaterial: Display: Missing cached shader map for material SoulMat1, compiling. 
+[2021.04.13-21.54.16:499][ 70]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.04.13-21.54.16:499][ 70]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2021.04.13-21.54.16:747][ 85]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2021.04.13-21.54.16:866][ 92]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2021.04.13-21.54.16:898][ 94]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2021.04.13-21.54.16:945][ 97]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2021.04.13-21.54.16:961][ 98]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2021.04.13-21.54.16:978][ 99]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2021.04.13-21.54.17:400][124]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2021.04.13-21.54.17:940][156]MaterialEditorStats: Base pass shader: 119 instructions
+[2021.04.13-21.54.17:940][156]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2021.04.13-21.54.17:940][156]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.04.13-21.54.17:940][156]MaterialEditorStats: Texture samplers: 2/16
+[2021.04.13-21.54.28:962][816]LogMaterial: Display: Missing cached shader map for material SoulMat1, compiling. 
+[2021.04.13-21.54.28:979][816]LogMaterial: Display: Missing cached shader map for material SoulMat1, compiling. 
+[2021.04.13-21.54.28:996][818]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.04.13-21.54.28:996][818]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.04.13-21.54.28:996][818]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.04.13-21.54.28:996][818]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.04.13-21.54.28:996][818]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.04.13-21.54.28:996][818]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.04.13-21.54.28:996][818]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.04.13-21.54.28:996][818]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.04.13-21.54.29:705][860]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2021.04.13-21.54.30:176][888]MaterialEditorStats: Base pass shader: 119 instructions
+[2021.04.13-21.54.30:176][888]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2021.04.13-21.54.30:176][888]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.04.13-21.54.30:176][888]MaterialEditorStats: Texture samplers: 2/16
+[2021.04.13-21.54.50:168][191]LogMaterial: Display: Missing cached shader map for material SoulMat1, compiling. 
+[2021.04.13-21.54.50:178][191]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.04.13-21.54.50:178][191]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.04.13-21.54.50:178][191]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.04.13-21.54.50:178][191]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.04.13-21.54.50:178][191]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.04.13-21.54.50:178][191]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.04.13-21.54.50:178][191]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.04.13-21.54.50:178][191]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.04.13-21.54.50:180][191]LogMaterial: Display: Missing cached shader map for material SoulMat1, compiling. 
+[2021.04.13-21.54.51:114][245]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.04.13-21.54.51:196][250]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2021.04.13-21.54.51:448][265]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2021.04.13-21.54.51:582][273]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2021.04.13-21.54.51:676][279]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2021.04.13-21.54.51:676][279]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2021.04.13-21.54.51:727][282]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2021.04.13-21.54.51:727][282]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2021.04.13-21.54.52:099][304]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.04.13-21.54.52:651][337]MaterialEditorStats: Base pass shader: 119 instructions
+[2021.04.13-21.54.52:652][337]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2021.04.13-21.54.52:652][337]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.04.13-21.54.52:652][337]MaterialEditorStats: Texture samplers: 2/16
+[2021.04.13-21.55.18:475][ 95]LogMaterial: Display: Missing cached shader map for material SoulMat1, compiling. 
+[2021.04.13-21.55.18:503][ 95]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.04.13-21.55.18:503][ 95]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.04.13-21.55.18:503][ 95]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.04.13-21.55.18:503][ 95]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.04.13-21.55.18:503][ 95]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.04.13-21.55.18:503][ 95]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.04.13-21.55.18:503][ 95]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.04.13-21.55.18:503][ 95]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.04.13-21.55.19:523][153]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.04.13-21.55.20:510][212]LogMaterial: Display: Missing cached shader map for material SoulMat1, compiling. 
+[2021.04.13-21.55.20:516][212]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.04.13-21.55.20:516][212]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.04.13-21.55.20:516][212]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.04.13-21.55.20:516][212]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.04.13-21.55.20:516][212]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.04.13-21.55.20:516][212]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.04.13-21.55.20:516][212]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.04.13-21.55.20:516][212]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.04.13-21.55.21:382][264]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.04.13-21.55.21:951][298]MaterialEditorStats: Base pass shader: 118 instructions
+[2021.04.13-21.55.21:951][298]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2021.04.13-21.55.21:951][298]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.04.13-21.55.21:951][298]MaterialEditorStats: Texture samplers: 2/16
+[2021.04.13-21.55.30:003][781]LogMaterialEditor: Saving and Compiling material SoulMat1
+[2021.04.13-21.55.30:529][781]LogMaterial: Display: Missing cached shader map for material SoulMat1, compiling. 
+[2021.04.13-21.55.30:568][781]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.04.13-21.55.30:568][781]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.04.13-21.55.30:568][781]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.04.13-21.55.30:568][781]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.04.13-21.55.30:568][781]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.04.13-21.55.30:568][781]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.04.13-21.55.30:568][781]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.04.13-21.55.30:568][781]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.04.13-21.55.30:577][781]LogMaterial: Display: Missing cached shader map for material SoulMat1, compiling. 
+[2021.04.13-21.55.30:632][781]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2021.04.13-21.55.30:640][781]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.13-21.55.31:205][781]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 15
+[2021.04.13-21.55.31:205][781]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 14
+[2021.04.13-21.55.31:633][781]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2021.04.13-21.55.31:633][781]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2021.04.13-21.55.31:633][781]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2021.04.13-21.55.31:633][781]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.04.13-21.55.31:633][781]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2021.04.13-21.55.31:633][781]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.04.13-21.55.31:633][781]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.04.13-21.55.31:633][781]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2021.04.13-21.55.31:634][781]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2021.04.13-21.55.31:636][781]TextureStreamingBuild: Display: Compiling optional shaders took 1.002 seconds.
+[2021.04.13-21.55.31:676][781]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2021.04.13-21.55.32:298][781]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.04.13-21.55.32:558][781]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CustomMaterials/SoulMat1" FILE="../../../../OneDrive/Documents/GitHub/Game250Project/Project/Content/CustomMaterials/SoulMat1.uasset" SILENT=true
+[2021.04.13-21.55.32:567][781]LogSavePackage: Moving '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Saved/SoulMat168A22A5A42D8C7C850D07F948A84D114.tmp' to '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Content/CustomMaterials/SoulMat1.uasset'
+[2021.04.13-21.55.32:614][781]AssetCheck: New page: Asset Save: SoulMat1
+[2021.04.13-21.55.32:614][781]LogContentValidation: Display: Validating Material /Game/CustomMaterials/SoulMat1.SoulMat1
+[2021.04.13-21.55.32:823][793]MaterialEditorStats: Base pass shader: 118 instructions
+[2021.04.13-21.55.32:823][793]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2021.04.13-21.55.32:823][793]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.04.13-21.55.32:823][793]MaterialEditorStats: Texture samplers: 3/16
+[2021.04.13-21.57.18:702][835]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.04.13-21.57.31:678][608]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/SoulBase.SoulBase
+[2021.04.13-21.58.04:148][480]BlueprintLog: New page: Compile SoulBase
+[2021.04.13-21.58.04:535][480]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2021.04.13-21.58.04:689][480]LogSlate: Took 0.075483 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.04.13-21.58.40:520][589]BlueprintLog: New page: Compile SoulBase
+[2021.04.13-21.58.40:570][589]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2021.04.13-22.00.00:105][214]LogMaterial: Display: Missing cached shader map for material SoulMat2, compiling. 
+[2021.04.13-22.00.00:134][215]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2021.04.13-22.00.00:134][215]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.04.13-22.00.00:134][215]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2021.04.13-22.00.00:134][215]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.04.13-22.00.00:134][215]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.04.13-22.00.00:134][215]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2021.04.13-22.00.10:935][817]LogMaterial: Display: Missing cached shader map for material SoulMat3, compiling. 
+[2021.04.13-22.00.10:947][818]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2021.04.13-22.00.10:947][818]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.04.13-22.00.10:947][818]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2021.04.13-22.00.10:947][818]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.04.13-22.00.10:947][818]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.04.13-22.00.10:947][818]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2021.04.13-22.00.12:150][877]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/CustomMaterials/SoulMat2.SoulMat2
+[2021.04.13-22.00.12:153][877]LogMaterial: Display: Missing cached shader map for material SoulMat2, compiling. 
+[2021.04.13-22.00.12:161][877]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2021.04.13-22.00.12:161][877]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 8
+[2021.04.13-22.00.12:161][877]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 7
+[2021.04.13-22.00.12:293][877]LogMaterial: Display: Missing cached shader map for material SoulMat2, compiling. 
+[2021.04.13-22.00.12:304][877]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 9
+[2021.04.13-22.00.12:306][877]LogMaterial: Display: Missing cached shader map for material SoulMat2, compiling. 
+[2021.04.13-22.00.12:329][877]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.04.13-22.00.12:468][878]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2021.04.13-22.00.12:654][887]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2021.04.13-22.00.12:689][888]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2021.04.13-22.00.12:689][888]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2021.04.13-22.00.13:108][912]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 9
+[2021.04.13-22.00.13:388][929]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2021.04.13-22.00.13:388][929]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2021.04.13-22.00.13:407][930]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2021.04.13-22.00.13:541][938]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2021.04.13-22.00.13:687][946]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2021.04.13-22.00.13:705][947]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2021.04.13-22.00.13:873][957]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2021.04.13-22.00.14:091][969]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2021.04.13-22.00.14:549][996]MaterialEditorStats: Base pass shader: 118 instructions
+[2021.04.13-22.00.14:549][996]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2021.04.13-22.00.14:549][996]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.04.13-22.00.14:549][996]MaterialEditorStats: Texture samplers: 2/16
+[2021.04.13-22.00.21:102][381]LogMaterial: Display: Missing cached shader map for material SoulMat2, compiling. 
+[2021.04.13-22.00.21:117][381]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.04.13-22.00.21:117][381]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.04.13-22.00.21:117][381]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.04.13-22.00.21:117][381]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.04.13-22.00.21:117][381]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.04.13-22.00.21:117][381]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.04.13-22.00.21:117][381]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.04.13-22.00.21:117][381]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.04.13-22.00.21:117][381]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.04.13-22.00.21:132][381]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.04.13-22.00.21:140][381]LogMaterial: Display: Missing cached shader map for material SoulMat2, compiling. 
+[2021.04.13-22.00.21:155][381]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.04.13-22.00.21:164][381]LogMaterial: Display: Missing cached shader map for material SoulMat2, compiling. 
+[2021.04.13-22.00.21:174][381]LogSlate: Window 'Color Picker' being destroyed
+[2021.04.13-22.00.21:873][423]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2021.04.13-22.00.21:873][423]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 12
+[2021.04.13-22.00.22:122][438]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2021.04.13-22.00.22:256][446]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2021.04.13-22.00.22:289][448]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2021.04.13-22.00.22:338][451]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 8
+[2021.04.13-22.00.22:370][453]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 7
+[2021.04.13-22.00.22:387][454]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2021.04.13-22.00.22:522][462]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2021.04.13-22.00.22:658][470]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2021.04.13-22.00.22:979][489]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2021.04.13-22.00.23:014][491]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2021.04.13-22.00.23:078][495]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2021.04.13-22.00.23:786][537]MaterialEditorStats: Base pass shader: 118 instructions
+[2021.04.13-22.00.23:786][537]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2021.04.13-22.00.23:786][537]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.04.13-22.00.23:786][537]MaterialEditorStats: Texture samplers: 2/16
+[2021.04.13-22.00.26:952][726]LogMaterialEditor: Saving and Compiling material SoulMat2
+[2021.04.13-22.00.27:434][726]LogMaterial: Display: Missing cached shader map for material SoulMat2, compiling. 
+[2021.04.13-22.00.27:481][726]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.04.13-22.00.27:482][726]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.04.13-22.00.27:482][726]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.04.13-22.00.27:482][726]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.04.13-22.00.27:482][726]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.04.13-22.00.27:482][726]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.04.13-22.00.27:482][726]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.04.13-22.00.27:482][726]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.04.13-22.00.27:491][726]LogMaterial: Display: Missing cached shader map for material SoulMat2, compiling. 
+[2021.04.13-22.00.27:552][726]LogUObjectHash: Compacting FUObjectHashTables data took   6.02ms
+[2021.04.13-22.00.27:562][726]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.13-22.00.28:129][726]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 15
+[2021.04.13-22.00.28:129][726]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 14
+[2021.04.13-22.00.28:566][726]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2021.04.13-22.00.28:566][726]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2021.04.13-22.00.28:566][726]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2021.04.13-22.00.28:566][726]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.04.13-22.00.28:566][726]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2021.04.13-22.00.28:566][726]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2021.04.13-22.00.28:566][726]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.04.13-22.00.28:566][726]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2021.04.13-22.00.28:566][726]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2021.04.13-22.00.28:568][726]TextureStreamingBuild: Display: Compiling optional shaders took 1.015 seconds.
+[2021.04.13-22.00.28:620][726]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2021.04.13-22.00.29:246][726]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.04.13-22.00.29:535][726]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CustomMaterials/SoulMat2" FILE="../../../../OneDrive/Documents/GitHub/Game250Project/Project/Content/CustomMaterials/SoulMat2.uasset" SILENT=true
+[2021.04.13-22.00.29:541][726]LogSavePackage: Moving '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Saved/SoulMat23CAB8AFD499ED067DA867A99A61E7781.tmp' to '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Content/CustomMaterials/SoulMat2.uasset'
+[2021.04.13-22.00.29:573][726]AssetCheck: New page: Asset Save: SoulMat2
+[2021.04.13-22.00.29:573][726]LogContentValidation: Display: Validating Material /Game/CustomMaterials/SoulMat2.SoulMat2
+[2021.04.13-22.00.29:574][726]MaterialEditorStats: Base pass shader: 118 instructions
+[2021.04.13-22.00.29:574][726]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2021.04.13-22.00.29:574][726]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.04.13-22.00.29:574][726]MaterialEditorStats: Texture samplers: 3/16
+[2021.04.13-22.00.34:136][995]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/CustomMaterials/SoulMat3.SoulMat3
+[2021.04.13-22.00.34:138][995]LogMaterial: Display: Missing cached shader map for material SoulMat3, compiling. 
+[2021.04.13-22.00.34:209][995]LogMaterial: Display: Missing cached shader map for material SoulMat3, compiling. 
+[2021.04.13-22.00.34:215][995]LogMaterial: Display: Missing cached shader map for material SoulMat3, compiling. 
+[2021.04.13-22.00.34:227][995]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.04.13-22.00.34:227][995]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.04.13-22.00.34:227][995]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.04.13-22.00.34:227][995]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.04.13-22.00.34:227][995]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.04.13-22.00.34:227][995]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.04.13-22.00.34:227][995]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.04.13-22.00.34:227][995]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.04.13-22.00.34:227][995]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.04.13-22.00.34:971][ 33]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2021.04.13-22.00.34:971][ 33]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.04.13-22.00.35:249][ 48]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.04.13-22.00.35:366][ 55]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.04.13-22.00.35:466][ 61]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2021.04.13-22.00.35:620][ 70]MaterialEditorStats: Base pass shader: 118 instructions
+[2021.04.13-22.00.35:620][ 70]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2021.04.13-22.00.35:620][ 70]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.04.13-22.00.35:620][ 70]MaterialEditorStats: Texture samplers: 2/16
+[2021.04.13-22.00.47:182][760]LogMaterial: Display: Missing cached shader map for material SoulMat3, compiling. 
+[2021.04.13-22.00.47:191][760]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.04.13-22.00.47:191][760]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.04.13-22.00.47:191][760]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.04.13-22.00.47:191][760]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.04.13-22.00.47:191][760]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.04.13-22.00.47:191][760]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.04.13-22.00.47:191][760]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.04.13-22.00.47:191][760]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.04.13-22.00.47:198][760]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.04.13-22.00.47:214][760]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.04.13-22.00.47:223][760]LogMaterial: Display: Missing cached shader map for material SoulMat3, compiling. 
+[2021.04.13-22.00.47:238][760]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.04.13-22.00.47:245][760]LogMaterial: Display: Missing cached shader map for material SoulMat3, compiling. 
+[2021.04.13-22.00.47:255][760]LogSlate: Window 'Color Picker' being destroyed
+[2021.04.13-22.00.47:984][800]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2021.04.13-22.00.47:984][800]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2021.04.13-22.00.48:253][816]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2021.04.13-22.00.48:427][826]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2021.04.13-22.00.48:443][827]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2021.04.13-22.00.48:443][827]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 8
+[2021.04.13-22.00.48:490][830]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 7
+[2021.04.13-22.00.48:542][833]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2021.04.13-22.00.48:659][840]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2021.04.13-22.00.48:795][848]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.04.13-22.00.49:127][868]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2021.04.13-22.00.49:146][869]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2021.04.13-22.00.49:211][873]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2021.04.13-22.00.49:915][915]MaterialEditorStats: Base pass shader: 118 instructions
+[2021.04.13-22.00.49:915][915]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2021.04.13-22.00.49:915][915]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.04.13-22.00.49:915][915]MaterialEditorStats: Texture samplers: 2/16
+[2021.04.13-22.00.52:375][ 61]LogMaterialEditor: Saving and Compiling material SoulMat3
+[2021.04.13-22.00.52:870][ 61]LogMaterial: Display: Missing cached shader map for material SoulMat3, compiling. 
+[2021.04.13-22.00.52:893][ 61]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.04.13-22.00.52:893][ 61]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.04.13-22.00.52:894][ 61]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.04.13-22.00.52:894][ 61]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.04.13-22.00.52:894][ 61]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.04.13-22.00.52:894][ 61]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.04.13-22.00.52:894][ 61]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.04.13-22.00.52:894][ 61]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.04.13-22.00.52:933][ 61]LogMaterial: Display: Missing cached shader map for material SoulMat3, compiling. 
+[2021.04.13-22.00.53:000][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2021.04.13-22.00.53:010][ 61]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.13-22.00.53:576][ 61]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 15
+[2021.04.13-22.00.53:576][ 61]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 14
+[2021.04.13-22.00.54:059][ 61]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2021.04.13-22.00.54:059][ 61]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 12
+[2021.04.13-22.00.54:059][ 61]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 10
+[2021.04.13-22.00.54:059][ 61]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2021.04.13-22.00.54:059][ 61]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2021.04.13-22.00.54:059][ 61]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2021.04.13-22.00.54:059][ 61]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.04.13-22.00.54:060][ 61]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2021.04.13-22.00.54:060][ 61]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2021.04.13-22.00.54:061][ 61]TextureStreamingBuild: Display: Compiling optional shaders took 1.060 seconds.
+[2021.04.13-22.00.54:112][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2021.04.13-22.00.54:737][ 61]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.04.13-22.00.55:094][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CustomMaterials/SoulMat3" FILE="../../../../OneDrive/Documents/GitHub/Game250Project/Project/Content/CustomMaterials/SoulMat3.uasset" SILENT=true
+[2021.04.13-22.00.55:100][ 61]LogSavePackage: Moving '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Saved/SoulMat3AA7BD8494731337625FB2D9C3B19417E.tmp' to '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Content/CustomMaterials/SoulMat3.uasset'
+[2021.04.13-22.00.55:130][ 61]AssetCheck: New page: Asset Save: SoulMat3
+[2021.04.13-22.00.55:130][ 61]LogContentValidation: Display: Validating Material /Game/CustomMaterials/SoulMat3.SoulMat3
+[2021.04.13-22.00.55:131][ 61]MaterialEditorStats: Base pass shader: 118 instructions
+[2021.04.13-22.00.55:131][ 61]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2021.04.13-22.00.55:131][ 61]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.04.13-22.00.55:131][ 61]MaterialEditorStats: Texture samplers: 3/16
+[2021.04.13-22.00.57:575][197]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.04.13-22.00.57:621][197]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/HookPoint" FILE="../../../../OneDrive/Documents/GitHub/Game250Project/Project/Content/ThirdPersonBP/Blueprints/HookPoint.uasset" SILENT=true
+[2021.04.13-22.00.57:667][197]LogSavePackage: Moving '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Saved/HookPoint0455F48A4D629D15765739AF77727625.tmp' to '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Content/ThirdPersonBP/Blueprints/HookPoint.uasset'
+[2021.04.13-22.00.57:681][197]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/SoulBase" FILE="../../../../OneDrive/Documents/GitHub/Game250Project/Project/Content/ThirdPersonBP/Blueprints/SoulBase.uasset" SILENT=true
+[2021.04.13-22.00.57:695][197]LogSavePackage: Moving '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Saved/SoulBaseD9D8A17643881F50A0251CAD27A1D1F4.tmp' to '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Content/ThirdPersonBP/Blueprints/SoulBase.uasset'
+[2021.04.13-22.00.57:721][197]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Soul1" FILE="../../../../OneDrive/Documents/GitHub/Game250Project/Project/Content/ThirdPersonBP/Blueprints/Soul1.uasset" SILENT=true
+[2021.04.13-22.00.57:750][197]LogSavePackage: Moving '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Saved/Soul1835B50184F8702266BBBE8916B50E457.tmp' to '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Content/ThirdPersonBP/Blueprints/Soul1.uasset'
+[2021.04.13-22.00.57:778][197]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Soul2" FILE="../../../../OneDrive/Documents/GitHub/Game250Project/Project/Content/ThirdPersonBP/Blueprints/Soul2.uasset" SILENT=true
+[2021.04.13-22.00.57:805][197]LogSavePackage: Moving '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Saved/Soul20A49E5C145866B1B5A40648D09FB96A9.tmp' to '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Content/ThirdPersonBP/Blueprints/Soul2.uasset'
+[2021.04.13-22.00.57:825][197]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Soul3" FILE="../../../../OneDrive/Documents/GitHub/Game250Project/Project/Content/ThirdPersonBP/Blueprints/Soul3.uasset" SILENT=true
+[2021.04.13-22.00.57:845][197]LogSavePackage: Moving '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Saved/Soul34D66B5524B75EA41086618BAECB43D97.tmp' to '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Content/ThirdPersonBP/Blueprints/Soul3.uasset'
+[2021.04.13-22.00.57:872][197]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.13-22.00.57:872][197]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/HookPoint.HookPoint
+[2021.04.13-22.00.57:873][197]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Soul3.Soul3
+[2021.04.13-22.00.57:873][197]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Soul2.Soul2
+[2021.04.13-22.00.57:873][197]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Soul1.Soul1
+[2021.04.13-22.00.57:873][197]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/SoulBase.SoulBase
+[2021.04.13-22.01.15:603][243]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Soul1.Soul1
+[2021.04.13-22.01.22:934][644]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-22.01.22:934][644]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-22.01.27:198][878]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Soul2.Soul2
+[2021.04.13-22.01.37:911][478]BlueprintLog: New page: Compile Soul2
+[2021.04.13-22.01.38:135][478]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2021.04.13-22.01.38:651][505]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Soul2" FILE="../../../../OneDrive/Documents/GitHub/Game250Project/Project/Content/ThirdPersonBP/Blueprints/Soul2.uasset" SILENT=true
+[2021.04.13-22.01.38:665][505]LogSavePackage: Moving '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Saved/Soul218BCE10045D10B3B13AFD3A50182BB9C.tmp' to '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Content/ThirdPersonBP/Blueprints/Soul2.uasset'
+[2021.04.13-22.01.38:681][505]AssetCheck: New page: Asset Save: Soul2
+[2021.04.13-22.01.38:681][505]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Soul2.Soul2
+[2021.04.13-22.01.40:644][620]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Soul3.Soul3
+[2021.04.13-22.01.51:453][237]BlueprintLog: New page: Compile Soul3
+[2021.04.13-22.01.51:501][237]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2021.04.13-22.01.53:148][331]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Soul3" FILE="../../../../OneDrive/Documents/GitHub/Game250Project/Project/Content/ThirdPersonBP/Blueprints/Soul3.uasset" SILENT=true
+[2021.04.13-22.01.53:158][331]LogSavePackage: Moving '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Saved/Soul381143C42424F346A6017628A6BC65871.tmp' to '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Content/ThirdPersonBP/Blueprints/Soul3.uasset'
+[2021.04.13-22.01.53:172][331]AssetCheck: New page: Asset Save: Soul3
+[2021.04.13-22.01.53:172][331]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Soul3.Soul3
+[2021.04.13-22.02.05:802][ 86]BlueprintLog: New page: Compile SoulBase
+[2021.04.13-22.02.05:857][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2021.04.13-22.02.26:046][269]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Soul1.Soul1
+[2021.04.13-22.02.38:738][  1]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-22.02.38:738][  1]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-22.02.38:807][  1]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Soul1.Soul1
+[2021.04.13-22.03.11:429][876]BlueprintLog: New page: Compile Soul2
+[2021.04.13-22.03.11:484][876]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2021.04.13-22.03.15:659][119]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2021.04.13-22.03.15:687][119]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/SoulBase" FILE="../../../../OneDrive/Documents/GitHub/Game250Project/Project/Content/ThirdPersonBP/Blueprints/SoulBase.uasset" SILENT=true
+[2021.04.13-22.03.15:696][119]LogSavePackage: Moving '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Saved/SoulBaseB3060AB94035DE68790D0B8D31EBC08D.tmp' to '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Content/ThirdPersonBP/Blueprints/SoulBase.uasset'
+[2021.04.13-22.03.15:697][119]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Soul1" FILE="../../../../OneDrive/Documents/GitHub/Game250Project/Project/Content/ThirdPersonBP/Blueprints/Soul1.uasset" SILENT=true
+[2021.04.13-22.03.15:705][119]LogSavePackage: Moving '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Saved/Soul123D97E444EC3E9ED5DBCF0BD849C36FF.tmp' to '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Content/ThirdPersonBP/Blueprints/Soul1.uasset'
+[2021.04.13-22.03.15:714][119]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Soul2" FILE="../../../../OneDrive/Documents/GitHub/Game250Project/Project/Content/ThirdPersonBP/Blueprints/Soul2.uasset" SILENT=true
+[2021.04.13-22.03.15:724][119]LogSavePackage: Moving '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Saved/Soul26196498A451E8D8BA25425A373DDAB51.tmp' to '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Content/ThirdPersonBP/Blueprints/Soul2.uasset'
+[2021.04.13-22.03.15:734][119]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Soul3" FILE="../../../../OneDrive/Documents/GitHub/Game250Project/Project/Content/ThirdPersonBP/Blueprints/Soul3.uasset" SILENT=true
+[2021.04.13-22.03.15:742][119]LogSavePackage: Moving '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Saved/Soul304B2733841617C7E09DF33A59AFB537B.tmp' to '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Content/ThirdPersonBP/Blueprints/Soul3.uasset'
+[2021.04.13-22.03.15:752][119]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.13-22.03.15:752][119]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Soul3.Soul3
+[2021.04.13-22.03.15:752][119]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Soul2.Soul2
+[2021.04.13-22.03.15:752][119]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Soul1.Soul1
+[2021.04.13-22.03.15:752][119]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/SoulBase.SoulBase
+[2021.04.13-22.03.49:766][124]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-22.03.49:766][124]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-22.03.51:229][200]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-22.03.51:229][200]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-22.03.54:107][369]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-22.03.54:107][369]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-22.03.55:712][462]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-22.03.55:712][462]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-22.03.58:127][603]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.04.13-22.03.58:127][603]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-22.03.58:127][603]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-22.03.58:876][645]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.04.13-22.03.58:876][645]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-22.03.58:876][645]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-22.03.59:402][674]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.04.13-22.03.59:402][674]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-22.03.59:402][674]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-22.19.28:704][268]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.13-22.19.28:914][268]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.04.13-22.19.28:915][268]LogPlayLevel: [PlayLevel] Compiling HookPoint before play...
+[2021.04.13-22.19.28:984][268]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2021.04.13-22.19.28:997][268]LogPlayLevel: PlayLevel: Blueprint regeneration took 82 ms (1 blueprints)
+[2021.04.13-22.19.29:032][268]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 13, 2021, 2:19:29 PM)
+[2021.04.13-22.19.29:241][268]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.04.13-22.19.29:270][268]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.04.13-22.19.29:287][268]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.04.13-22.19.29:736][268]LogPlayLevel: PIE: StaticDuplicateObject took: (0.448413s)
+[2021.04.13-22.19.29:758][268]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.04.13-22.19.29:873][268]LogPlayLevel: PIE: World Init took: (0.136583s)
+[2021.04.13-22.19.29:885][268]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.586096s)
+[2021.04.13-22.19.29:926][268]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2021.04.13-22.19.29:927][268]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.04.13-22.19.29:964][268]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.13-22.19.29:964][268]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.13-22.19.29:964][268]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.13-22.19.29:964][268]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.13-22.19.29:964][268]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.13-22.19.29:964][268]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.13-22.19.29:964][268]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.13-22.19.29:973][268]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.13-22.19.30:005][268]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.13-22.19.30:005][268]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.13-22.19.30:138][268]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.13-22.19.30:138][268]LogAudioMixer: Display: 1: FrontRight
+[2021.04.13-22.19.30:138][268]LogAudioMixer: Display: 2: FrontCenter
+[2021.04.13-22.19.30:138][268]LogAudioMixer: Display: 3: LowFrequency
+[2021.04.13-22.19.30:138][268]LogAudioMixer: Display: 4: BackLeft
+[2021.04.13-22.19.30:138][268]LogAudioMixer: Display: 5: BackRight
+[2021.04.13-22.19.30:138][268]LogAudioMixer: Display: 6: SideLeft
+[2021.04.13-22.19.30:138][268]LogAudioMixer: Display: 7: SideRight
+[2021.04.13-22.19.30:216][268]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.04.13-22.19.30:216][268]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.13-22.19.30:216][268]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.13-22.19.30:216][268]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.13-22.19.30:217][268]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.13-22.19.30:217][268]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.13-22.19.30:217][268]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.04.13-22.19.30:239][268]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.13-22.19.30:239][268]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.13-22.19.30:239][268]LogInit: FAudioDevice initialized.
+[2021.04.13-22.19.30:239][268]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonExampleMap'.
+[2021.04.13-22.19.30:461][268]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.13-22.19.31:038][268]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.04.13-18.19.31
+[2021.04.13-22.19.31:040][268]LogWorld: Bringing up level for play took: 0.309928
+[2021.04.13-22.19.31:086][268]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2021.04.13-22.19.31:558][268]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0017 seconds. Added 20 classes and 0 folders.
+[2021.04.13-22.19.31:646][268]PIE: Server logged in
+[2021.04.13-22.19.31:718][268]PIE: Play in editor total start time 2.948 seconds.
+[2021.04.13-22.19.32:593][269]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.099249 > MaxSimulationTimeStep (0.050) for 'ThirdPersonCharacter_167', movement 'Walking'
+[2021.04.13-22.20.00:583][900]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.13-22.20.00:584][900]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.04.13-22.20.00:627][900]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-22.20.00:651][900]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-22.20.00:709][900]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.13-22.20.00:739][900]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-22.20.00:778][900]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.13-22.20.00:813][900]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.13-22.20.00:831][900]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.13-22.20.01:129][900]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2021.04.13-22.20.01:172][901]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2021.04.13-22.20.04:400][ 89]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/SoulBase.SoulBase
+[2021.04.13-22.20.33:703][429]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2021.04.13-22.20.33:990][429]LogSavePackage: Moving '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Saved/ThirdPersonExampleMap_Auto141B2C89441133B547A8A63977D6EFA80.tmp' to '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2021.04.13-22.20.33:993][429]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.371
+[2021.04.13-22.20.33:993][429]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.371
+[2021.04.13-22.30.59:549][824]BlueprintLog: New page: Compile SoulBase
+[2021.04.13-22.30.59:818][824]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2021.04.13-22.31.42:014][814]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SButton [STimelineEditor.cpp(999)].
+[2021.04.13-22.31.42:055][814]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2021.04.13-22.31.42:196][814]LogSavePackage: Moving '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Saved/ThirdPersonExampleMap_Auto28F09ED324CFECC8C7F37148E095387ED.tmp' to '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2021.04.13-22.31.42:198][814]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.172
+[2021.04.13-22.31.42:198][814]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.172
+[2021.04.13-22.31.42:199][814]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/SoulBase] ([1] browsable assets)...
+[2021.04.13-22.31.42:225][814]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/SoulBase.SoulBase]
+[2021.04.13-22.31.42:225][814]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/SoulBase]
+[2021.04.13-22.31.42:559][814]LogSavePackage: Moving '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Saved/SoulBase_Auto2E39B4D2A4CA6822DDD6B3AB44686B7CA.tmp' to '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/SoulBase_Auto2.uasset'
+[2021.04.13-22.31.42:577][814]LogFileHelpers: Auto-saving content packages took 0.379
+[2021.04.13-22.31.46:665][ 55]LogEditorTransaction: Undo Add new track
+[2021.04.13-22.31.46:707][ 55]LogMaterial: Display: Missing cached shader map for material HookMaterial, compiling. 
+[2021.04.13-22.31.46:751][ 55]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.04.13-22.31.46:751][ 55]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.04.13-22.31.46:751][ 55]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.04.13-22.31.46:751][ 55]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.04.13-22.31.46:751][ 55]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.04.13-22.31.46:751][ 55]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.04.13-22.31.46:751][ 55]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.04.13-22.31.46:751][ 55]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.04.13-22.31.50:869][289]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.04.13-22.31.51:296][305]MaterialEditorStats: Base pass shader: 119 instructions
+[2021.04.13-22.31.51:296][305]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2021.04.13-22.31.51:296][305]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.04.13-22.31.51:296][305]MaterialEditorStats: Texture samplers: 2/16
+[2021.04.13-22.32.40:962][735]LogCurveEditor: Warning: A key on CurveFloat_1 could not be moved because there was already a key at that time.
+[2021.04.13-22.33.11:072][510]BlueprintLog: New page: Compile SoulBase
+[2021.04.13-22.33.11:244][510]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2021.04.13-22.36.22:280][383]BlueprintLog: New page: Compile SoulBase
+[2021.04.13-22.36.22:338][383]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2021.04.13-22.36.41:369][711]BlueprintLog: New page: Compile SoulBase
+[2021.04.13-22.36.41:428][711]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2021.04.13-22.37.02:602][ 34]LogEditorViewport: Clicking on Actor (LMB): Soul1_C (Soul1)
+[2021.04.13-22.37.18:930][  1]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2021.04.13-22.37.19:240][  1]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.04.13-22.37.19:382][  1]LogSavePackage: Moving '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Saved/ThirdPersonExampleMapDC4B357742885437BB60FE8EFCCCE963.tmp' to '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.04.13-22.37.19:515][  1]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.431
+[2021.04.13-22.37.19:547][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/SoulBase" FILE="../../../../OneDrive/Documents/GitHub/Game250Project/Project/Content/ThirdPersonBP/Blueprints/SoulBase.uasset" SILENT=true
+[2021.04.13-22.37.19:645][  1]LogSavePackage: Moving '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Saved/SoulBase144CD1B943E9EE54E5FFD7977C8560E7.tmp' to '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Content/ThirdPersonBP/Blueprints/SoulBase.uasset'
+[2021.04.13-22.37.19:660][  1]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.13-22.37.19:660][  1]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.04.13-22.37.19:660][  1]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/SoulBase.SoulBase
+[2021.04.13-22.37.23:570][232]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.13-22.37.23:578][232]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.13-22.37.23:578][232]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 13, 2021, 2:37:23 PM)
+[2021.04.13-22.37.23:604][232]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.04.13-22.37.23:694][232]LogPlayLevel: PIE: StaticDuplicateObject took: (0.090622s)
+[2021.04.13-22.37.23:695][232]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.04.13-22.37.23:695][232]LogPlayLevel: PIE: World Init took: (0.000988s)
+[2021.04.13-22.37.23:695][232]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.091869s)
+[2021.04.13-22.37.23:756][232]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2021.04.13-22.37.23:758][232]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.04.13-22.37.23:758][232]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.13-22.37.23:758][232]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.13-22.37.23:758][232]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.13-22.37.23:758][232]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.13-22.37.23:758][232]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.13-22.37.23:758][232]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.13-22.37.23:758][232]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.13-22.37.23:758][232]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.13-22.37.23:758][232]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.13-22.37.23:758][232]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.13-22.37.23:822][232]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.13-22.37.23:822][232]LogAudioMixer: Display: 1: FrontRight
+[2021.04.13-22.37.23:822][232]LogAudioMixer: Display: 2: FrontCenter
+[2021.04.13-22.37.23:822][232]LogAudioMixer: Display: 3: LowFrequency
+[2021.04.13-22.37.23:822][232]LogAudioMixer: Display: 4: BackLeft
+[2021.04.13-22.37.23:822][232]LogAudioMixer: Display: 5: BackRight
+[2021.04.13-22.37.23:822][232]LogAudioMixer: Display: 6: SideLeft
+[2021.04.13-22.37.23:822][232]LogAudioMixer: Display: 7: SideRight
+[2021.04.13-22.37.23:857][232]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.04.13-22.37.23:857][232]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.13-22.37.23:857][232]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.13-22.37.23:857][232]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.13-22.37.23:858][232]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.13-22.37.23:858][232]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.13-22.37.23:858][232]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.04.13-22.37.23:871][232]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.13-22.37.23:871][232]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.13-22.37.23:871][232]LogInit: FAudioDevice initialized.
+[2021.04.13-22.37.23:871][232]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonExampleMap'.
+[2021.04.13-22.37.23:931][232]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.13-22.37.23:935][232]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.04.13-18.37.23
+[2021.04.13-22.37.23:935][232]LogWorld: Bringing up level for play took: 0.003363
+[2021.04.13-22.37.23:957][232]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2021.04.13-22.37.23:986][232]PIE: Server logged in
+[2021.04.13-22.37.23:987][232]PIE: Play in editor total start time 0.412 seconds.
+[2021.04.13-22.37.23:995][233]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.099250 > MaxSimulationTimeStep (0.050) for 'ThirdPersonCharacter_167', movement 'Walking'
+[2021.04.13-22.37.53:827][  8]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.13-22.37.53:827][  8]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.04.13-22.37.53:827][  8]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-22.37.53:828][  8]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-22.37.53:833][  8]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.13-22.37.53:843][  8]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-22.37.53:868][  8]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.13-22.37.53:868][  8]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.13-22.37.53:869][  8]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.13-22.37.53:916][  8]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.13-22.37.53:920][  8]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2021.04.13-22.37.53:949][  9]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2021.04.13-22.38.18:305][463]BlueprintLog: New page: Compile SoulBase
+[2021.04.13-22.38.18:359][463]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2021.04.13-22.38.20:819][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/SoulBase" FILE="../../../../OneDrive/Documents/GitHub/Game250Project/Project/Content/ThirdPersonBP/Blueprints/SoulBase.uasset" SILENT=true
+[2021.04.13-22.38.20:831][604]LogSavePackage: Moving '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Saved/SoulBaseA9C2065B49D1174BC08FCFA851D19FEF.tmp' to '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Content/ThirdPersonBP/Blueprints/SoulBase.uasset'
+[2021.04.13-22.38.20:843][604]AssetCheck: New page: Asset Save: SoulBase
+[2021.04.13-22.38.20:843][604]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/SoulBase.SoulBase
+[2021.04.13-22.38.22:814][722]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.13-22.38.22:821][722]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.13-22.38.22:821][722]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 13, 2021, 2:38:22 PM)
+[2021.04.13-22.38.22:821][722]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.04.13-22.38.22:855][722]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033760s)
+[2021.04.13-22.38.22:856][722]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.04.13-22.38.22:857][722]LogPlayLevel: PIE: World Init took: (0.001205s)
+[2021.04.13-22.38.22:857][722]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.035120s)
+[2021.04.13-22.38.22:886][722]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2021.04.13-22.38.22:888][722]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.04.13-22.38.22:888][722]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.13-22.38.22:888][722]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.13-22.38.22:888][722]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.13-22.38.22:888][722]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.13-22.38.22:888][722]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.13-22.38.22:888][722]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.13-22.38.22:888][722]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.13-22.38.22:888][722]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.13-22.38.22:889][722]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.13-22.38.22:889][722]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.13-22.38.22:893][722]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.13-22.38.22:893][722]LogAudioMixer: Display: 1: FrontRight
+[2021.04.13-22.38.22:893][722]LogAudioMixer: Display: 2: FrontCenter
+[2021.04.13-22.38.22:893][722]LogAudioMixer: Display: 3: LowFrequency
+[2021.04.13-22.38.22:893][722]LogAudioMixer: Display: 4: BackLeft
+[2021.04.13-22.38.22:893][722]LogAudioMixer: Display: 5: BackRight
+[2021.04.13-22.38.22:893][722]LogAudioMixer: Display: 6: SideLeft
+[2021.04.13-22.38.22:893][722]LogAudioMixer: Display: 7: SideRight
+[2021.04.13-22.38.22:927][722]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.04.13-22.38.22:927][722]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.13-22.38.22:927][722]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.13-22.38.22:927][722]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.13-22.38.22:927][722]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.13-22.38.22:928][722]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.13-22.38.22:928][722]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.04.13-22.38.22:941][722]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.13-22.38.22:941][722]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.13-22.38.22:941][722]LogInit: FAudioDevice initialized.
+[2021.04.13-22.38.22:941][722]LogAudio: Display: Audio Device (ID: 4) registered with world 'ThirdPersonExampleMap'.
+[2021.04.13-22.38.22:951][722]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.13-22.38.22:955][722]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.04.13-18.38.22
+[2021.04.13-22.38.22:955][722]LogWorld: Bringing up level for play took: 0.003250
+[2021.04.13-22.38.22:956][722]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2021.04.13-22.38.22:958][722]PIE: Server logged in
+[2021.04.13-22.38.22:958][722]PIE: Play in editor total start time 0.139 seconds.
+[2021.04.13-22.39.40:638][372]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.13-22.39.40:638][372]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.04.13-22.39.40:638][372]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-22.39.40:639][372]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-22.39.40:646][372]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.13-22.39.40:657][372]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-22.39.40:683][372]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.13-22.39.40:684][372]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.13-22.39.40:685][372]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.13-22.39.40:725][372]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2021.04.13-22.39.40:754][373]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2021.04.13-22.40.30:674][764]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.13-22.40.30:682][764]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.13-22.40.30:683][764]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 13, 2021, 2:40:30 PM)
+[2021.04.13-22.40.30:683][764]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.04.13-22.40.30:718][764]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034763s)
+[2021.04.13-22.40.30:719][764]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.04.13-22.40.30:818][764]LogPlayLevel: PIE: World Init took: (0.100594s)
+[2021.04.13-22.40.30:819][764]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.135586s)
+[2021.04.13-22.40.30:876][764]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2021.04.13-22.40.30:878][764]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.04.13-22.40.30:878][764]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.13-22.40.30:878][764]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.13-22.40.30:878][764]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.13-22.40.30:878][764]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.13-22.40.30:878][764]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.13-22.40.30:878][764]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.13-22.40.30:878][764]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.13-22.40.30:878][764]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.13-22.40.30:879][764]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.13-22.40.30:879][764]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.13-22.40.30:883][764]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.13-22.40.30:884][764]LogAudioMixer: Display: 1: FrontRight
+[2021.04.13-22.40.30:884][764]LogAudioMixer: Display: 2: FrontCenter
+[2021.04.13-22.40.30:884][764]LogAudioMixer: Display: 3: LowFrequency
+[2021.04.13-22.40.30:884][764]LogAudioMixer: Display: 4: BackLeft
+[2021.04.13-22.40.30:884][764]LogAudioMixer: Display: 5: BackRight
+[2021.04.13-22.40.30:884][764]LogAudioMixer: Display: 6: SideLeft
+[2021.04.13-22.40.30:884][764]LogAudioMixer: Display: 7: SideRight
+[2021.04.13-22.40.30:916][764]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.04.13-22.40.30:916][764]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.13-22.40.30:916][764]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.13-22.40.30:916][764]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.13-22.40.30:917][764]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.13-22.40.30:917][764]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.13-22.40.30:917][764]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.04.13-22.40.30:931][764]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.13-22.40.30:931][764]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.13-22.40.30:931][764]LogInit: FAudioDevice initialized.
+[2021.04.13-22.40.30:931][764]LogAudio: Display: Audio Device (ID: 5) registered with world 'ThirdPersonExampleMap'.
+[2021.04.13-22.40.30:956][764]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.13-22.40.30:960][764]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.04.13-18.40.30
+[2021.04.13-22.40.30:960][764]LogWorld: Bringing up level for play took: 0.002894
+[2021.04.13-22.40.30:960][764]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2021.04.13-22.40.30:963][764]PIE: Server logged in
+[2021.04.13-22.40.30:964][764]PIE: Play in editor total start time 0.285 seconds.
+[2021.04.13-22.41.21:149][752]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.13-22.41.21:149][752]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.04.13-22.41.21:150][752]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-22.41.21:151][752]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-22.41.21:174][752]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.13-22.41.21:205][752]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-22.41.21:249][752]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.13-22.41.21:896][752]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.13-22.41.21:899][752]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.13-22.41.21:960][752]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.13-22.41.21:969][752]LogUObjectHash: Compacting FUObjectHashTables data took   6.07ms
+[2021.04.13-22.41.22:010][753]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2021.04.13-22.42.45:930][619]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.04.13-22.44.16:614][854]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.04.13-22.44.16:959][854]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2021.04.13-22.44.37:754][525]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.04.13-22.44.37:819][525]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2021.04.13-22.46.43:961][567]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.04.13-22.46.44:032][567]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2021.04.13-22.47.42:094][550]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.04.13-22.47.42:178][550]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2021.04.13-22.49.13:128][622]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.04.13-22.49.13:192][622]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2021.04.13-22.49.57:818][270]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2021.04.13-22.49.57:959][270]LogSavePackage: Moving '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Saved/ThirdPersonExampleMap_Auto3D6956FB045DB5A938957889607647640.tmp' to '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap'
+[2021.04.13-22.49.57:961][270]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.175
+[2021.04.13-22.49.57:962][270]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.175
+[2021.04.13-22.49.57:962][270]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2021.04.13-22.49.57:978][270]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2021.04.13-22.49.57:978][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2021.04.13-22.49.58:561][270]LogSavePackage: Moving '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Saved/ThirdPersonCharacter_Auto3747AAF4F4103CB412EE1BFB273811C02.tmp' to '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto3.uasset'
+[2021.04.13-22.49.58:563][270]LogFileHelpers: Auto-saving content packages took 0.601
+[2021.04.13-22.50.11:645][596]LogEditorTransaction: Undo Function Dropped on Graph
+[2021.04.13-22.50.11:670][596]LogMaterial: Display: Missing cached shader map for material HookMaterial, compiling. 
+[2021.04.13-22.50.11:711][596]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.04.13-22.50.11:711][596]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.04.13-22.50.11:711][596]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.04.13-22.50.11:712][596]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.04.13-22.50.11:712][596]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.04.13-22.50.11:712][596]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.04.13-22.50.11:712][596]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.04.13-22.50.11:712][596]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.04.13-22.50.14:181][716]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.04.13-22.50.14:633][743]MaterialEditorStats: Base pass shader: 119 instructions
+[2021.04.13-22.50.14:633][743]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2021.04.13-22.50.14:633][743]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.04.13-22.50.14:633][743]MaterialEditorStats: Texture samplers: 2/16
+[2021.04.13-22.52.01:055][721]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-22.52.01:055][721]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-22.54.35:616][918]LogEditorTransaction: Undo Move Node
+[2021.04.13-22.54.35:643][918]LogMaterial: Display: Missing cached shader map for material HookMaterial, compiling. 
+[2021.04.13-22.54.35:699][919]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.04.13-22.54.35:699][919]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.04.13-22.54.35:699][919]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.04.13-22.54.35:699][919]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.04.13-22.54.35:699][919]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.04.13-22.54.35:699][919]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.04.13-22.54.35:699][919]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.04.13-22.54.35:699][919]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.04.13-22.54.36:638][958]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.04.13-22.54.36:675][960]LogEditorTransaction: Undo Add Node
+[2021.04.13-22.54.36:713][960]LogMaterial: Display: Missing cached shader map for material HookMaterial, compiling. 
+[2021.04.13-22.54.36:721][960]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2021.04.13-22.54.36:905][968]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.04.13-22.54.36:984][973]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 7
+[2021.04.13-22.54.37:018][975]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.04.13-22.54.37:113][981]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.04.13-22.54.37:132][982]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.04.13-22.54.37:150][983]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2021.04.13-22.54.37:235][988]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2021.04.13-22.54.37:657][ 13]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2021.04.13-22.54.38:137][ 39]MaterialEditorStats: Base pass shader: 119 instructions
+[2021.04.13-22.54.38:137][ 39]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2021.04.13-22.54.38:137][ 39]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.04.13-22.54.38:137][ 39]MaterialEditorStats: Texture samplers: 2/16
+[2021.04.13-22.55.06:841][407]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.04.13-22.55.07:607][407]LogBlueprint: Error: [AssetLog] D:\OneDrive\Documents\GitHub\Game250Project\Project\Content\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: [Compiler] The current value of the ' Target Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2021.04.13-22.55.07:713][407]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2021.04.13-22.55.52:322][173]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.04.13-22.55.52:486][173]LogBlueprint: Error: [AssetLog] D:\OneDrive\Documents\GitHub\Game250Project\Project\Content\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: [Compiler] The type of  Array  is undetermined.  Connect something to  For Each Loop  to imply a specific type.
+[2021.04.13-22.55.52:486][173]LogBlueprint: Error: [AssetLog] D:\OneDrive\Documents\GitHub\Game250Project\Project\Content\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: [Compiler] The type of  Target Array generated from expanding For Each Loop  is undetermined.  Connect something to  Length generated from expanding For Each Loop  to imply a specific type.
+[2021.04.13-22.55.52:581][173]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2021.04.13-22.56.21:916][438]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.04.13-22.56.21:993][438]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2021.04.13-22.57.38:491][560]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.04.13-22.57.38:730][560]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2021.04.13-22.58.17:937][637]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.04.13-22.58.18:013][637]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2021.04.13-23.00.01:107][580]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2021.04.13-23.00.01:248][580]LogSavePackage: Moving '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Saved/ThirdPersonExampleMap_Auto4D5AF10D7436C3BF3183FD69EB3AC8DEE.tmp' to '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto4.umap'
+[2021.04.13-23.00.01:252][580]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.188
+[2021.04.13-23.00.01:252][580]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.188
+[2021.04.13-23.00.01:252][580]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2021.04.13-23.00.01:285][580]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2021.04.13-23.00.01:286][580]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2021.04.13-23.00.01:338][580]LogSavePackage: Moving '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Saved/ThirdPersonCharacter_Auto4A5FBE7AE4F302AE3B5B58481BA70AE7F.tmp' to '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto4.uasset'
+[2021.04.13-23.00.01:339][580]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/HookPoint] ([1] browsable assets)...
+[2021.04.13-23.00.01:365][580]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/HookPoint.HookPoint]
+[2021.04.13-23.00.01:365][580]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/HookPoint]
+[2021.04.13-23.00.01:375][580]LogSavePackage: Moving '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Saved/HookPoint_Auto4C4E1D9E64F1821A89BE33DACE5682500.tmp' to '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HookPoint_Auto4.uasset'
+[2021.04.13-23.00.01:375][580]LogFileHelpers: Auto-saving content packages took 0.123
+[2021.04.13-23.00.44:379][706]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.04.13-23.00.44:452][706]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2021.04.13-23.01.46:858][992]LogEditorTransaction: Undo Add Node
+[2021.04.13-23.01.46:880][992]LogMaterial: Display: Missing cached shader map for material HookMaterial, compiling. 
+[2021.04.13-23.01.46:942][993]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.04.13-23.01.46:942][993]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.04.13-23.01.46:942][993]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.04.13-23.01.46:942][993]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.04.13-23.01.46:942][993]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.04.13-23.01.46:942][993]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.04.13-23.01.46:942][993]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.04.13-23.01.46:942][993]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.04.13-23.01.47:809][ 28]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.04.13-23.01.48:320][ 56]MaterialEditorStats: Base pass shader: 119 instructions
+[2021.04.13-23.01.48:320][ 56]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2021.04.13-23.01.48:320][ 56]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.04.13-23.01.48:320][ 56]MaterialEditorStats: Texture samplers: 2/16
+[2021.04.13-23.02.12:916][575]LogRenderer: Reallocating scene render targets to support 1184x708 Format 10 NumSamples 1 (Frame:6440).
+[2021.04.13-23.02.39:256][362]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.04.13-23.02.39:337][362]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2021.04.13-23.02.40:698][438]LogUObjectHash: Compacting FUObjectHashTables data took   7.51ms
+[2021.04.13-23.02.40:778][438]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.04.13-23.02.40:963][438]LogSavePackage: Moving '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Saved/ThirdPersonExampleMap3077F2DE452695E8739A4CB6A059E64E.tmp' to '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.04.13-23.02.40:976][438]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.245
+[2021.04.13-23.02.41:058][438]LogSavePackage: Moving '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Saved/ThirdPersonCharacter28D5E0AB4D5D95448096A4AE112A7622.tmp' to '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.04.13-23.02.41:068][438]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/HookPoint" FILE="../../../../OneDrive/Documents/GitHub/Game250Project/Project/Content/ThirdPersonBP/Blueprints/HookPoint.uasset" SILENT=true
+[2021.04.13-23.02.41:073][438]LogSavePackage: Moving '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Saved/HookPointE18B6B3B4C16E7CD488660B56B9FC450.tmp' to '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Content/ThirdPersonBP/Blueprints/HookPoint.uasset'
+[2021.04.13-23.02.41:092][438]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.13-23.02.41:092][438]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.04.13-23.02.41:092][438]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/HookPoint.HookPoint
+[2021.04.13-23.02.41:092][438]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.04.13-23.04.26:006][ 72]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.04.13-23.04.26:072][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2021.04.13-23.13.33:602][831]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.04.13-23.13.34:291][831]LogUObjectHash: Compacting FUObjectHashTables data took   5.75ms
+[2021.04.13-23.13.43:343][349]LogSavePackage: Moving '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Saved/ThirdPersonCharacter195F633342F454953AB581BB29B143A2.tmp' to '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.04.13-23.13.44:045][349]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.04.13-23.13.44:045][349]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.04.13-23.14.11:787][206]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2021.04.13-23.14.12:069][206]LogSavePackage: Moving '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Saved/ThirdPersonExampleMap_Auto58D4882444230CBA15D239D8E9C00AB75.tmp' to '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.umap'
+[2021.04.13-23.14.12:072][206]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.323
+[2021.04.13-23.14.12:077][206]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.323
+[2021.04.13-23.14.12:085][206]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2021.04.13-23.14.12:101][206]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2021.04.13-23.14.12:101][206]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2021.04.13-23.14.12:162][206]LogSavePackage: Moving '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Saved/ThirdPersonCharacter_Auto54273870745819021B029D59C059B6F63.tmp' to '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto5.uasset'
+[2021.04.13-23.14.12:212][206]LogFileHelpers: Auto-saving content packages took 0.128
+[2021.04.13-23.14.17:835][537]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.04.13-23.14.17:901][537]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2021.04.13-23.14.34:101][ 16]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.04.13-23.14.34:174][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2021.04.13-23.14.49:230][510]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.04.13-23.14.49:298][510]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2021.04.13-23.15.58:589][ 60]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.04.13-23.15.58:656][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2021.04.13-23.16.15:980][419]LogEditorTransaction: Undo Add Node
+[2021.04.13-23.16.17:387][419]LogMaterial: Display: Missing cached shader map for material HookMaterial, compiling. 
+[2021.04.13-23.16.18:190][419]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.04.13-23.16.18:190][419]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.04.13-23.16.18:191][419]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.04.13-23.16.18:191][419]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.04.13-23.16.18:191][419]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.04.13-23.16.18:191][419]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.04.13-23.16.18:191][419]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.04.13-23.16.18:191][419]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.04.13-23.16.18:203][419]LogEditorTransaction: Undo Move Node
+[2021.04.13-23.16.18:220][419]LogMaterial: Display: Missing cached shader map for material HookMaterial, compiling. 
+[2021.04.13-23.16.20:229][500]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2021.04.13-23.16.20:297][504]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2021.04.13-23.16.20:429][512]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2021.04.13-23.16.20:478][515]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2021.04.13-23.16.20:580][521]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2021.04.13-23.16.20:714][529]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2021.04.13-23.16.20:733][530]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2021.04.13-23.16.20:733][530]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2021.04.13-23.16.21:018][543]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.04.13-23.16.22:029][572]MaterialEditorStats: Base pass shader: 119 instructions
+[2021.04.13-23.16.22:029][572]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2021.04.13-23.16.22:029][572]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.04.13-23.16.22:029][572]MaterialEditorStats: Texture samplers: 2/16
+[2021.04.13-23.19.23:556][ 43]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.04.13-23.19.23:631][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2021.04.13-23.20.39:589][410]LogEditorTransaction: Undo Rename Node
+[2021.04.13-23.20.39:781][410]LogMaterial: Display: Missing cached shader map for material HookMaterial, compiling. 
+[2021.04.13-23.20.39:943][410]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.04.13-23.20.39:943][410]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.04.13-23.20.39:943][410]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.04.13-23.20.39:943][410]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.04.13-23.20.39:943][410]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.04.13-23.20.39:943][410]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.04.13-23.20.39:943][410]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.04.13-23.20.39:943][410]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.04.13-23.20.40:738][442]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.04.13-23.20.41:281][469]MaterialEditorStats: Base pass shader: 119 instructions
+[2021.04.13-23.20.41:281][469]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2021.04.13-23.20.41:281][469]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.04.13-23.20.41:281][469]MaterialEditorStats: Texture samplers: 2/16
+[2021.04.13-23.22.51:552][943]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.04.13-23.22.52:101][943]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2021.04.13-23.22.53:662][ 11]LogSavePackage: Moving '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Saved/ThirdPersonCharacter6C534EA343F90EB3C0A0608A98953D00.tmp' to '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.04.13-23.22.53:677][ 11]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.04.13-23.22.53:677][ 11]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.04.13-23.23.10:781][604]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.04.13-23.23.10:885][604]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2021.04.13-23.23.21:371][816]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.04.13-23.23.21:440][816]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2021.04.13-23.24.01:126][704]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.04.13-23.24.01:200][704]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2021.04.13-23.24.25:800][948]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2021.04.13-23.24.26:005][948]LogSavePackage: Moving '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Saved/ThirdPersonExampleMap_Auto6DAD879BB4F4CC773AB1AD9BA5308298A.tmp' to '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto6.umap'
+[2021.04.13-23.24.26:015][948]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.242
+[2021.04.13-23.24.26:015][948]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.242
+[2021.04.13-23.24.26:016][948]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([2] browsable assets)...
+[2021.04.13-23.24.26:045][948]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2021.04.13-23.24.26:063][948]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2021.04.13-23.24.26:063][948]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2021.04.13-23.24.26:171][948]LogSavePackage: Moving '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Saved/ThirdPersonCharacter_Auto69C4B9FD347DB44472BC0E28E0302EE74.tmp' to '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto6.uasset'
+[2021.04.13-23.24.26:175][948]LogFileHelpers: Auto-saving content packages took 0.161
+[2021.04.13-23.24.29:446][141]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.13-23.24.29:694][141]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.04.13-23.24.29:706][141]LogPlayLevel: [PlayLevel] Compiling HookPoint before play...
+[2021.04.13-23.24.29:966][141]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2021.04.13-23.24.29:967][141]LogPlayLevel: PlayLevel: Blueprint regeneration took 274 ms (1 blueprints)
+[2021.04.13-23.24.30:097][141]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 13, 2021, 3:24:29 PM)
+[2021.04.13-23.24.30:187][141]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.04.13-23.24.30:856][141]LogPlayLevel: PIE: StaticDuplicateObject took: (0.660158s)
+[2021.04.13-23.24.31:634][141]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.04.13-23.24.31:730][141]LogPlayLevel: PIE: World Init took: (0.873565s)
+[2021.04.13-23.24.31:730][141]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (1.542620s)
+[2021.04.13-23.24.31:866][141]LogUObjectHash: Compacting FUObjectHashTables data took   9.99ms
+[2021.04.13-23.24.31:869][141]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.04.13-23.24.31:908][141]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.13-23.24.31:908][141]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.13-23.24.31:908][141]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.13-23.24.31:908][141]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.13-23.24.31:908][141]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.13-23.24.31:908][141]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.13-23.24.31:908][141]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.13-23.24.31:910][141]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.13-23.24.31:946][141]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.13-23.24.31:946][141]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.13-23.24.32:124][141]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.13-23.24.32:124][141]LogAudioMixer: Display: 1: FrontRight
+[2021.04.13-23.24.32:124][141]LogAudioMixer: Display: 2: FrontCenter
+[2021.04.13-23.24.32:124][141]LogAudioMixer: Display: 3: LowFrequency
+[2021.04.13-23.24.32:124][141]LogAudioMixer: Display: 4: BackLeft
+[2021.04.13-23.24.32:124][141]LogAudioMixer: Display: 5: BackRight
+[2021.04.13-23.24.32:124][141]LogAudioMixer: Display: 6: SideLeft
+[2021.04.13-23.24.32:124][141]LogAudioMixer: Display: 7: SideRight
+[2021.04.13-23.24.32:256][141]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.04.13-23.24.32:694][141]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.13-23.24.32:695][141]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.13-23.24.32:736][141]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.13-23.24.32:737][141]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.13-23.24.32:738][141]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.13-23.24.32:738][141]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.04.13-23.24.42:184][141]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.13-23.24.42:184][141]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.13-23.24.42:184][141]LogInit: FAudioDevice initialized.
+[2021.04.13-23.24.42:184][141]LogAudio: Display: Audio Device (ID: 6) registered with world 'ThirdPersonExampleMap'.
+[2021.04.13-23.24.42:468][141]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.04.13-23.24.43:010][141]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.13-23.24.43:355][141]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.04.13-19.24.43
+[2021.04.13-23.24.43:383][141]LogWorld: Bringing up level for play took: 0.242633
+[2021.04.13-23.24.43:592][141]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2021.04.13-23.24.43:927][141]PIE: Server logged in
+[2021.04.13-23.24.43:969][141]PIE: Play in editor total start time 14.415 seconds.
+[2021.04.13-23.24.44:563][142]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.099249 > MaxSimulationTimeStep (0.050) for 'ThirdPersonCharacter_167', movement 'Walking'
+[2021.04.13-23.25.27:208][645]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.13-23.25.27:208][645]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.04.13-23.25.27:471][645]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-23.25.27:540][645]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-23.25.27:706][645]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.13-23.25.27:747][645]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-23.25.27:796][645]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.13-23.25.27:832][645]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.13-23.25.27:836][645]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.13-23.25.28:042][645]LogUObjectHash: Compacting FUObjectHashTables data took   6.18ms
+[2021.04.13-23.25.28:113][646]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2021.04.13-23.29.59:394][528]LogUObjectHash: Compacting FUObjectHashTables data took   7.61ms
+[2021.04.13-23.29.59:516][528]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.04.13-23.29.59:680][528]LogSavePackage: Moving '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Saved/ThirdPersonExampleMap806B62AF4278439619B6B482E5C9A458.tmp' to '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.04.13-23.29.59:696][528]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.225
+[2021.04.13-23.29.59:780][528]LogSavePackage: Moving '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Saved/ThirdPersonCharacterF0E1817E4C84C60A1A6005A73D1463A6.tmp' to '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.04.13-23.29.59:805][528]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.13-23.29.59:805][528]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.04.13-23.29.59:805][528]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.04.13-23.39.41:411][632]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2021.04.13-23.39.42:982][632]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0094 seconds. Added 1 classes and 2 folders.
+[2021.04.13-23.39.43:363][632]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.04.13-23.39.43:478][632]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0025 seconds. Added 1 classes and 0 folders.
+[2021.04.13-23.39.51:328][875]LogUObjectGlobals: Warning: Failed to find object 'Class None.ControlRigBlueprint'
+[2021.04.13-23.40.11:215][706]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton
+[2021.04.13-23.40.11:219][706]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.04.13-23.41.59:377][872]LogSavePackage: Moving '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Saved/UE4_Mannequin_Skeleton7AF56E9E4DFCDD8F8AFC3CA17BB6627B.tmp' to '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2021.04.13-23.41.59:453][872]AssetCheck: New page: Asset Save: UE4_Mannequin_Skeleton
+[2021.04.13-23.41.59:453][872]LogContentValidation: Display: Validating Skeleton /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton
+[2021.04.13-23.44.35:302][136]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.04.13-23.44.36:031][136]LogUObjectHash: Compacting FUObjectHashTables data took   4.97ms
+[2021.04.13-23.46.39:822][569]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.04.13-23.46.40:095][569]LogUObjectHash: Compacting FUObjectHashTables data took  12.38ms
+[2021.04.13-23.50.17:620][210]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.04.13-23.50.17:701][210]LogUObjectHash: Compacting FUObjectHashTables data took   4.76ms
+[2021.04.13-23.50.38:666][532]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.04.13-23.50.38:748][532]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2021.04.13-23.50.40:295][611]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2021.04.13-23.50.40:350][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.04.13-23.50.40:494][611]LogSavePackage: Moving '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Saved/ThirdPersonExampleMap0A355BE54291836626B4CB88D1D9FE62.tmp' to '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.04.13-23.50.40:505][611]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.188
+[2021.04.13-23.50.40:607][611]LogSavePackage: Moving '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Saved/ThirdPersonCharacterF4C0E83444BFA2A82D65F8A4ACD66F0F.tmp' to '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.04.13-23.50.40:643][611]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.13-23.50.40:643][611]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.04.13-23.50.40:643][611]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.04.13-23.50.42:080][693]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.13-23.50.42:088][693]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.13-23.50.42:088][693]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 13, 2021, 3:50:42 PM)
+[2021.04.13-23.50.42:088][693]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.04.13-23.50.42:127][693]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038905s)
+[2021.04.13-23.50.42:128][693]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.04.13-23.50.42:128][693]LogPlayLevel: PIE: World Init took: (0.001301s)
+[2021.04.13-23.50.42:128][693]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.040359s)
+[2021.04.13-23.50.42:164][693]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2021.04.13-23.50.42:165][693]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.04.13-23.50.42:165][693]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.13-23.50.42:165][693]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.13-23.50.42:165][693]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.13-23.50.42:165][693]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.13-23.50.42:165][693]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.13-23.50.42:165][693]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.13-23.50.42:166][693]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.13-23.50.42:166][693]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.13-23.50.42:166][693]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.13-23.50.42:166][693]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.13-23.50.42:187][693]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.13-23.50.42:187][693]LogAudioMixer: Display: 1: FrontRight
+[2021.04.13-23.50.42:187][693]LogAudioMixer: Display: 2: FrontCenter
+[2021.04.13-23.50.42:187][693]LogAudioMixer: Display: 3: LowFrequency
+[2021.04.13-23.50.42:187][693]LogAudioMixer: Display: 4: BackLeft
+[2021.04.13-23.50.42:187][693]LogAudioMixer: Display: 5: BackRight
+[2021.04.13-23.50.42:187][693]LogAudioMixer: Display: 6: SideLeft
+[2021.04.13-23.50.42:187][693]LogAudioMixer: Display: 7: SideRight
+[2021.04.13-23.50.42:221][693]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.04.13-23.50.42:221][693]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.13-23.50.42:221][693]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.13-23.50.42:221][693]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.13-23.50.42:221][693]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.13-23.50.42:221][693]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.13-23.50.42:221][693]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.04.13-23.50.42:239][693]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.13-23.50.42:239][693]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.13-23.50.42:239][693]LogInit: FAudioDevice initialized.
+[2021.04.13-23.50.42:239][693]LogAudio: Display: Audio Device (ID: 7) registered with world 'ThirdPersonExampleMap'.
+[2021.04.13-23.50.42:244][693]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.13-23.50.42:248][693]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.04.13-19.50.42
+[2021.04.13-23.50.42:249][693]LogWorld: Bringing up level for play took: 0.003283
+[2021.04.13-23.50.42:249][693]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2021.04.13-23.50.42:251][693]PIE: Server logged in
+[2021.04.13-23.50.42:252][693]PIE: Play in editor total start time 0.167 seconds.
+[2021.04.13-23.51.10:374][372]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.13-23.51.10:375][372]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.04.13-23.51.10:375][372]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-23.51.10:376][372]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-23.51.10:384][372]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.13-23.51.10:395][372]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-23.51.10:426][372]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.13-23.51.10:426][372]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.13-23.51.10:427][372]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.13-23.51.10:473][372]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2021.04.13-23.51.10:506][373]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2021.04.13-23.52.34:828][645]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.04.13-23.52.34:916][645]LogUObjectHash: Compacting FUObjectHashTables data took   5.39ms
+[2021.04.13-23.52.49:565][830]LogUObjectHash: Compacting FUObjectHashTables data took   6.33ms
+[2021.04.13-23.52.49:621][830]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.04.13-23.52.49:759][830]LogSavePackage: Moving '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Saved/ThirdPersonExampleMap3AA519DB4D81650B6EEDD69AC23FEFA9.tmp' to '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.04.13-23.52.49:777][830]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.187
+[2021.04.13-23.52.50:157][830]LogSavePackage: Moving '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Saved/ThirdPersonCharacter8D72D23F4556DF56028987AA0314B62C.tmp' to '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.04.13-23.52.50:179][830]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.13-23.52.50:179][830]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.04.13-23.52.50:179][830]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.04.13-23.52.51:483][907]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.13-23.52.51:491][907]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.13-23.52.51:491][907]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 13, 2021, 3:52:51 PM)
+[2021.04.13-23.52.51:491][907]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.04.13-23.52.51:526][907]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034761s)
+[2021.04.13-23.52.51:527][907]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.04.13-23.52.51:527][907]LogPlayLevel: PIE: World Init took: (0.001173s)
+[2021.04.13-23.52.51:527][907]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.036056s)
+[2021.04.13-23.52.51:566][907]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2021.04.13-23.52.51:568][907]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.04.13-23.52.51:568][907]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.13-23.52.51:568][907]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.13-23.52.51:568][907]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.13-23.52.51:568][907]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.13-23.52.51:568][907]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.13-23.52.51:568][907]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.13-23.52.51:568][907]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.13-23.52.51:568][907]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.13-23.52.51:569][907]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.13-23.52.51:569][907]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.13-23.52.51:573][907]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.13-23.52.51:573][907]LogAudioMixer: Display: 1: FrontRight
+[2021.04.13-23.52.51:573][907]LogAudioMixer: Display: 2: FrontCenter
+[2021.04.13-23.52.51:573][907]LogAudioMixer: Display: 3: LowFrequency
+[2021.04.13-23.52.51:573][907]LogAudioMixer: Display: 4: BackLeft
+[2021.04.13-23.52.51:573][907]LogAudioMixer: Display: 5: BackRight
+[2021.04.13-23.52.51:573][907]LogAudioMixer: Display: 6: SideLeft
+[2021.04.13-23.52.51:573][907]LogAudioMixer: Display: 7: SideRight
+[2021.04.13-23.52.51:606][907]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.04.13-23.52.51:606][907]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.13-23.52.51:606][907]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.13-23.52.51:606][907]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.13-23.52.51:606][907]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.13-23.52.51:606][907]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.13-23.52.51:606][907]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.04.13-23.52.51:620][907]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.13-23.52.51:620][907]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.13-23.52.51:620][907]LogInit: FAudioDevice initialized.
+[2021.04.13-23.52.51:620][907]LogAudio: Display: Audio Device (ID: 8) registered with world 'ThirdPersonExampleMap'.
+[2021.04.13-23.52.51:629][907]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.13-23.52.51:633][907]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.04.13-19.52.51
+[2021.04.13-23.52.51:634][907]LogWorld: Bringing up level for play took: 0.003124
+[2021.04.13-23.52.51:634][907]LogOnline: OSS: Creating online subsystem instance for: :Context_38
+[2021.04.13-23.52.51:636][907]PIE: Server logged in
+[2021.04.13-23.52.51:636][907]PIE: Play in editor total start time 0.148 seconds.
+[2021.04.13-23.53.22:934][774]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.13-23.53.22:934][774]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.04.13-23.53.22:935][774]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-23.53.22:935][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-23.53.22:943][774]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.13-23.53.22:963][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-23.53.23:017][774]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.13-23.53.23:017][774]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.13-23.53.23:018][774]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.13-23.53.23:048][774]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2021.04.13-23.53.23:088][775]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2021.04.13-23.55.44:005][ 75]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.04.13-23.55.44:085][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2021.04.13-23.55.55:624][241]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.13-23.55.55:632][241]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.13-23.55.55:632][241]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 13, 2021, 3:55:55 PM)
+[2021.04.13-23.55.55:672][241]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.04.13-23.55.55:754][241]LogPlayLevel: PIE: StaticDuplicateObject took: (0.082617s)
+[2021.04.13-23.55.55:755][241]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.04.13-23.55.55:755][241]LogPlayLevel: PIE: World Init took: (0.001233s)
+[2021.04.13-23.55.55:755][241]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.084046s)
+[2021.04.13-23.55.55:794][241]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2021.04.13-23.55.55:795][241]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.04.13-23.55.55:795][241]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.13-23.55.55:795][241]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.13-23.55.55:795][241]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.13-23.55.55:795][241]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.13-23.55.55:795][241]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.13-23.55.55:795][241]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.13-23.55.55:795][241]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.13-23.55.55:795][241]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.13-23.55.55:796][241]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.13-23.55.55:796][241]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.13-23.55.55:800][241]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.13-23.55.55:800][241]LogAudioMixer: Display: 1: FrontRight
+[2021.04.13-23.55.55:800][241]LogAudioMixer: Display: 2: FrontCenter
+[2021.04.13-23.55.55:800][241]LogAudioMixer: Display: 3: LowFrequency
+[2021.04.13-23.55.55:800][241]LogAudioMixer: Display: 4: BackLeft
+[2021.04.13-23.55.55:800][241]LogAudioMixer: Display: 5: BackRight
+[2021.04.13-23.55.55:800][241]LogAudioMixer: Display: 6: SideLeft
+[2021.04.13-23.55.55:800][241]LogAudioMixer: Display: 7: SideRight
+[2021.04.13-23.55.55:833][241]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.04.13-23.55.55:833][241]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.13-23.55.55:833][241]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.13-23.55.55:833][241]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.13-23.55.55:833][241]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.13-23.55.55:833][241]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.13-23.55.55:833][241]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.04.13-23.55.55:847][241]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.13-23.55.55:847][241]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.13-23.55.55:847][241]LogInit: FAudioDevice initialized.
+[2021.04.13-23.55.55:847][241]LogAudio: Display: Audio Device (ID: 9) registered with world 'ThirdPersonExampleMap'.
+[2021.04.13-23.55.55:856][241]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.13-23.55.55:861][241]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.04.13-19.55.55
+[2021.04.13-23.55.55:862][241]LogWorld: Bringing up level for play took: 0.003042
+[2021.04.13-23.55.55:862][241]LogOnline: OSS: Creating online subsystem instance for: :Context_39
+[2021.04.13-23.55.55:864][241]PIE: Server logged in
+[2021.04.13-23.55.55:865][241]PIE: Play in editor total start time 0.235 seconds.
+[2021.04.13-23.56.11:407][170]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.13-23.56.11:407][170]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.04.13-23.56.11:407][170]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-23.56.11:408][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-23.56.11:420][170]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.13-23.56.11:433][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-23.56.11:461][170]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.13-23.56.11:462][170]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.13-23.56.11:463][170]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.13-23.56.11:485][170]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.13-23.56.11:490][170]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2021.04.13-23.56.11:520][171]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2021.04.13-23.57.17:904][112]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.04.13-23.57.17:986][112]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2021.04.13-23.57.20:115][223]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.13-23.57.20:123][223]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.13-23.57.20:123][223]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 13, 2021, 3:57:20 PM)
+[2021.04.13-23.57.20:123][223]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.04.13-23.57.20:157][223]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034046s)
+[2021.04.13-23.57.20:158][223]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.04.13-23.57.20:159][223]LogPlayLevel: PIE: World Init took: (0.001425s)
+[2021.04.13-23.57.20:159][223]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.035608s)
+[2021.04.13-23.57.20:194][223]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2021.04.13-23.57.20:195][223]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2021.04.13-23.57.20:195][223]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.13-23.57.20:195][223]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.13-23.57.20:195][223]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.13-23.57.20:195][223]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.13-23.57.20:195][223]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.13-23.57.20:195][223]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.13-23.57.20:195][223]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.13-23.57.20:195][223]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.13-23.57.20:196][223]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.13-23.57.20:196][223]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.13-23.57.20:205][223]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.13-23.57.20:205][223]LogAudioMixer: Display: 1: FrontRight
+[2021.04.13-23.57.20:205][223]LogAudioMixer: Display: 2: FrontCenter
+[2021.04.13-23.57.20:205][223]LogAudioMixer: Display: 3: LowFrequency
+[2021.04.13-23.57.20:205][223]LogAudioMixer: Display: 4: BackLeft
+[2021.04.13-23.57.20:205][223]LogAudioMixer: Display: 5: BackRight
+[2021.04.13-23.57.20:205][223]LogAudioMixer: Display: 6: SideLeft
+[2021.04.13-23.57.20:205][223]LogAudioMixer: Display: 7: SideRight
+[2021.04.13-23.57.20:240][223]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.04.13-23.57.20:240][223]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.13-23.57.20:240][223]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.13-23.57.20:240][223]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.13-23.57.20:241][223]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.13-23.57.20:241][223]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.13-23.57.20:241][223]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.04.13-23.57.20:255][223]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.13-23.57.20:255][223]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.13-23.57.20:255][223]LogInit: FAudioDevice initialized.
+[2021.04.13-23.57.20:255][223]LogAudio: Display: Audio Device (ID: 10) registered with world 'ThirdPersonExampleMap'.
+[2021.04.13-23.57.20:266][223]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.13-23.57.20:270][223]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.04.13-19.57.20
+[2021.04.13-23.57.20:270][223]LogWorld: Bringing up level for play took: 0.003630
+[2021.04.13-23.57.20:358][223]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2021.04.13-23.57.20:361][223]PIE: Server logged in
+[2021.04.13-23.57.20:362][223]PIE: Play in editor total start time 0.243 seconds.
+[2021.04.13-23.57.43:475][605]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.13-23.57.43:475][605]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.04.13-23.57.43:475][605]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-23.57.43:476][605]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-23.57.43:486][605]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.13-23.57.43:497][605]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-23.57.43:566][605]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.13-23.57.43:566][605]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.13-23.57.43:567][605]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.13-23.57.43:614][605]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.13-23.57.43:619][605]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2021.04.13-23.57.43:652][606]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2021.04.13-23.57.44:369][648]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.13-23.57.44:377][648]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.13-23.57.44:377][648]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 13, 2021, 3:57:44 PM)
+[2021.04.13-23.57.44:377][648]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.04.13-23.57.44:412][648]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034914s)
+[2021.04.13-23.57.44:413][648]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.04.13-23.57.44:520][648]LogPlayLevel: PIE: World Init took: (0.107253s)
+[2021.04.13-23.57.44:520][648]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.142407s)
+[2021.04.13-23.57.44:572][648]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2021.04.13-23.57.44:572][648]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2021.04.13-23.57.44:572][648]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.13-23.57.44:572][648]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.13-23.57.44:572][648]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.13-23.57.44:572][648]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.13-23.57.44:572][648]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.13-23.57.44:572][648]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.13-23.57.44:572][648]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.13-23.57.44:572][648]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.13-23.57.44:573][648]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.13-23.57.44:573][648]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.13-23.57.44:577][648]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.13-23.57.44:577][648]LogAudioMixer: Display: 1: FrontRight
+[2021.04.13-23.57.44:577][648]LogAudioMixer: Display: 2: FrontCenter
+[2021.04.13-23.57.44:577][648]LogAudioMixer: Display: 3: LowFrequency
+[2021.04.13-23.57.44:577][648]LogAudioMixer: Display: 4: BackLeft
+[2021.04.13-23.57.44:577][648]LogAudioMixer: Display: 5: BackRight
+[2021.04.13-23.57.44:577][648]LogAudioMixer: Display: 6: SideLeft
+[2021.04.13-23.57.44:577][648]LogAudioMixer: Display: 7: SideRight
+[2021.04.13-23.57.44:613][648]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.04.13-23.57.44:613][648]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.13-23.57.44:614][648]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.13-23.57.44:614][648]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.13-23.57.44:614][648]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.13-23.57.44:614][648]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.13-23.57.44:614][648]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.04.13-23.57.44:628][648]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.13-23.57.44:628][648]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.13-23.57.44:628][648]LogInit: FAudioDevice initialized.
+[2021.04.13-23.57.44:628][648]LogAudio: Display: Audio Device (ID: 11) registered with world 'ThirdPersonExampleMap'.
+[2021.04.13-23.57.44:638][648]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.13-23.57.44:641][648]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.04.13-19.57.44
+[2021.04.13-23.57.44:642][648]LogWorld: Bringing up level for play took: 0.002954
+[2021.04.13-23.57.44:642][648]LogOnline: OSS: Creating online subsystem instance for: :Context_41
+[2021.04.13-23.57.44:644][648]PIE: Server logged in
+[2021.04.13-23.57.44:645][648]PIE: Play in editor total start time 0.27 seconds.
+[2021.04.13-23.58.05:325][885]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.13-23.58.05:325][885]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.04.13-23.58.05:325][885]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-23.58.05:325][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-23.58.05:332][885]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.13-23.58.05:344][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-23.58.05:373][885]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.13-23.58.05:373][885]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.13-23.58.05:374][885]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.13-23.58.05:413][885]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2021.04.13-23.58.05:444][886]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2021.04.13-23.58.29:269][446]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.04.13-23.58.29:347][446]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2021.04.13-23.59.50:455][259]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.04.13-23.59.50:540][259]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2021.04.14-00.02.54:582][692]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.04.14-00.02.54:665][692]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2021.04.14-00.03.58:042][677]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.04.14-00.03.58:123][677]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2021.04.14-00.04.00:141][784]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.14-00.04.00:149][784]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.14-00.04.00:149][784]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 13, 2021, 4:04:00 PM)
+[2021.04.14-00.04.00:149][784]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.04.14-00.04.00:184][784]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034748s)
+[2021.04.14-00.04.00:185][784]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.04.14-00.04.00:186][784]LogPlayLevel: PIE: World Init took: (0.001379s)
+[2021.04.14-00.04.00:186][784]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.036275s)
+[2021.04.14-00.04.00:223][784]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2021.04.14-00.04.00:224][784]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2021.04.14-00.04.00:224][784]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.14-00.04.00:224][784]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.14-00.04.00:224][784]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.14-00.04.00:224][784]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.14-00.04.00:224][784]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.14-00.04.00:224][784]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.14-00.04.00:224][784]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.14-00.04.00:224][784]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.14-00.04.00:225][784]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.14-00.04.00:225][784]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.14-00.04.00:230][784]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.14-00.04.00:230][784]LogAudioMixer: Display: 1: FrontRight
+[2021.04.14-00.04.00:230][784]LogAudioMixer: Display: 2: FrontCenter
+[2021.04.14-00.04.00:230][784]LogAudioMixer: Display: 3: LowFrequency
+[2021.04.14-00.04.00:230][784]LogAudioMixer: Display: 4: BackLeft
+[2021.04.14-00.04.00:230][784]LogAudioMixer: Display: 5: BackRight
+[2021.04.14-00.04.00:230][784]LogAudioMixer: Display: 6: SideLeft
+[2021.04.14-00.04.00:230][784]LogAudioMixer: Display: 7: SideRight
+[2021.04.14-00.04.00:262][784]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.04.14-00.04.00:262][784]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.14-00.04.00:262][784]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.14-00.04.00:262][784]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.14-00.04.00:262][784]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.14-00.04.00:262][784]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.14-00.04.00:262][784]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.04.14-00.04.00:276][784]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.14-00.04.00:276][784]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.14-00.04.00:276][784]LogInit: FAudioDevice initialized.
+[2021.04.14-00.04.00:276][784]LogAudio: Display: Audio Device (ID: 12) registered with world 'ThirdPersonExampleMap'.
+[2021.04.14-00.04.00:287][784]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.14-00.04.00:291][784]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.04.13-20.04.00
+[2021.04.14-00.04.00:291][784]LogWorld: Bringing up level for play took: 0.003033
+[2021.04.14-00.04.00:291][784]LogOnline: OSS: Creating online subsystem instance for: :Context_42
+[2021.04.14-00.04.00:294][784]PIE: Server logged in
+[2021.04.14-00.04.00:294][784]PIE: Play in editor total start time 0.148 seconds.
+[2021.04.14-00.04.29:356][524]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.14-00.04.29:356][524]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.04.14-00.04.29:356][524]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.14-00.04.29:356][524]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.14-00.04.29:364][524]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.14-00.04.29:375][524]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.14-00.04.29:404][524]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.14-00.04.29:405][524]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.14-00.04.29:406][524]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.14-00.04.29:424][524]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.14-00.04.29:428][524]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2021.04.14-00.04.29:469][525]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2021.04.14-00.04.35:116][841]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2021.04.14-00.04.35:180][841]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.04.14-00.04.35:319][841]LogSavePackage: Moving '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Saved/ThirdPersonExampleMap0C8E2AA94110F57D6B6BF8B0A20EE1DC.tmp' to '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.04.14-00.04.35:331][841]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.181
+[2021.04.14-00.04.35:452][841]LogSavePackage: Moving '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Saved/ThirdPersonCharacterDAAB2FA5401F26902F8A5594CBBE7609.tmp' to '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.04.14-00.04.35:457][841]LogSavePackage: Moving '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Saved/UE4_Mannequin_SkeletonAA7C29D14B9FF629F6B383A08176BEE8.tmp' to '../../../../OneDrive/Documents/GitHub/Game250Project/Project/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2021.04.14-00.04.35:477][841]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.14-00.04.35:477][841]LogContentValidation: Display: Validating Skeleton /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton
+[2021.04.14-00.04.35:477][841]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.04.14-00.04.35:477][841]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
