@@ -1209,3 +1209,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.15-14.49.02:511][549]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.250
 [2021.04.15-14.49.02:523][549]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
 [2021.04.15-14.49.02:523][549]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.04.15-14.53.20:606][ 17]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2021.04.15-14.53.22:364][ 72]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube15)
+[2021.04.15-14.53.26:318][305]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube32)
+[2021.04.15-14.53.27:676][385]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube15)
