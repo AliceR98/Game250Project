@@ -2025,3 +2025,570 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.02-21.00.22:340][646]LogSavePackage: Moving '../../../../Users/bpetr/Documents/GitHub/Game250Project/Project/Saved/WaterFA935DA6464F21757CCCF8A4257CFCFF.tmp' to '../../../../Users/bpetr/Documents/GitHub/Game250Project/Project/Content/ThirdPersonBP/Maps/Water.umap'
 [2021.05.02-21.00.22:367][646]AssetCheck: New page: Asset Save: Water
 [2021.05.02-21.00.22:367][646]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Water.Water
+[2021.05.02-21.02.22:339][727]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube41)
+[2021.05.02-21.02.34:849][465]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube31)
+[2021.05.02-21.02.41:015][831]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube38)
+[2021.05.02-21.02.52:884][535]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube44)
+[2021.05.02-21.02.54:689][640]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube44)
+[2021.05.02-21.02.54:695][640]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.02.55:296][668]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.02.55:331][669]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.02.55:472][676]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.02.59:273][899]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.02.59:307][900]LogActorFactory: Actor Factory created Cube
+[2021.05.02-21.02.59:979][935]LogActorFactory: Actor Factory created Cube
+[2021.05.02-21.03.01:849][ 40]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.03.01:870][ 40]LogActorFactory: Actor Factory created Cube
+[2021.05.02-21.03.02:559][ 76]LogActorFactory: Actor Factory created Cube
+[2021.05.02-21.03.03:273][116]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.03.03:326][119]LogActorFactory: Actor Factory created Cube
+[2021.05.02-21.03.03:700][137]LogActorFactory: Actor Factory created Cube
+[2021.05.02-21.03.04:392][176]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.03.04:439][178]LogActorFactory: Actor Factory created Cube
+[2021.05.02-21.03.04:862][195]LogActorFactory: Actor Factory created Cube
+[2021.05.02-21.03.06:740][303]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.03.06:767][304]LogActorFactory: Actor Factory created Cube
+[2021.05.02-21.03.07:046][315]LogActorFactory: Actor Factory created Cube
+[2021.05.02-21.03.08:110][376]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.03.08:142][377]LogActorFactory: Actor Factory created Cube
+[2021.05.02-21.03.08:512][387]LogActorFactory: Actor Factory created Cube
+[2021.05.02-21.03.15:827][800]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.03.15:876][803]LogActorFactory: Actor Factory created Cube
+[2021.05.02-21.03.16:379][827]LogActorFactory: Actor Factory created Cube
+[2021.05.02-21.03.17:081][867]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.03.17:129][869]LogActorFactory: Actor Factory created Cube
+[2021.05.02-21.03.18:620][933]LogActorFactory: Actor Factory created Cube
+[2021.05.02-21.03.31:450][672]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.03.31:491][674]LogActorFactory: Actor Factory created Cube
+[2021.05.02-21.03.32:344][720]LogActorFactory: Actor Factory created Cube
+[2021.05.02-21.03.34:997][872]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.03.35:103][877]LogActorFactory: Actor Factory created Cube
+[2021.05.02-21.03.35:818][911]LogActorFactory: Actor Factory created Cube
+[2021.05.02-21.03.36:832][970]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.03.36:894][973]LogActorFactory: Actor Factory created Cube
+[2021.05.02-21.03.37:586][  7]LogActorFactory: Actor Factory created Cube
+[2021.05.02-21.03.38:390][ 53]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.03.38:435][ 55]LogActorFactory: Actor Factory created Cube
+[2021.05.02-21.03.39:170][ 93]LogActorFactory: Actor Factory created Cube
+[2021.05.02-21.03.41:083][205]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.03.41:097][205]LogActorFactory: Actor Factory created Cube
+[2021.05.02-21.03.41:946][248]LogActorFactory: Actor Factory created Cube
+[2021.05.02-21.03.43:956][363]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.03.44:012][366]LogActorFactory: Actor Factory created Cube
+[2021.05.02-21.03.44:536][392]LogActorFactory: Actor Factory created Cube
+[2021.05.02-21.03.45:268][434]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.03.45:295][435]LogActorFactory: Actor Factory created Cube
+[2021.05.02-21.03.46:298][485]LogActorFactory: Actor Factory created Cube
+[2021.05.02-21.03.46:964][523]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.03.46:989][524]LogActorFactory: Actor Factory created Cube
+[2021.05.02-21.03.47:518][547]LogActorFactory: Actor Factory created Cube
+[2021.05.02-21.03.49:072][631]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.03.49:122][633]LogActorFactory: Actor Factory created Cube
+[2021.05.02-21.03.49:821][667]LogActorFactory: Actor Factory created Cube
+[2021.05.02-21.03.50:470][704]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.03.50:505][705]LogActorFactory: Actor Factory created Cube
+[2021.05.02-21.03.51:421][753]LogActorFactory: Actor Factory created Cube
+[2021.05.02-21.03.52:261][801]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.03.52:340][805]LogActorFactory: Actor Factory created Cube
+[2021.05.02-21.03.53:193][842]LogActorFactory: Actor Factory created Cube
+[2021.05.02-21.03.54:812][935]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube158)
+[2021.05.02-21.03.59:029][178]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.03.59:093][181]LogActorFactory: Actor Factory created Cube
+[2021.05.02-21.03.59:985][230]LogActorFactory: Actor Factory created Cube
+[2021.05.02-21.04.01:726][330]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.04.01:771][332]LogActorFactory: Actor Factory created Cube
+[2021.05.02-21.04.02:307][357]LogActorFactory: Actor Factory created Cube
+[2021.05.02-21.04.06:078][573]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.04.06:143][576]LogActorFactory: Actor Factory created Cube
+[2021.05.02-21.04.06:643][600]LogActorFactory: Actor Factory created Cube
+[2021.05.02-21.04.15:114][ 99]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.04.15:159][101]LogActorFactory: Actor Factory created Cube
+[2021.05.02-21.04.15:691][127]LogActorFactory: Actor Factory created Cube
+[2021.05.02-21.04.19:436][337]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.04.19:478][338]LogActorFactory: Actor Factory created Cube
+[2021.05.02-21.04.20:771][405]LogActorFactory: Actor Factory created Cube
+[2021.05.02-21.04.23:293][552]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.04.23:354][555]LogActorFactory: Actor Factory created Cube
+[2021.05.02-21.04.24:493][613]LogActorFactory: Actor Factory created Cube
+[2021.05.02-21.04.33:092][122]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.04.33:121][123]LogActorFactory: Actor Factory created Cube
+[2021.05.02-21.04.35:368][245]LogActorFactory: Actor Factory created Cube
+[2021.05.02-21.04.40:066][524]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.04.40:109][526]LogActorFactory: Actor Factory created Cube
+[2021.05.02-21.04.40:638][554]LogActorFactory: Actor Factory created Cube
+[2021.05.02-21.04.50:216][121]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.04.50:245][122]LogActorFactory: Actor Factory created Cube
+[2021.05.02-21.04.51:331][179]LogActorFactory: Actor Factory created Cube
+[2021.05.02-21.04.51:977][216]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.04.52:034][219]LogActorFactory: Actor Factory created Cube
+[2021.05.02-21.04.53:423][285]LogActorFactory: Actor Factory created Cube
+[2021.05.02-21.04.54:050][318]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.04.54:095][320]LogActorFactory: Actor Factory created Cube
+[2021.05.02-21.04.54:537][342]LogActorFactory: Actor Factory created Cube
+[2021.05.02-21.04.55:043][370]LogActorFactory: Actor Factory created Cube
+[2021.05.02-21.04.55:111][374]LogActorFactory: Actor Factory created Cube
+[2021.05.02-21.04.58:350][565]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.04.58:390][567]LogActorFactory: Actor Factory created Cube
+[2021.05.02-21.04.58:944][595]LogActorFactory: Actor Factory created Cube
+[2021.05.02-21.04.59:740][640]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.04.59:777][640]LogActorFactory: Actor Factory created Cube
+[2021.05.02-21.05.00:309][667]LogActorFactory: Actor Factory created Cube
+[2021.05.02-21.05.02:145][774]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.05.02:214][777]LogActorFactory: Actor Factory created Cube
+[2021.05.02-21.05.02:866][809]LogActorFactory: Actor Factory created Cube
+[2021.05.02-21.05.07:780][ 99]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.05.07:830][101]LogActorFactory: Actor Factory created Cube
+[2021.05.02-21.05.08:337][125]LogActorFactory: Actor Factory created Cube
+[2021.05.02-21.05.09:863][214]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.05.09:911][216]LogActorFactory: Actor Factory created Cube
+[2021.05.02-21.05.10:663][253]LogActorFactory: Actor Factory created Cube
+[2021.05.02-21.05.11:172][281]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.05.11:195][282]LogActorFactory: Actor Factory created Cube
+[2021.05.02-21.05.11:950][317]LogActorFactory: Actor Factory created Cube
+[2021.05.02-21.05.12:619][355]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.05.12:658][356]LogActorFactory: Actor Factory created Cube
+[2021.05.02-21.05.14:158][421]LogActorFactory: Actor Factory created Cube
+[2021.05.02-21.05.21:814][871]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.05.21:866][872]LogActorFactory: Actor Factory created Cube
+[2021.05.02-21.05.22:523][902]LogActorFactory: Actor Factory created Cube
+[2021.05.02-21.05.29:678][325]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube36)
+[2021.05.02-21.05.48:299][435]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.02-21.05.48:307][435]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.02-21.05.48:307][435]PIE: New page: PIE session: Water (May 2, 2021, 1:05:48 PM)
+[2021.05.02-21.05.48:307][435]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Water
+[2021.05.02-21.05.48:328][435]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020691s)
+[2021.05.02-21.05.48:329][435]LogAIModule: Creating AISystem for world Water
+[2021.05.02-21.05.48:330][435]LogPlayLevel: PIE: World Init took: (0.001398s)
+[2021.05.02-21.05.48:330][435]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Water.Water to /Game/ThirdPersonBP/Maps/UEDPIE_0_Water.Water (0.022263s)
+[2021.05.02-21.05.48:335][435]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.05.02-21.05.48:339][435]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2021.05.02-21.05.48:339][435]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.02-21.05.48:339][435]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.02-21.05.48:339][435]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.02-21.05.48:339][435]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.02-21.05.48:339][435]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.02-21.05.48:339][435]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.02-21.05.48:339][435]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.02-21.05.48:339][435]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.02-21.05.48:339][435]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.02-21.05.48:339][435]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.02-21.05.48:344][435]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.02-21.05.48:344][435]LogAudioMixer: Display: 1: FrontRight
+[2021.05.02-21.05.48:357][435]LogAudioMixer: Display: Using Audio Device Speakers (3- USB Audio Device)
+[2021.05.02-21.05.48:357][435]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.02-21.05.48:357][435]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.02-21.05.48:357][435]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.02-21.05.48:357][435]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.02-21.05.48:357][435]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.02-21.05.48:357][435]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.02-21.05.48:375][435]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.02-21.05.48:375][435]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.02-21.05.48:375][435]LogInit: FAudioDevice initialized.
+[2021.05.02-21.05.48:375][435]LogAudio: Display: Audio Device (ID: 11) registered with world 'Water'.
+[2021.05.02-21.05.48:384][435]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.02-21.05.48:393][435]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Water.Water up for play (max tick rate 60) at 2021.05.02-17.05.48
+[2021.05.02-21.05.48:393][435]LogWorld: Bringing up level for play took: 0.008389
+[2021.05.02-21.05.48:393][435]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2021.05.02-21.05.48:397][435]PIE: Server logged in
+[2021.05.02-21.05.48:399][435]PIE: Play in editor total start time 0.093 seconds.
+[2021.05.02-21.05.57:461][974]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-21.05.57:461][974]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Water
+[2021.05.02-21.05.57:461][974]LogWorld: UWorld::CleanupWorld for Water, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-21.05.57:463][974]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-21.05.57:479][974]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.02-21.05.57:492][974]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-21.05.57:497][974]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.02-21.05.57:498][974]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.02-21.05.57:499][974]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.02-21.05.57:518][974]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-21.05.57:522][974]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.05.02-21.05.57:559][975]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2021.05.02-21.06.00:241][132]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.06.01:186][181]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.06.02:227][238]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.06.03:122][284]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.06.04:016][333]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.06.04:901][381]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.06.05:746][426]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.06.06:767][486]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.06.07:686][536]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.06.08:697][594]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube174)
+[2021.05.02-21.06.19:972][265]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.06.21:226][333]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.06.23:133][439]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.06.23:954][478]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.06.24:772][521]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.06.25:482][558]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.06.26:334][603]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.06.27:540][670]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.06.28:702][723]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.06.29:557][771]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.06.30:748][837]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.06.32:586][943]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.06.33:488][992]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.06.34:510][ 50]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.06.35:569][109]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.06.36:631][170]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.06.37:709][229]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.06.38:726][286]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.06.39:790][346]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.06.40:847][406]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.06.41:898][462]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.06.43:094][529]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.06.44:223][594]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.06.45:381][659]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.06.46:423][716]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.06.47:730][789]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.06.48:756][848]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.06.49:715][903]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.06.56:940][323]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.06.59:775][483]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.02-21.06.59:783][483]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.02-21.06.59:783][483]PIE: New page: PIE session: Water (May 2, 2021, 1:06:59 PM)
+[2021.05.02-21.06.59:809][483]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Water
+[2021.05.02-21.06.59:831][483]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021946s)
+[2021.05.02-21.06.59:833][483]LogAIModule: Creating AISystem for world Water
+[2021.05.02-21.06.59:833][483]LogPlayLevel: PIE: World Init took: (0.001568s)
+[2021.05.02-21.06.59:833][483]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Water.Water to /Game/ThirdPersonBP/Maps/UEDPIE_0_Water.Water (0.023773s)
+[2021.05.02-21.06.59:838][483]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.05.02-21.06.59:841][483]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2021.05.02-21.06.59:841][483]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.02-21.06.59:841][483]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.02-21.06.59:841][483]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.02-21.06.59:841][483]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.02-21.06.59:841][483]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.02-21.06.59:841][483]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.02-21.06.59:841][483]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.02-21.06.59:841][483]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.02-21.06.59:842][483]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.02-21.06.59:842][483]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.02-21.06.59:847][483]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.02-21.06.59:847][483]LogAudioMixer: Display: 1: FrontRight
+[2021.05.02-21.06.59:861][483]LogAudioMixer: Display: Using Audio Device Speakers (3- USB Audio Device)
+[2021.05.02-21.06.59:861][483]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.02-21.06.59:862][483]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.02-21.06.59:862][483]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.02-21.06.59:862][483]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.02-21.06.59:862][483]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.02-21.06.59:862][483]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.02-21.06.59:877][483]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.02-21.06.59:877][483]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.02-21.06.59:877][483]LogInit: FAudioDevice initialized.
+[2021.05.02-21.06.59:877][483]LogAudio: Display: Audio Device (ID: 12) registered with world 'Water'.
+[2021.05.02-21.06.59:889][483]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.02-21.06.59:900][483]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Water.Water up for play (max tick rate 60) at 2021.05.02-17.06.59
+[2021.05.02-21.06.59:901][483]LogWorld: Bringing up level for play took: 0.010649
+[2021.05.02-21.06.59:901][483]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2021.05.02-21.06.59:905][483]PIE: Server logged in
+[2021.05.02-21.06.59:906][483]PIE: Play in editor total start time 0.125 seconds.
+[2021.05.02-21.07.35:140][592]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-21.07.35:140][592]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Water
+[2021.05.02-21.07.35:140][592]LogWorld: UWorld::CleanupWorld for Water, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-21.07.35:141][592]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-21.07.35:149][592]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.02-21.07.35:165][592]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-21.07.35:171][592]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.02-21.07.35:171][592]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.02-21.07.35:172][592]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.02-21.07.35:186][592]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-21.07.35:189][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.05.02-21.07.35:230][593]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.05.02-21.07.35:788][625]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.07.35:806][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.05.02-21.07.35:902][625]LogSavePackage: Moving '../../../../Users/bpetr/Documents/GitHub/Game250Project/Project/Saved/Water8EB2604241713FC3E8DA0C86263A0CD9.tmp' to '../../../../Users/bpetr/Documents/GitHub/Game250Project/Project/Content/ThirdPersonBP/Maps/Water.umap'
+[2021.05.02-21.07.35:961][625]AssetCheck: New page: Asset Save: Water
+[2021.05.02-21.07.35:961][625]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Water.Water
+[2021.05.02-21.07.43:525][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.05.02-21.07.43:543][ 59]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.07.56:383][ 59]LogSlate: Window 'Save Content' being destroyed
+[2021.05.02-21.07.56:405][ 59]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.07.56:426][ 59]LogSavePackage: Moving '../../../../Users/bpetr/Documents/GitHub/Game250Project/Project/Saved/T_Soul_Water01_Mat29B612D64B54E02DE1B1289A88D30F00.tmp' to '../../../../Users/bpetr/Documents/GitHub/Game250Project/Project/Content/SoulCave/Environment/Textures/Water/T_Soul_Water01_Mat.uasset'
+[2021.05.02-21.07.56:430][ 59]LogSavePackage: Moving '../../../../Users/bpetr/Documents/GitHub/Game250Project/Project/Saved/T_waternormal_Mat0BD6C4674E253C2C634D21A30AA2357A.tmp' to '../../../../Users/bpetr/Documents/GitHub/Game250Project/Project/Content/SoulCave/Environment/Textures/Water/T_waternormal_Mat.uasset'
+[2021.05.02-21.07.56:436][ 59]LogSavePackage: Moving '../../../../Users/bpetr/Documents/GitHub/Game250Project/Project/Saved/T_WaterStream0002_2_Mat710FC2A848ED4B9D2E72AD9BD3D5DC45.tmp' to '../../../../Users/bpetr/Documents/GitHub/Game250Project/Project/Content/SoulCave/Environment/Textures/Water/T_WaterStream0002_2_Mat.uasset'
+[2021.05.02-21.07.56:453][ 59]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.07.56:826][ 59]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/Building.Building
+[2021.05.02-21.07.56:826][ 59]Cmd: MAP LOAD FILE="../../../../Users/bpetr/Documents/GitHub/Game250Project/Project/Content/ThirdPersonBP/Maps/Building.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.02-21.07.56:826][ 59]LightingResults: New page: Lighting Build
+[2021.05.02-21.07.56:826][ 59]LoadErrors: New page: Loading map: Building.umap
+[2021.05.02-21.07.56:879][ 59]LogWorld: UWorld::CleanupWorld for Water, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-21.07.56:879][ 59]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-21.07.56:879][ 59]MapCheck: New page: Map Check
+[2021.05.02-21.07.56:879][ 59]LightingResults: New page: Lighting Build
+[2021.05.02-21.07.56:887][ 59]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.02-21.07.56:893][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2021.05.02-21.07.56:894][ 59]LogAudio: Display: Audio Device (ID: 1) registered with world 'Building'.
+[2021.05.02-21.07.57:027][ 59]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.02-21.07.57:027][ 59]LogAIModule: Creating AISystem for world Building
+[2021.05.02-21.07.57:046][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.05.02-21.07.57:058][ 59]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.02-21.07.57:058][ 59]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.2ms to complete.
+[2021.05.02-21.07.57:058][ 59]LogFileHelpers: Loading map 'Building' took 0.233
+[2021.05.02-21.07.57:085][ 59]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.02-21.07.57:085][ 59]LogContentValidation: Display: Validating Material /Game/SoulCave/Environment/Textures/Water/T_Soul_Water01_Mat.T_Soul_Water01_Mat
+[2021.05.02-21.07.57:085][ 59]LogContentValidation: Display: Validating Material /Game/SoulCave/Environment/Textures/Water/T_waternormal_Mat.T_waternormal_Mat
+[2021.05.02-21.07.57:085][ 59]LogContentValidation: Display: Validating Material /Game/SoulCave/Environment/Textures/Water/T_WaterStream0002_2_Mat.T_WaterStream0002_2_Mat
+[2021.05.02-21.08.03:602][373]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.08.03:879][387]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.08.04:092][393]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.08.04:523][411]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.08.04:531][411]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPersonBP/Maps/Building.Building:PersistentLevel.Building
+[2021.05.02-21.08.04:546][411]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.08.04:704][411]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2021.05.02-21.08.05:570][411]LogSlate: Took 0.000332 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.05.02-21.08.09:167][582]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.08.18:472][  6]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2021.05.02-21.08.18:479][  6]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.08.18:538][  6]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/Water.Water
+[2021.05.02-21.08.18:538][  6]Cmd: MAP LOAD FILE="../../../../Users/bpetr/Documents/GitHub/Game250Project/Project/Content/ThirdPersonBP/Maps/Water.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.02-21.08.18:538][  6]LightingResults: New page: Lighting Build
+[2021.05.02-21.08.18:538][  6]LoadErrors: New page: Loading map: Water.umap
+[2021.05.02-21.08.18:542][  6]LogSlate: Window 'Building' being destroyed
+[2021.05.02-21.08.18:553][  6]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-21.08.18:553][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-21.08.18:587][  6]LogWorld: UWorld::CleanupWorld for Building, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-21.08.18:587][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-21.08.18:587][  6]MapCheck: New page: Map Check
+[2021.05.02-21.08.18:587][  6]LightingResults: New page: Lighting Build
+[2021.05.02-21.08.18:605][  6]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.02-21.08.18:617][  6]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2021.05.02-21.08.18:618][  6]LogAudio: Display: Audio Device (ID: 1) registered with world 'Water'.
+[2021.05.02-21.08.18:739][  6]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.02-21.08.18:740][  6]LogAIModule: Creating AISystem for world Water
+[2021.05.02-21.08.18:764][  6]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2021.05.02-21.08.18:774][  6]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.02-21.08.18:775][  6]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.159ms to complete.
+[2021.05.02-21.08.18:775][  6]LogFileHelpers: Loading map 'Water' took 0.237
+[2021.05.02-21.08.21:424][160]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.08.21:783][180]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.08.22:596][226]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.08.22:605][226]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPersonBP/Maps/Water.Water:PersistentLevel.Water
+[2021.05.02-21.08.22:620][226]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.08.30:645][665]BlueprintLog: New page: Compile Water
+[2021.05.02-21.08.30:647][665]LogBlueprint: Warning: [AssetLog] C:\Users\bpetr\Documents\GitHub\Game250Project\Project\Content\ThirdPersonBP\Maps\Water.umap: [Compiler] Could not find a variable named "SplatNum" in 'Water_C'.
+Make sure 'Water_C' has been compiled for  Get SplatNum
+[2021.05.02-21.08.30:647][665]LogBlueprint: Warning: [AssetLog] C:\Users\bpetr\Documents\GitHub\Game250Project\Project\Content\ThirdPersonBP\Maps\Water.umap: [Compiler] Could not find a variable named "SplatNum" in 'Water_C'.
+Make sure 'Water_C' has been compiled for  Get SplatNum
+[2021.05.02-21.08.30:647][665]LogBlueprint: Warning: [AssetLog] C:\Users\bpetr\Documents\GitHub\Game250Project\Project\Content\ThirdPersonBP\Maps\Water.umap: [Compiler] Could not find a variable named "SplatNum" in 'Water_C'.
+Make sure 'Water_C' has been compiled for  Get SplatNum
+[2021.05.02-21.08.30:648][665]LogBlueprint: Error: [AssetLog] C:\Users\bpetr\Documents\GitHub\Game250Project\Project\Content\ThirdPersonBP\Maps\Water.umap: [Compiler] The property associated with  Splat Num  could not be found in '/Game/ThirdPersonBP/Maps/Water.Water_C'
+[2021.05.02-21.08.30:649][665]LogBlueprint: Error: [AssetLog] C:\Users\bpetr\Documents\GitHub\Game250Project\Project\Content\ThirdPersonBP\Maps\Water.umap: [Compiler] The property associated with  Splat Num  could not be found in '/Game/ThirdPersonBP/Maps/Water.Water_C'
+[2021.05.02-21.08.30:649][665]LogBlueprint: Error: [AssetLog] C:\Users\bpetr\Documents\GitHub\Game250Project\Project\Content\ThirdPersonBP\Maps\Water.umap: [Compiler] The property associated with  Splat Num  could not be found in '/Game/ThirdPersonBP/Maps/Water.Water_C'
+[2021.05.02-21.08.30:680][665]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2021.05.02-21.08.30:727][665]LogSlate: Took 0.009201 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.05.02-21.09.29:871][978]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.09.31:246][ 54]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.09.31:269][ 54]LogSlate: Took 0.005862 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.05.02-21.09.37:332][399]BlueprintLog: New page: Compile Water
+[2021.05.02-21.09.37:334][399]LogBlueprint: Warning: [AssetLog] C:\Users\bpetr\Documents\GitHub\Game250Project\Project\Content\ThirdPersonBP\Maps\Water.umap: [Compiler] Could not find a variable named "SplatNum" in 'Water_C'.
+Make sure 'Water_C' has been compiled for  Get SplatNum
+[2021.05.02-21.09.37:334][399]LogBlueprint: Warning: [AssetLog] C:\Users\bpetr\Documents\GitHub\Game250Project\Project\Content\ThirdPersonBP\Maps\Water.umap: [Compiler] Could not find a variable named "SplatNum" in 'Water_C'.
+Make sure 'Water_C' has been compiled for  Get SplatNum
+[2021.05.02-21.09.37:334][399]LogBlueprint: Warning: [AssetLog] C:\Users\bpetr\Documents\GitHub\Game250Project\Project\Content\ThirdPersonBP\Maps\Water.umap: [Compiler] Could not find a variable named "SplatNum" in 'Water_C'.
+Make sure 'Water_C' has been compiled for  Get SplatNum
+[2021.05.02-21.09.37:336][399]LogBlueprint: Error: [AssetLog] C:\Users\bpetr\Documents\GitHub\Game250Project\Project\Content\ThirdPersonBP\Maps\Water.umap: [Compiler] The property associated with  Splat Num  could not be found in '/Game/ThirdPersonBP/Maps/Water.Water_C'
+[2021.05.02-21.09.37:337][399]LogBlueprint: Error: [AssetLog] C:\Users\bpetr\Documents\GitHub\Game250Project\Project\Content\ThirdPersonBP\Maps\Water.umap: [Compiler] The property associated with  Splat Num  could not be found in '/Game/ThirdPersonBP/Maps/Water.Water_C'
+[2021.05.02-21.09.37:337][399]LogBlueprint: Error: [AssetLog] C:\Users\bpetr\Documents\GitHub\Game250Project\Project\Content\ThirdPersonBP\Maps\Water.umap: [Compiler] The property associated with  Splat Num  could not be found in '/Game/ThirdPersonBP/Maps/Water.Water_C'
+[2021.05.02-21.09.37:377][399]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2021.05.02-21.09.45:964][884]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.09.46:000][884]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2021.05.02-21.09.46:101][884]LogSavePackage: Moving '../../../../Users/bpetr/Documents/GitHub/Game250Project/Project/Saved/Water5236BFBA47C6A59CF33E7795E224B4B6.tmp' to '../../../../Users/bpetr/Documents/GitHub/Game250Project/Project/Content/ThirdPersonBP/Maps/Water.umap'
+[2021.05.02-21.09.46:115][884]LogFileHelpers: Saving map 'Water' took 0.141
+[2021.05.02-21.09.46:136][884]AssetCheck: New page: Asset Save: Water
+[2021.05.02-21.09.46:136][884]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Water.Water
+[2021.05.02-21.09.56:162][475]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2021.05.02-21.09.56:169][475]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.09.56:186][475]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/Building.Building
+[2021.05.02-21.09.56:186][475]Cmd: MAP LOAD FILE="../../../../Users/bpetr/Documents/GitHub/Game250Project/Project/Content/ThirdPersonBP/Maps/Building.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.02-21.09.56:186][475]LightingResults: New page: Lighting Build
+[2021.05.02-21.09.56:186][475]LoadErrors: New page: Loading map: Building.umap
+[2021.05.02-21.09.56:190][475]LogSlate: Window 'Water' being destroyed
+[2021.05.02-21.09.56:238][475]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-21.09.56:238][475]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-21.09.56:273][475]LogWorld: UWorld::CleanupWorld for Water, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-21.09.56:273][475]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-21.09.56:273][475]MapCheck: New page: Map Check
+[2021.05.02-21.09.56:273][475]LightingResults: New page: Lighting Build
+[2021.05.02-21.09.56:290][475]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.02-21.09.56:295][475]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2021.05.02-21.09.56:295][475]LogAudio: Display: Audio Device (ID: 1) registered with world 'Building'.
+[2021.05.02-21.09.56:439][475]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.02-21.09.56:439][475]LogAIModule: Creating AISystem for world Building
+[2021.05.02-21.09.56:467][475]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2021.05.02-21.09.56:477][475]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.02-21.09.56:477][475]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.161ms to complete.
+[2021.05.02-21.09.56:477][475]LogFileHelpers: Loading map 'Building' took 0.291
+[2021.05.02-21.09.58:545][588]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.09.58:882][605]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.09.59:602][639]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.09.59:606][639]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPersonBP/Maps/Building.Building:PersistentLevel.Building
+[2021.05.02-21.09.59:626][639]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.10.49:886][391]LogSlate: Window 'Building' being destroyed
+[2021.05.02-21.10.49:927][391]LogSlate: Window 'Building' being destroyed
+[2021.05.02-21.10.49:931][391]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-21.10.49:931][391]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-21.10.50:903][436]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2021.05.02-21.10.50:911][436]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.10.50:928][436]LogBlueprint: Warning: [AssetLog] C:\Users\bpetr\Documents\GitHub\Game250Project\Project\Content\ThirdPersonBP\Maps\Water.umap: [Compiler] Could not find a variable named "SplatNum" in 'Water_C'.
+Make sure 'Water_C' has been compiled for  Get SplatNum
+[2021.05.02-21.10.50:928][436]LogBlueprint: Warning: [AssetLog] C:\Users\bpetr\Documents\GitHub\Game250Project\Project\Content\ThirdPersonBP\Maps\Water.umap: [Compiler] Could not find a variable named "SplatNum" in 'Water_C'.
+Make sure 'Water_C' has been compiled for  Get SplatNum
+[2021.05.02-21.10.50:928][436]LogBlueprint: Warning: [AssetLog] C:\Users\bpetr\Documents\GitHub\Game250Project\Project\Content\ThirdPersonBP\Maps\Water.umap: [Compiler] Could not find a variable named "SplatNum" in 'Water_C'.
+Make sure 'Water_C' has been compiled for  Get SplatNum
+[2021.05.02-21.10.50:929][436]LogBlueprint: Error: [AssetLog] C:\Users\bpetr\Documents\GitHub\Game250Project\Project\Content\ThirdPersonBP\Maps\Water.umap: [Compiler] The property associated with  Splat Num  could not be found in '/Game/ThirdPersonBP/Maps/Water.Water_C'
+[2021.05.02-21.10.50:930][436]LogBlueprint: Error: [AssetLog] C:\Users\bpetr\Documents\GitHub\Game250Project\Project\Content\ThirdPersonBP\Maps\Water.umap: [Compiler] The property associated with  Splat Num  could not be found in '/Game/ThirdPersonBP/Maps/Water.Water_C'
+[2021.05.02-21.10.50:930][436]LogBlueprint: Error: [AssetLog] C:\Users\bpetr\Documents\GitHub\Game250Project\Project\Content\ThirdPersonBP\Maps\Water.umap: [Compiler] The property associated with  Splat Num  could not be found in '/Game/ThirdPersonBP/Maps/Water.Water_C'
+[2021.05.02-21.10.50:972][436]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/Water.Water
+[2021.05.02-21.10.50:972][436]Cmd: MAP LOAD FILE="../../../../Users/bpetr/Documents/GitHub/Game250Project/Project/Content/ThirdPersonBP/Maps/Water.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.02-21.10.50:972][436]LightingResults: New page: Lighting Build
+[2021.05.02-21.10.50:972][436]LoadErrors: New page: Loading map: Water.umap
+[2021.05.02-21.10.50:976][436]LogWorld: UWorld::CleanupWorld for Building, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-21.10.50:976][436]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-21.10.50:976][436]MapCheck: New page: Map Check
+[2021.05.02-21.10.50:977][436]LightingResults: New page: Lighting Build
+[2021.05.02-21.10.50:995][436]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.02-21.10.51:005][436]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2021.05.02-21.10.51:006][436]LogAudio: Display: Audio Device (ID: 1) registered with world 'Water'.
+[2021.05.02-21.10.51:130][436]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.02-21.10.51:130][436]LogAIModule: Creating AISystem for world Water
+[2021.05.02-21.10.51:151][436]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2021.05.02-21.10.51:164][436]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.02-21.10.51:164][436]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.215ms to complete.
+[2021.05.02-21.10.51:164][436]LogFileHelpers: Loading map 'Water' took 0.192
+[2021.05.02-21.10.52:156][491]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.10.52:366][502]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.10.52:789][525]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.10.52:794][525]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPersonBP/Maps/Water.Water:PersistentLevel.Water
+[2021.05.02-21.10.52:808][525]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.10.54:696][605]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.10.54:813][607]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.11.03:356][105]BlueprintLog: New page: Compile Water
+[2021.05.02-21.11.03:359][105]LogBlueprint: Warning: [AssetLog] C:\Users\bpetr\Documents\GitHub\Game250Project\Project\Content\ThirdPersonBP\Maps\Water.umap: [Compiler] Could not find a variable named "SplatNum" in 'Water_C'.
+Make sure 'Water_C' has been compiled for  Get SplatNum
+[2021.05.02-21.11.03:360][105]LogBlueprint: Warning: [AssetLog] C:\Users\bpetr\Documents\GitHub\Game250Project\Project\Content\ThirdPersonBP\Maps\Water.umap: [Compiler] Could not find a variable named "SplatNum" in 'Water_C'.
+Make sure 'Water_C' has been compiled for  Get SplatNum
+[2021.05.02-21.11.03:360][105]LogBlueprint: Warning: [AssetLog] C:\Users\bpetr\Documents\GitHub\Game250Project\Project\Content\ThirdPersonBP\Maps\Water.umap: [Compiler] Could not find a variable named "SplatNum" in 'Water_C'.
+Make sure 'Water_C' has been compiled for  Get SplatNum
+[2021.05.02-21.11.03:361][105]LogBlueprint: Error: [AssetLog] C:\Users\bpetr\Documents\GitHub\Game250Project\Project\Content\ThirdPersonBP\Maps\Water.umap: [Compiler] The property associated with  Splat Num  could not be found in '/Game/ThirdPersonBP/Maps/Water.Water_C'
+[2021.05.02-21.11.03:361][105]LogBlueprint: Error: [AssetLog] C:\Users\bpetr\Documents\GitHub\Game250Project\Project\Content\ThirdPersonBP\Maps\Water.umap: [Compiler] The property associated with  Splat Num  could not be found in '/Game/ThirdPersonBP/Maps/Water.Water_C'
+[2021.05.02-21.11.03:362][105]LogBlueprint: Error: [AssetLog] C:\Users\bpetr\Documents\GitHub\Game250Project\Project\Content\ThirdPersonBP\Maps\Water.umap: [Compiler] The property associated with  Splat Num  could not be found in '/Game/ThirdPersonBP/Maps/Water.Water_C'
+[2021.05.02-21.11.03:404][105]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2021.05.02-21.11.10:324][513]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.11.10:367][513]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2021.05.02-21.11.10:480][513]LogSavePackage: Moving '../../../../Users/bpetr/Documents/GitHub/Game250Project/Project/Saved/Water94C68DC9453EF29252B85CBB22400561.tmp' to '../../../../Users/bpetr/Documents/GitHub/Game250Project/Project/Content/ThirdPersonBP/Maps/Water.umap'
+[2021.05.02-21.11.10:495][513]LogFileHelpers: Saving map 'Water' took 0.154
+[2021.05.02-21.11.10:510][513]AssetCheck: New page: Asset Save: Water
+[2021.05.02-21.11.10:510][513]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Water.Water
+[2021.05.02-21.11.11:015][543]BlueprintLog: New page: Compile Water
+[2021.05.02-21.11.11:018][543]LogBlueprint: Warning: [AssetLog] C:\Users\bpetr\Documents\GitHub\Game250Project\Project\Content\ThirdPersonBP\Maps\Water.umap: [Compiler] Could not find a variable named "SplatNum" in 'Water_C'.
+Make sure 'Water_C' has been compiled for  Get SplatNum
+[2021.05.02-21.11.11:018][543]LogBlueprint: Warning: [AssetLog] C:\Users\bpetr\Documents\GitHub\Game250Project\Project\Content\ThirdPersonBP\Maps\Water.umap: [Compiler] Could not find a variable named "SplatNum" in 'Water_C'.
+Make sure 'Water_C' has been compiled for  Get SplatNum
+[2021.05.02-21.11.11:019][543]LogBlueprint: Warning: [AssetLog] C:\Users\bpetr\Documents\GitHub\Game250Project\Project\Content\ThirdPersonBP\Maps\Water.umap: [Compiler] Could not find a variable named "SplatNum" in 'Water_C'.
+Make sure 'Water_C' has been compiled for  Get SplatNum
+[2021.05.02-21.11.11:020][543]LogBlueprint: Error: [AssetLog] C:\Users\bpetr\Documents\GitHub\Game250Project\Project\Content\ThirdPersonBP\Maps\Water.umap: [Compiler] The property associated with  Splat Num  could not be found in '/Game/ThirdPersonBP/Maps/Water.Water_C'
+[2021.05.02-21.11.11:020][543]LogBlueprint: Error: [AssetLog] C:\Users\bpetr\Documents\GitHub\Game250Project\Project\Content\ThirdPersonBP\Maps\Water.umap: [Compiler] The property associated with  Splat Num  could not be found in '/Game/ThirdPersonBP/Maps/Water.Water_C'
+[2021.05.02-21.11.11:020][543]LogBlueprint: Error: [AssetLog] C:\Users\bpetr\Documents\GitHub\Game250Project\Project\Content\ThirdPersonBP\Maps\Water.umap: [Compiler] The property associated with  Splat Num  could not be found in '/Game/ThirdPersonBP/Maps/Water.Water_C'
+[2021.05.02-21.11.11:061][543]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2021.05.02-21.12.33:698][330]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.12.34:597][384]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.12.42:709][868]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.12.43:134][891]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.12.45:353][ 20]BlueprintLog: New page: Compile Water
+[2021.05.02-21.12.45:356][ 20]LogBlueprint: Warning: [AssetLog] C:\Users\bpetr\Documents\GitHub\Game250Project\Project\Content\ThirdPersonBP\Maps\Water.umap: [Compiler] Could not find a variable named "SplatNum" in 'Water_C'.
+Make sure 'Water_C' has been compiled for  Get SplatNum
+[2021.05.02-21.12.45:356][ 20]LogBlueprint: Warning: [AssetLog] C:\Users\bpetr\Documents\GitHub\Game250Project\Project\Content\ThirdPersonBP\Maps\Water.umap: [Compiler] Could not find a variable named "SplatNum" in 'Water_C'.
+Make sure 'Water_C' has been compiled for  Get SplatNum
+[2021.05.02-21.12.45:357][ 20]LogBlueprint: Warning: [AssetLog] C:\Users\bpetr\Documents\GitHub\Game250Project\Project\Content\ThirdPersonBP\Maps\Water.umap: [Compiler] Could not find a variable named "SplatNum" in 'Water_C'.
+Make sure 'Water_C' has been compiled for  Get SplatNum
+[2021.05.02-21.12.45:358][ 20]LogBlueprint: Error: [AssetLog] C:\Users\bpetr\Documents\GitHub\Game250Project\Project\Content\ThirdPersonBP\Maps\Water.umap: [Compiler] The property associated with  Splat Num  could not be found in '/Game/ThirdPersonBP/Maps/Water.Water_C'
+[2021.05.02-21.12.45:358][ 20]LogBlueprint: Error: [AssetLog] C:\Users\bpetr\Documents\GitHub\Game250Project\Project\Content\ThirdPersonBP\Maps\Water.umap: [Compiler] The property associated with  Splat Num  could not be found in '/Game/ThirdPersonBP/Maps/Water.Water_C'
+[2021.05.02-21.12.45:358][ 20]LogBlueprint: Error: [AssetLog] C:\Users\bpetr\Documents\GitHub\Game250Project\Project\Content\ThirdPersonBP\Maps\Water.umap: [Compiler] The property associated with  Splat Num  could not be found in '/Game/ThirdPersonBP/Maps/Water.Water_C'
+[2021.05.02-21.12.45:399][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2021.05.02-21.12.57:568][330]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.12.57:596][330]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2021.05.02-21.12.57:693][330]LogSavePackage: Moving '../../../../Users/bpetr/Documents/GitHub/Game250Project/Project/Saved/Water68B1B4D742F37BF549D32F805365293A.tmp' to '../../../../Users/bpetr/Documents/GitHub/Game250Project/Project/Content/ThirdPersonBP/Maps/Water.umap'
+[2021.05.02-21.12.57:709][330]LogFileHelpers: Saving map 'Water' took 0.131
+[2021.05.02-21.12.57:721][330]AssetCheck: New page: Asset Save: Water
+[2021.05.02-21.12.57:721][330]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Water.Water
+[2021.05.02-21.13.04:483][724]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.13.04:772][740]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.13.16:504][394]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2021.05.02-21.13.16:510][394]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.13.16:584][394]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/Building.Building
+[2021.05.02-21.13.16:584][394]Cmd: MAP LOAD FILE="../../../../Users/bpetr/Documents/GitHub/Game250Project/Project/Content/ThirdPersonBP/Maps/Building.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.02-21.13.16:584][394]LightingResults: New page: Lighting Build
+[2021.05.02-21.13.16:584][394]LoadErrors: New page: Loading map: Building.umap
+[2021.05.02-21.13.16:588][394]LogSlate: Window 'Water' being destroyed
+[2021.05.02-21.13.16:598][394]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-21.13.16:598][394]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-21.13.16:631][394]LogWorld: UWorld::CleanupWorld for Water, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-21.13.16:631][394]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-21.13.16:632][394]MapCheck: New page: Map Check
+[2021.05.02-21.13.16:632][394]LightingResults: New page: Lighting Build
+[2021.05.02-21.13.16:647][394]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.02-21.13.16:654][394]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2021.05.02-21.13.16:655][394]LogAudio: Display: Audio Device (ID: 1) registered with world 'Building'.
+[2021.05.02-21.13.16:797][394]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.02-21.13.16:797][394]LogAIModule: Creating AISystem for world Building
+[2021.05.02-21.13.16:827][394]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2021.05.02-21.13.16:837][394]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.02-21.13.16:837][394]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.166ms to complete.
+[2021.05.02-21.13.16:837][394]LogFileHelpers: Loading map 'Building' took 0.252
+[2021.05.02-21.13.18:342][476]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.13.18:622][492]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.13.19:360][528]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.13.19:367][528]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPersonBP/Maps/Building.Building:PersistentLevel.Building
+[2021.05.02-21.13.19:385][528]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.13.51:586][234]BlueprintLog: New page: Compile Building
+[2021.05.02-21.13.51:649][234]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2021.05.02-21.13.59:434][493]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2021.05.02-21.13.59:459][493]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.14.02:208][493]LogSlate: Window 'Save Content' being destroyed
+[2021.05.02-21.14.02:220][493]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.14.02:245][493]LogBlueprint: Warning: [AssetLog] C:\Users\bpetr\Documents\GitHub\Game250Project\Project\Content\ThirdPersonBP\Maps\Water.umap: [Compiler] Could not find a variable named "SplatNum" in 'Water_C'.
+Make sure 'Water_C' has been compiled for  Get SplatNum
+[2021.05.02-21.14.02:245][493]LogBlueprint: Warning: [AssetLog] C:\Users\bpetr\Documents\GitHub\Game250Project\Project\Content\ThirdPersonBP\Maps\Water.umap: [Compiler] Could not find a variable named "SplatNum" in 'Water_C'.
+Make sure 'Water_C' has been compiled for  Get SplatNum
+[2021.05.02-21.14.02:246][493]LogBlueprint: Warning: [AssetLog] C:\Users\bpetr\Documents\GitHub\Game250Project\Project\Content\ThirdPersonBP\Maps\Water.umap: [Compiler] Could not find a variable named "SplatNum" in 'Water_C'.
+Make sure 'Water_C' has been compiled for  Get SplatNum
+[2021.05.02-21.14.02:247][493]LogBlueprint: Error: [AssetLog] C:\Users\bpetr\Documents\GitHub\Game250Project\Project\Content\ThirdPersonBP\Maps\Water.umap: [Compiler] The property associated with  Splat Num  could not be found in '/Game/ThirdPersonBP/Maps/Water.Water_C'
+[2021.05.02-21.14.02:247][493]LogBlueprint: Error: [AssetLog] C:\Users\bpetr\Documents\GitHub\Game250Project\Project\Content\ThirdPersonBP\Maps\Water.umap: [Compiler] The property associated with  Splat Num  could not be found in '/Game/ThirdPersonBP/Maps/Water.Water_C'
+[2021.05.02-21.14.02:248][493]LogBlueprint: Error: [AssetLog] C:\Users\bpetr\Documents\GitHub\Game250Project\Project\Content\ThirdPersonBP\Maps\Water.umap: [Compiler] The property associated with  Splat Num  could not be found in '/Game/ThirdPersonBP/Maps/Water.Water_C'
+[2021.05.02-21.14.02:301][493]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/Water.Water
+[2021.05.02-21.14.02:302][493]Cmd: MAP LOAD FILE="../../../../Users/bpetr/Documents/GitHub/Game250Project/Project/Content/ThirdPersonBP/Maps/Water.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.02-21.14.02:302][493]LightingResults: New page: Lighting Build
+[2021.05.02-21.14.02:302][493]LoadErrors: New page: Loading map: Water.umap
+[2021.05.02-21.14.02:306][493]LogSlate: Window 'Building' being destroyed
+[2021.05.02-21.14.02:317][493]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-21.14.02:317][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-21.14.02:357][493]LogWorld: UWorld::CleanupWorld for Building, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-21.14.02:357][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-21.14.02:358][493]MapCheck: New page: Map Check
+[2021.05.02-21.14.02:358][493]LightingResults: New page: Lighting Build
+[2021.05.02-21.14.02:377][493]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.02-21.14.02:391][493]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2021.05.02-21.14.02:391][493]LogAudio: Display: Audio Device (ID: 1) registered with world 'Water'.
+[2021.05.02-21.14.02:527][493]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.02-21.14.02:528][493]LogAIModule: Creating AISystem for world Water
+[2021.05.02-21.14.02:553][493]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2021.05.02-21.14.02:565][493]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.02-21.14.02:565][493]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.191ms to complete.
+[2021.05.02-21.14.02:566][493]LogFileHelpers: Loading map 'Water' took 0.264
+[2021.05.02-21.14.08:085][806]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.14.08:417][825]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.14.08:951][854]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.14.08:957][854]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPersonBP/Maps/Water.Water:PersistentLevel.Water
+[2021.05.02-21.14.08:979][854]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.14.26:246][818]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.14.28:591][954]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-21.14.45:467][934]BlueprintLog: New page: Compile Water
+[2021.05.02-21.14.45:470][934]LogBlueprint: Warning: [AssetLog] C:\Users\bpetr\Documents\GitHub\Game250Project\Project\Content\ThirdPersonBP\Maps\Water.umap: [Compiler] Could not find a variable named "SplatNum" in 'Water_C'.
+Make sure 'Water_C' has been compiled for  Get SplatNum
+[2021.05.02-21.14.45:471][934]LogBlueprint: Warning: [AssetLog] C:\Users\bpetr\Documents\GitHub\Game250Project\Project\Content\ThirdPersonBP\Maps\Water.umap: [Compiler] Could not find a variable named "SplatNum" in 'Water_C'.
+Make sure 'Water_C' has been compiled for  Get SplatNum
+[2021.05.02-21.14.45:471][934]LogBlueprint: Warning: [AssetLog] C:\Users\bpetr\Documents\GitHub\Game250Project\Project\Content\ThirdPersonBP\Maps\Water.umap: [Compiler] Could not find a variable named "SplatNum" in 'Water_C'.
+Make sure 'Water_C' has been compiled for  Get SplatNum
+[2021.05.02-21.14.45:472][934]LogBlueprint: Error: [AssetLog] C:\Users\bpetr\Documents\GitHub\Game250Project\Project\Content\ThirdPersonBP\Maps\Water.umap: [Compiler] The property associated with  Splat Num  could not be found in '/Game/ThirdPersonBP/Maps/Water.Water_C'
+[2021.05.02-21.14.45:472][934]LogBlueprint: Error: [AssetLog] C:\Users\bpetr\Documents\GitHub\Game250Project\Project\Content\ThirdPersonBP\Maps\Water.umap: [Compiler] The property associated with  Splat Num  could not be found in '/Game/ThirdPersonBP/Maps/Water.Water_C'
+[2021.05.02-21.14.45:473][934]LogBlueprint: Error: [AssetLog] C:\Users\bpetr\Documents\GitHub\Game250Project\Project\Content\ThirdPersonBP\Maps\Water.umap: [Compiler] The property associated with  Splat Num  could not be found in '/Game/ThirdPersonBP/Maps/Water.Water_C'
+[2021.05.02-21.14.45:520][934]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
