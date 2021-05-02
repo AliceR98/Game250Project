@@ -1012,3 +1012,951 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.02-19.57.56:541][110]OBJ SavePackage: Finished generating thumbnails for package [/Game/SoulCave/Environment/Textures/Water/T_Soul_Water01_Mat]
 [2021.05.02-19.57.56:551][110]LogSavePackage: Moving '../../../../Users/bpetr/Documents/GitHub/Game250Project/Project/Saved/T_Soul_Water01_Mat_Auto1456FF21647FACD93ACBB948D32119C58.tmp' to '../../../../Users/bpetr/Documents/GitHub/Game250Project/Project/Saved/Autosaves/Game/SoulCave/Environment/Textures/Water/T_Soul_Water01_Mat_Auto1.uasset'
 [2021.05.02-19.57.56:552][110]LogFileHelpers: Auto-saving content packages took 0.107
+[2021.05.02-20.03.02:294][466]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.03.03:210][523]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.03.05:772][727]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube98)
+[2021.05.02-20.03.12:878][388]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube96)
+[2021.05.02-20.03.34:634][175]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube96)
+[2021.05.02-20.03.34:648][175]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.03.35:401][222]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.03.36:113][273]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.03.37:277][351]Cmd: DUPLICATE
+[2021.05.02-20.03.37:278][351]Cmd: ACTOR DUPLICATE
+[2021.05.02-20.04.15:030][515]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube96)
+[2021.05.02-20.04.15:300][537]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube96)
+[2021.05.02-20.04.15:309][537]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.04.38:765][381]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube99)
+[2021.05.02-20.04.38:797][381]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.04.40:148][478]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube99)
+[2021.05.02-20.04.40:159][478]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.04.40:829][512]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.04.41:325][543]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.04.44:604][765]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube99)
+[2021.05.02-20.04.44:614][765]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.04.44:850][774]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.04.45:330][798]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.04.45:949][833]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.04.46:617][871]Cmd: DUPLICATE
+[2021.05.02-20.04.46:617][871]Cmd: ACTOR DUPLICATE
+[2021.05.02-20.05.24:949][976]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.02-20.05.24:959][976]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.02-20.05.24:959][976]PIE: New page: PIE session: Water (May 2, 2021, 12:05:24 PM)
+[2021.05.02-20.05.24:980][976]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Water
+[2021.05.02-20.05.24:997][976]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016663s)
+[2021.05.02-20.05.24:998][976]LogAIModule: Creating AISystem for world Water
+[2021.05.02-20.05.24:998][976]LogPlayLevel: PIE: World Init took: (0.001230s)
+[2021.05.02-20.05.24:998][976]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Water.Water to /Game/ThirdPersonBP/Maps/UEDPIE_0_Water.Water (0.018066s)
+[2021.05.02-20.05.25:004][976]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.05.02-20.05.25:006][976]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.05.02-20.05.25:006][976]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.02-20.05.25:006][976]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.02-20.05.25:006][976]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.02-20.05.25:006][976]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.02-20.05.25:006][976]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.02-20.05.25:006][976]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.02-20.05.25:006][976]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.02-20.05.25:006][976]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.02-20.05.25:007][976]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.02-20.05.25:007][976]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.02-20.05.25:011][976]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.02-20.05.25:011][976]LogAudioMixer: Display: 1: FrontRight
+[2021.05.02-20.05.25:025][976]LogAudioMixer: Display: Using Audio Device Speakers (3- USB Audio Device)
+[2021.05.02-20.05.25:025][976]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.02-20.05.25:025][976]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.02-20.05.25:025][976]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.02-20.05.25:025][976]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.02-20.05.25:026][976]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.02-20.05.25:026][976]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.02-20.05.25:045][976]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.02-20.05.25:045][976]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.02-20.05.25:045][976]LogInit: FAudioDevice initialized.
+[2021.05.02-20.05.25:045][976]LogAudio: Display: Audio Device (ID: 3) registered with world 'Water'.
+[2021.05.02-20.05.25:055][976]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.02-20.05.25:064][976]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Water.Water up for play (max tick rate 0) at 2021.05.02-16.05.25
+[2021.05.02-20.05.25:065][976]LogWorld: Bringing up level for play took: 0.009174
+[2021.05.02-20.05.25:065][976]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2021.05.02-20.05.25:069][976]PIE: Server logged in
+[2021.05.02-20.05.25:070][976]PIE: Play in editor total start time 0.114 seconds.
+[2021.05.02-20.05.26:732][124]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-20.05.26:732][124]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Water
+[2021.05.02-20.05.26:733][124]LogWorld: UWorld::CleanupWorld for Water, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-20.05.26:734][124]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-20.05.26:748][124]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.02-20.05.26:763][124]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-20.05.26:768][124]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.02-20.05.26:769][124]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.02-20.05.26:770][124]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.02-20.05.26:787][124]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-20.05.26:790][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.05.02-20.05.26:852][125]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2021.05.02-20.05.41:089][319]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube100)
+[2021.05.02-20.05.41:100][319]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.05.41:713][348]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.05.42:267][384]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.05.43:485][456]Cmd: DUPLICATE
+[2021.05.02-20.05.43:486][456]Cmd: ACTOR DUPLICATE
+[2021.05.02-20.05.44:069][499]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube100)
+[2021.05.02-20.05.44:097][499]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.05.44:692][528]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.05.53:854][250]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.02-20.05.53:863][250]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.02-20.05.53:863][250]PIE: New page: PIE session: Water (May 2, 2021, 12:05:53 PM)
+[2021.05.02-20.05.53:891][250]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Water
+[2021.05.02-20.05.53:911][250]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020105s)
+[2021.05.02-20.05.53:913][250]LogAIModule: Creating AISystem for world Water
+[2021.05.02-20.05.53:913][250]LogPlayLevel: PIE: World Init took: (0.001640s)
+[2021.05.02-20.05.53:913][250]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Water.Water to /Game/ThirdPersonBP/Maps/UEDPIE_0_Water.Water (0.021948s)
+[2021.05.02-20.05.53:919][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.05.02-20.05.53:920][250]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.05.02-20.05.53:920][250]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.02-20.05.53:920][250]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.02-20.05.53:920][250]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.02-20.05.53:920][250]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.02-20.05.53:920][250]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.02-20.05.53:920][250]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.02-20.05.53:920][250]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.02-20.05.53:920][250]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.02-20.05.53:921][250]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.02-20.05.53:921][250]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.02-20.05.53:925][250]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.02-20.05.53:925][250]LogAudioMixer: Display: 1: FrontRight
+[2021.05.02-20.05.53:935][250]LogAudioMixer: Display: Using Audio Device Speakers (3- USB Audio Device)
+[2021.05.02-20.05.53:935][250]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.02-20.05.53:935][250]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.02-20.05.53:935][250]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.02-20.05.53:936][250]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.02-20.05.53:936][250]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.02-20.05.53:936][250]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.02-20.05.53:959][250]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.02-20.05.53:959][250]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.02-20.05.53:959][250]LogInit: FAudioDevice initialized.
+[2021.05.02-20.05.53:959][250]LogAudio: Display: Audio Device (ID: 4) registered with world 'Water'.
+[2021.05.02-20.05.53:966][250]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.02-20.05.53:974][250]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Water.Water up for play (max tick rate 0) at 2021.05.02-16.05.53
+[2021.05.02-20.05.53:974][250]LogWorld: Bringing up level for play took: 0.007535
+[2021.05.02-20.05.53:974][250]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2021.05.02-20.05.53:978][250]PIE: Server logged in
+[2021.05.02-20.05.53:978][250]PIE: Play in editor total start time 0.117 seconds.
+[2021.05.02-20.05.57:522][583]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-20.05.57:523][583]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Water
+[2021.05.02-20.05.57:523][583]LogWorld: UWorld::CleanupWorld for Water, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-20.05.57:524][583]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-20.05.57:535][583]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.02-20.05.57:554][583]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-20.05.57:562][583]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.02-20.05.57:563][583]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.02-20.05.57:564][583]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.02-20.05.57:581][583]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-20.05.57:583][583]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.05.02-20.05.57:625][584]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2021.05.02-20.06.22:851][738]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube100)
+[2021.05.02-20.06.22:863][738]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.06.23:486][776]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.06.23:984][808]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.06.24:936][865]Cmd: DUPLICATE
+[2021.05.02-20.06.24:936][865]Cmd: ACTOR DUPLICATE
+[2021.05.02-20.06.55:564][378]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube102)
+[2021.05.02-20.06.55:573][378]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.06.56:110][399]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.06.56:618][434]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.06.58:296][534]Cmd: DUPLICATE
+[2021.05.02-20.06.58:296][534]Cmd: ACTOR DUPLICATE
+[2021.05.02-20.07.59:975][302]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube103)
+[2021.05.02-20.07.59:986][302]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.08.00:434][324]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.08.01:362][377]Cmd: DUPLICATE
+[2021.05.02-20.08.01:362][377]Cmd: ACTOR DUPLICATE
+[2021.05.02-20.08.29:231][336]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.02-20.08.29:240][336]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.02-20.08.29:240][336]PIE: New page: PIE session: Water (May 2, 2021, 12:08:29 PM)
+[2021.05.02-20.08.29:261][336]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Water
+[2021.05.02-20.08.29:277][336]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016641s)
+[2021.05.02-20.08.29:279][336]LogAIModule: Creating AISystem for world Water
+[2021.05.02-20.08.29:279][336]LogPlayLevel: PIE: World Init took: (0.001429s)
+[2021.05.02-20.08.29:279][336]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Water.Water to /Game/ThirdPersonBP/Maps/UEDPIE_0_Water.Water (0.018258s)
+[2021.05.02-20.08.29:285][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.05.02-20.08.29:286][336]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.05.02-20.08.29:286][336]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.02-20.08.29:286][336]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.02-20.08.29:286][336]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.02-20.08.29:286][336]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.02-20.08.29:286][336]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.02-20.08.29:286][336]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.02-20.08.29:286][336]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.02-20.08.29:286][336]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.02-20.08.29:286][336]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.02-20.08.29:286][336]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.02-20.08.29:292][336]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.02-20.08.29:292][336]LogAudioMixer: Display: 1: FrontRight
+[2021.05.02-20.08.29:307][336]LogAudioMixer: Display: Using Audio Device Speakers (3- USB Audio Device)
+[2021.05.02-20.08.29:307][336]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.02-20.08.29:307][336]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.02-20.08.29:307][336]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.02-20.08.29:308][336]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.02-20.08.29:308][336]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.02-20.08.29:308][336]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.02-20.08.29:323][336]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.02-20.08.29:323][336]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.02-20.08.29:323][336]LogInit: FAudioDevice initialized.
+[2021.05.02-20.08.29:323][336]LogAudio: Display: Audio Device (ID: 5) registered with world 'Water'.
+[2021.05.02-20.08.29:334][336]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.02-20.08.29:344][336]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Water.Water up for play (max tick rate 60) at 2021.05.02-16.08.29
+[2021.05.02-20.08.29:345][336]LogWorld: Bringing up level for play took: 0.009977
+[2021.05.02-20.08.29:345][336]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2021.05.02-20.08.29:349][336]PIE: Server logged in
+[2021.05.02-20.08.29:352][336]PIE: Play in editor total start time 0.114 seconds.
+[2021.05.02-20.08.35:752][710]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-20.08.35:752][710]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Water
+[2021.05.02-20.08.35:753][710]LogWorld: UWorld::CleanupWorld for Water, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-20.08.35:754][710]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-20.08.35:764][710]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.02-20.08.35:786][710]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-20.08.35:792][710]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.02-20.08.35:793][710]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.02-20.08.35:794][710]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.02-20.08.35:823][710]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-20.08.35:826][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.05.02-20.08.35:877][711]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2021.05.02-20.08.54:311][797]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube96)
+[2021.05.02-20.09.14:093][959]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube77)
+[2021.05.02-20.09.14:627][985]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube77)
+[2021.05.02-20.09.14:636][985]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.09.15:196][ 10]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.09.15:242][ 11]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.09.16:519][ 77]Cmd: DUPLICATE
+[2021.05.02-20.09.16:519][ 77]Cmd: ACTOR DUPLICATE
+[2021.05.02-20.09.29:716][838]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube76)
+[2021.05.02-20.09.39:149][380]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube76)
+[2021.05.02-20.09.43:572][628]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.09.43:602][628]LogActorFactory: Actor Factory created Cube
+[2021.05.02-20.09.44:022][643]LogActorFactory: Actor Factory created Cube
+[2021.05.02-20.10.15:958][496]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.10.25:310][ 35]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube105)
+[2021.05.02-20.10.45:837][238]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube76)
+[2021.05.02-20.10.48:726][392]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube76)
+[2021.05.02-20.10.48:806][396]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent2)
+[2021.05.02-20.11.01:132][112]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent1)
+[2021.05.02-20.11.32:345][955]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube104)
+[2021.05.02-20.11.32:713][975]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube104)
+[2021.05.02-20.11.32:722][975]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.11.33:426][  7]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.11.33:936][ 30]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.11.34:851][ 78]Cmd: DUPLICATE
+[2021.05.02-20.11.34:851][ 78]Cmd: ACTOR DUPLICATE
+[2021.05.02-20.11.43:499][591]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube106)
+[2021.05.02-20.11.43:509][591]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.11.44:047][617]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.11.44:102][618]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.11.44:825][659]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.11.45:005][667]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.11.50:583][986]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Shape_Cube2)
+[2021.05.02-20.11.50:615][986]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.11.51:028][  3]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.11.51:623][ 36]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.11.53:458][136]Cmd: DUPLICATE
+[2021.05.02-20.11.53:458][136]Cmd: ACTOR DUPLICATE
+[2021.05.02-20.11.57:938][395]Cmd: TRANSACTION UNDO
+[2021.05.02-20.11.57:939][395]LogEditorTransaction: Undo Duplicate Actors
+[2021.05.02-20.11.57:959][395]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.11.59:237][461]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube106)
+[2021.05.02-20.12.00:194][515]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube106)
+[2021.05.02-20.12.00:202][515]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.12.00:482][527]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.12.00:573][529]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.12.03:123][668]Cmd: DUPLICATE
+[2021.05.02-20.12.03:123][668]Cmd: ACTOR DUPLICATE
+[2021.05.02-20.12.39:263][771]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube106)
+[2021.05.02-20.12.42:085][937]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube107)
+[2021.05.02-20.12.52:382][542]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube107)
+[2021.05.02-20.12.52:391][542]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.12.53:863][619]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.12.54:918][674]Cmd: DUPLICATE
+[2021.05.02-20.12.54:918][674]Cmd: ACTOR DUPLICATE
+[2021.05.02-20.13.13:558][740]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube103)
+[2021.05.02-20.13.21:803][209]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube108)
+[2021.05.02-20.13.28:992][628]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube108)
+[2021.05.02-20.13.29:000][628]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.13.29:339][644]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.13.29:614][656]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.13.30:633][707]Cmd: DUPLICATE
+[2021.05.02-20.13.30:633][707]Cmd: ACTOR DUPLICATE
+[2021.05.02-20.13.59:787][418]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube101)
+[2021.05.02-20.13.59:989][428]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube101)
+[2021.05.02-20.13.59:998][428]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.14.00:647][457]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.14.01:383][496]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.14.02:979][579]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube104)
+[2021.05.02-20.14.03:206][591]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube104)
+[2021.05.02-20.14.03:213][591]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.14.03:617][611]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.14.04:371][652]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.14.05:147][690]Cmd: DUPLICATE
+[2021.05.02-20.14.05:147][690]Cmd: ACTOR DUPLICATE
+[2021.05.02-20.14.14:338][211]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube110)
+[2021.05.02-20.14.14:346][211]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.14.14:867][234]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.14.14:917][235]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.14.15:892][284]Cmd: DUPLICATE
+[2021.05.02-20.14.15:892][284]Cmd: ACTOR DUPLICATE
+[2021.05.02-20.14.34:620][378]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube111)
+[2021.05.02-20.14.34:630][378]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.14.35:719][436]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.14.36:232][464]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.14.37:110][509]Cmd: DUPLICATE
+[2021.05.02-20.14.37:110][509]Cmd: ACTOR DUPLICATE
+[2021.05.02-20.14.52:457][398]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube111)
+[2021.05.02-20.14.55:047][547]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube110)
+[2021.05.02-20.15.00:814][890]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube112)
+[2021.05.02-20.15.03:893][ 72]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube101)
+[2021.05.02-20.15.18:213][917]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube100)
+[2021.05.02-20.15.18:459][929]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube100)
+[2021.05.02-20.15.18:468][929]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.15.19:490][982]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube111)
+[2021.05.02-20.15.21:072][ 67]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube111)
+[2021.05.02-20.15.21:082][ 67]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.15.21:574][ 91]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.15.21:634][ 92]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.15.22:383][132]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.15.23:271][178]Cmd: DUPLICATE
+[2021.05.02-20.15.23:271][178]Cmd: ACTOR DUPLICATE
+[2021.05.02-20.15.42:051][284]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Shape_Cube2)
+[2021.05.02-20.15.42:081][284]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.15.42:738][314]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.15.43:234][342]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.15.44:293][397]Cmd: DUPLICATE
+[2021.05.02-20.15.44:293][397]Cmd: ACTOR DUPLICATE
+[2021.05.02-20.15.49:172][665]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (Cube113)
+[2021.05.02-20.15.53:702][930]Cmd: TRANSACTION UNDO
+[2021.05.02-20.15.53:702][930]LogEditorTransaction: Undo Rotate Actors
+[2021.05.02-20.15.53:705][930]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.15.55:482][ 30]Cmd: TRANSACTION UNDO
+[2021.05.02-20.15.55:482][ 30]LogEditorTransaction: Undo Clicking on Actors (double-click)
+[2021.05.02-20.16.02:596][447]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube113)
+[2021.05.02-20.16.02:913][463]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube113)
+[2021.05.02-20.16.02:919][463]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.16.03:460][489]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.16.04:102][524]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.16.04:987][568]Cmd: DUPLICATE
+[2021.05.02-20.16.04:987][568]Cmd: ACTOR DUPLICATE
+[2021.05.02-20.16.23:495][635]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Shape_Cube2)
+[2021.05.02-20.16.23:526][635]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.16.24:058][658]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.16.24:753][696]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.16.25:911][756]Cmd: DUPLICATE
+[2021.05.02-20.16.25:911][756]Cmd: ACTOR DUPLICATE
+[2021.05.02-20.16.27:666][856]Cmd: TRANSACTION UNDO
+[2021.05.02-20.16.27:666][856]LogEditorTransaction: Undo Duplicate Actors
+[2021.05.02-20.16.27:685][856]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.16.30:520][ 10]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.16.30:965][ 27]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.16.31:343][ 46]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.16.33:399][144]Cmd: DELETE
+[2021.05.02-20.16.33:399][144]Cmd: ACTOR DELETE
+[2021.05.02-20.16.33:405][144]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.02-20.16.33:412][144]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.05.02-20.16.33:414][144]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.05.02-20.16.35:692][273]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube114)
+[2021.05.02-20.16.36:512][320]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube114)
+[2021.05.02-20.16.36:521][320]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.16.36:897][337]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.16.38:068][394]Cmd: DUPLICATE
+[2021.05.02-20.16.38:068][394]Cmd: ACTOR DUPLICATE
+[2021.05.02-20.17.03:099][875]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube103)
+[2021.05.02-20.17.03:477][896]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube103)
+[2021.05.02-20.17.03:485][896]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.17.03:839][911]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.17.04:115][924]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.17.05:369][994]Cmd: DUPLICATE
+[2021.05.02-20.17.05:369][994]Cmd: ACTOR DUPLICATE
+[2021.05.02-20.17.24:532][ 98]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube116)
+[2021.05.02-20.17.24:542][ 98]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.17.24:856][113]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.17.25:821][163]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.17.26:497][192]Cmd: DUPLICATE
+[2021.05.02-20.17.26:497][192]Cmd: ACTOR DUPLICATE
+[2021.05.02-20.17.50:355][596]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube115)
+[2021.05.02-20.17.50:734][617]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube115)
+[2021.05.02-20.17.50:743][617]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.17.51:216][638]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.17.51:280][639]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.17.52:031][673]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.17.52:724][708]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.17.54:401][776]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.17.55:041][808]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.17.56:281][871]Cmd: DUPLICATE
+[2021.05.02-20.17.56:281][871]Cmd: ACTOR DUPLICATE
+[2021.05.02-20.18.08:064][566]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube115)
+[2021.05.02-20.18.18:281][159]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube118)
+[2021.05.02-20.18.34:628][117]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube118)
+[2021.05.02-20.18.34:638][117]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.18.35:006][134]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.18.35:874][181]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.18.37:087][243]Cmd: DUPLICATE
+[2021.05.02-20.18.37:088][243]Cmd: ACTOR DUPLICATE
+[2021.05.02-20.18.54:569][262]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube118)
+[2021.05.02-20.18.55:388][307]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube119)
+[2021.05.02-20.18.55:606][318]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube119)
+[2021.05.02-20.18.55:616][318]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.18.55:868][329]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.18.57:396][400]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube114)
+[2021.05.02-20.18.57:974][433]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube113)
+[2021.05.02-20.18.58:570][467]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube114)
+[2021.05.02-20.18.59:800][539]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube115)
+[2021.05.02-20.19.00:890][601]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube111)
+[2021.05.02-20.19.01:122][613]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube111)
+[2021.05.02-20.19.01:129][613]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.19.01:509][630]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.19.02:016][658]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.19.02:755][695]Cmd: DUPLICATE
+[2021.05.02-20.19.02:755][695]Cmd: ACTOR DUPLICATE
+[2021.05.02-20.19.24:890][994]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube118)
+[2021.05.02-20.19.26:986][117]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube120)
+[2021.05.02-20.19.32:427][433]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube118)
+[2021.05.02-20.19.49:984][463]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube114)
+[2021.05.02-20.19.52:369][596]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube115)
+[2021.05.02-20.19.56:699][851]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube114)
+[2021.05.02-20.20.04:746][323]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube2)
+[2021.05.02-20.20.06:307][413]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube114)
+[2021.05.02-20.20.12:177][757]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube113)
+[2021.05.02-20.20.19:041][154]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube103)
+[2021.05.02-20.20.55:930][334]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube108)
+[2021.05.02-20.20.56:275][353]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube108)
+[2021.05.02-20.20.56:284][353]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.20.58:559][484]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube103)
+[2021.05.02-20.21.00:559][601]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube2)
+[2021.05.02-20.21.00:906][619]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube108)
+[2021.05.02-20.21.01:155][632]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube108)
+[2021.05.02-20.21.01:166][632]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.21.01:486][643]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.21.02:283][683]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.21.03:274][733]Cmd: DUPLICATE
+[2021.05.02-20.21.03:274][733]Cmd: ACTOR DUPLICATE
+[2021.05.02-20.21.20:351][721]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube103)
+[2021.05.02-20.21.30:634][318]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube102)
+[2021.05.02-20.21.32:221][403]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube102)
+[2021.05.02-20.21.32:232][403]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.21.32:788][430]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.21.33:302][458]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.21.35:115][550]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube102)
+[2021.05.02-20.21.35:123][550]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.21.35:641][574]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.21.36:145][603]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.21.36:877][638]Cmd: DUPLICATE
+[2021.05.02-20.21.36:877][638]Cmd: ACTOR DUPLICATE
+[2021.05.02-20.21.44:589][ 83]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (StaticMeshComponent0)
+[2021.05.02-20.21.44:609][ 83]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.21.49:511][353]Cmd: DUPLICATE
+[2021.05.02-20.21.49:511][353]Cmd: ACTOR DUPLICATE
+[2021.05.02-20.21.56:961][787]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Shape_Cube2)
+[2021.05.02-20.21.56:992][787]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.21.57:417][807]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube121)
+[2021.05.02-20.21.57:642][818]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube121)
+[2021.05.02-20.21.57:654][818]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.21.58:517][862]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.21.59:442][913]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.22.00:292][956]Cmd: DUPLICATE
+[2021.05.02-20.22.00:292][956]Cmd: ACTOR DUPLICATE
+[2021.05.02-20.22.31:348][788]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube118)
+[2021.05.02-20.22.32:799][873]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube118)
+[2021.05.02-20.22.32:810][873]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.22.33:433][900]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.22.35:719][ 26]Cmd: DUPLICATE
+[2021.05.02-20.22.35:719][ 26]Cmd: ACTOR DUPLICATE
+[2021.05.02-20.22.37:518][130]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube118)
+[2021.05.02-20.22.37:552][130]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.23.10:892][ 91]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube124)
+[2021.05.02-20.23.45:344][135]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube121)
+[2021.05.02-20.23.46:053][175]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube121)
+[2021.05.02-20.23.46:062][175]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.23.46:769][212]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.23.47:392][248]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.23.48:341][293]Cmd: DUPLICATE
+[2021.05.02-20.23.48:341][293]Cmd: ACTOR DUPLICATE
+[2021.05.02-20.24.06:913][366]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube125)
+[2021.05.02-20.24.06:920][366]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.24.07:538][396]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.24.09:022][468]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.24.10:326][537]Cmd: DUPLICATE
+[2021.05.02-20.24.10:326][537]Cmd: ACTOR DUPLICATE
+[2021.05.02-20.24.33:831][899]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube123)
+[2021.05.02-20.24.37:498][116]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube121)
+[2021.05.02-20.24.41:991][383]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube125)
+[2021.05.02-20.24.47:740][716]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube122)
+[2021.05.02-20.25.03:805][664]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube113)
+[2021.05.02-20.25.04:154][683]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube113)
+[2021.05.02-20.25.04:162][683]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.25.04:579][698]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.25.05:544][750]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.25.06:351][790]Cmd: DUPLICATE
+[2021.05.02-20.25.06:351][790]Cmd: ACTOR DUPLICATE
+[2021.05.02-20.25.18:000][473]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube118)
+[2021.05.02-20.25.27:411][ 10]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube127)
+[2021.05.02-20.25.49:449][293]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.02-20.25.49:460][293]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.02-20.25.49:460][293]PIE: New page: PIE session: Water (May 2, 2021, 12:25:49 PM)
+[2021.05.02-20.25.49:460][293]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Water
+[2021.05.02-20.25.49:483][293]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022085s)
+[2021.05.02-20.25.49:484][293]LogAIModule: Creating AISystem for world Water
+[2021.05.02-20.25.49:484][293]LogPlayLevel: PIE: World Init took: (0.001463s)
+[2021.05.02-20.25.49:484][293]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Water.Water to /Game/ThirdPersonBP/Maps/UEDPIE_0_Water.Water (0.023738s)
+[2021.05.02-20.25.49:494][293]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.05.02-20.25.49:496][293]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.05.02-20.25.49:496][293]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.02-20.25.49:496][293]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.02-20.25.49:496][293]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.02-20.25.49:496][293]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.02-20.25.49:496][293]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.02-20.25.49:496][293]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.02-20.25.49:496][293]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.02-20.25.49:496][293]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.02-20.25.49:496][293]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.02-20.25.49:496][293]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.02-20.25.49:503][293]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.02-20.25.49:503][293]LogAudioMixer: Display: 1: FrontRight
+[2021.05.02-20.25.49:518][293]LogAudioMixer: Display: Using Audio Device Speakers (3- USB Audio Device)
+[2021.05.02-20.25.49:518][293]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.02-20.25.49:518][293]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.02-20.25.49:518][293]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.02-20.25.49:518][293]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.02-20.25.49:518][293]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.02-20.25.49:518][293]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.02-20.25.49:541][293]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.02-20.25.49:541][293]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.02-20.25.49:541][293]LogInit: FAudioDevice initialized.
+[2021.05.02-20.25.49:541][293]LogAudio: Display: Audio Device (ID: 6) registered with world 'Water'.
+[2021.05.02-20.25.49:551][293]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.02-20.25.49:560][293]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Water.Water up for play (max tick rate 60) at 2021.05.02-16.25.49
+[2021.05.02-20.25.49:561][293]LogWorld: Bringing up level for play took: 0.008510
+[2021.05.02-20.25.49:561][293]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2021.05.02-20.25.49:565][293]PIE: Server logged in
+[2021.05.02-20.25.49:566][293]PIE: Play in editor total start time 0.107 seconds.
+[2021.05.02-20.25.52:982][491]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-20.25.52:982][491]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Water
+[2021.05.02-20.25.52:983][491]LogWorld: UWorld::CleanupWorld for Water, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-20.25.52:985][491]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-20.25.52:995][491]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.02-20.25.53:008][491]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-20.25.53:013][491]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.02-20.25.53:014][491]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.02-20.25.53:015][491]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.02-20.25.53:040][491]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-20.25.53:043][491]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.05.02-20.25.53:088][492]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2021.05.02-20.26.00:838][947]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube120)
+[2021.05.02-20.26.01:198][967]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube120)
+[2021.05.02-20.26.01:205][967]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.26.01:735][992]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.26.02:539][ 34]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.26.03:304][ 74]Cmd: DUPLICATE
+[2021.05.02-20.26.03:304][ 74]Cmd: ACTOR DUPLICATE
+[2021.05.02-20.26.39:464][216]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.26.48:463][748]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.26.48:489][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.05.02-20.26.48:583][748]LogSavePackage: Moving '../../../../Users/bpetr/Documents/GitHub/Game250Project/Project/Saved/Water_Auto27DD0058E4161C777D263D0A7F75D7CEE.tmp' to '../../../../Users/bpetr/Documents/GitHub/Game250Project/Project/Saved/Autosaves/Game/ThirdPersonBP/Maps/Water_Auto2.umap'
+[2021.05.02-20.26.48:586][748]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/Water' took 0.103
+[2021.05.02-20.26.48:586][748]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.103
+[2021.05.02-20.27.16:982][435]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube2)
+[2021.05.02-20.27.18:075][493]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube128)
+[2021.05.02-20.27.26:786][983]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube122)
+[2021.05.02-20.27.41:062][797]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube125)
+[2021.05.02-20.27.51:471][409]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube126)
+[2021.05.02-20.27.59:167][863]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube119)
+[2021.05.02-20.27.59:355][872]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube119)
+[2021.05.02-20.27.59:363][872]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.27.59:657][886]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.28.00:519][932]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.28.01:639][992]Cmd: DUPLICATE
+[2021.05.02-20.28.01:639][992]Cmd: ACTOR DUPLICATE
+[2021.05.02-20.28.16:623][855]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube113)
+[2021.05.02-20.28.17:356][897]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube101)
+[2021.05.02-20.28.17:888][927]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube101)
+[2021.05.02-20.28.17:897][927]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.28.18:289][940]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.28.19:997][ 34]Cmd: DUPLICATE
+[2021.05.02-20.28.19:997][ 34]Cmd: ACTOR DUPLICATE
+[2021.05.02-20.28.39:558][170]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube128)
+[2021.05.02-20.28.47:934][652]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube130)
+[2021.05.02-20.29.03:633][558]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube127)
+[2021.05.02-20.29.04:198][588]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube127)
+[2021.05.02-20.29.04:206][588]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.29.05:208][643]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube129)
+[2021.05.02-20.29.05:602][665]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube119)
+[2021.05.02-20.29.05:800][675]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube119)
+[2021.05.02-20.29.05:809][675]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.29.06:097][688]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.29.06:299][694]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.29.06:891][728]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.29.08:201][802]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube129)
+[2021.05.02-20.29.08:481][817]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube129)
+[2021.05.02-20.29.08:489][817]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.29.08:798][828]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.29.09:171][845]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.29.10:274][899]Cmd: DUPLICATE
+[2021.05.02-20.29.10:274][899]Cmd: ACTOR DUPLICATE
+[2021.05.02-20.29.44:327][878]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube77)
+[2021.05.02-20.29.51:208][268]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube117)
+[2021.05.02-20.29.57:643][650]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube116)
+[2021.05.02-20.30.08:203][262]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.02-20.30.08:213][262]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.02-20.30.08:213][262]PIE: New page: PIE session: Water (May 2, 2021, 12:30:08 PM)
+[2021.05.02-20.30.08:213][262]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Water
+[2021.05.02-20.30.08:239][262]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025566s)
+[2021.05.02-20.30.08:241][262]LogAIModule: Creating AISystem for world Water
+[2021.05.02-20.30.08:242][262]LogPlayLevel: PIE: World Init took: (0.002464s)
+[2021.05.02-20.30.08:242][262]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Water.Water to /Game/ThirdPersonBP/Maps/UEDPIE_0_Water.Water (0.028304s)
+[2021.05.02-20.30.08:248][262]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.05.02-20.30.08:249][262]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.05.02-20.30.08:249][262]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.02-20.30.08:249][262]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.02-20.30.08:249][262]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.02-20.30.08:249][262]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.02-20.30.08:249][262]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.02-20.30.08:249][262]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.02-20.30.08:249][262]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.02-20.30.08:249][262]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.02-20.30.08:250][262]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.02-20.30.08:250][262]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.02-20.30.08:254][262]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.02-20.30.08:254][262]LogAudioMixer: Display: 1: FrontRight
+[2021.05.02-20.30.08:268][262]LogAudioMixer: Display: Using Audio Device Speakers (3- USB Audio Device)
+[2021.05.02-20.30.08:268][262]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.02-20.30.08:268][262]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.02-20.30.08:268][262]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.02-20.30.08:269][262]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.02-20.30.08:269][262]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.02-20.30.08:269][262]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.02-20.30.08:291][262]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.02-20.30.08:291][262]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.02-20.30.08:291][262]LogInit: FAudioDevice initialized.
+[2021.05.02-20.30.08:291][262]LogAudio: Display: Audio Device (ID: 7) registered with world 'Water'.
+[2021.05.02-20.30.08:300][262]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.02-20.30.08:308][262]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Water.Water up for play (max tick rate 60) at 2021.05.02-16.30.08
+[2021.05.02-20.30.08:308][262]LogWorld: Bringing up level for play took: 0.007477
+[2021.05.02-20.30.08:308][262]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2021.05.02-20.30.08:312][262]PIE: Server logged in
+[2021.05.02-20.30.08:314][262]PIE: Play in editor total start time 0.103 seconds.
+[2021.05.02-20.30.10:022][359]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-20.30.10:022][359]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Water
+[2021.05.02-20.30.10:022][359]LogWorld: UWorld::CleanupWorld for Water, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-20.30.10:024][359]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-20.30.10:036][359]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.02-20.30.10:052][359]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-20.30.10:061][359]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.02-20.30.10:061][359]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.02-20.30.10:063][359]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.02-20.30.10:083][359]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-20.30.10:085][359]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.05.02-20.30.10:134][360]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2021.05.02-20.30.20:336][963]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube119)
+[2021.05.02-20.30.22:242][ 67]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube129)
+[2021.05.02-20.30.23:218][122]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube124)
+[2021.05.02-20.30.27:512][370]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube129)
+[2021.05.02-20.30.33:552][717]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube118)
+[2021.05.02-20.30.37:003][916]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube120)
+[2021.05.02-20.30.37:315][933]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube120)
+[2021.05.02-20.30.37:325][933]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.30.37:828][958]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.30.37:882][959]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.30.38:722][  6]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.30.39:413][ 38]Cmd: DUPLICATE
+[2021.05.02-20.30.39:413][ 38]Cmd: ACTOR DUPLICATE
+[2021.05.02-20.30.55:820][  5]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube129)
+[2021.05.02-20.30.56:201][ 26]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube129)
+[2021.05.02-20.30.56:212][ 26]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.30.56:542][ 43]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.30.57:478][ 93]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.30.58:189][128]Cmd: DUPLICATE
+[2021.05.02-20.30.58:189][128]Cmd: ACTOR DUPLICATE
+[2021.05.02-20.31.12:877][986]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube124)
+[2021.05.02-20.31.27:297][824]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube130)
+[2021.05.02-20.31.36:242][337]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube131)
+[2021.05.02-20.31.42:260][685]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube128)
+[2021.05.02-20.31.45:000][836]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube122)
+[2021.05.02-20.31.47:614][982]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube128)
+[2021.05.02-20.31.50:805][166]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube131)
+[2021.05.02-20.32.04:534][980]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube126)
+[2021.05.02-20.32.05:548][ 39]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube126)
+[2021.05.02-20.32.05:557][ 39]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.32.05:856][ 53]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.32.06:645][ 96]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.32.07:314][126]Cmd: DUPLICATE
+[2021.05.02-20.32.07:314][126]Cmd: ACTOR DUPLICATE
+[2021.05.02-20.32.36:133][792]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube122)
+[2021.05.02-20.32.36:422][807]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube122)
+[2021.05.02-20.32.36:430][807]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.32.36:731][822]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.32.38:393][905]Cmd: DUPLICATE
+[2021.05.02-20.32.38:393][905]Cmd: ACTOR DUPLICATE
+[2021.05.02-20.33.01:702][282]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube124)
+[2021.05.02-20.33.02:488][327]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube131)
+[2021.05.02-20.33.03:167][366]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube127)
+[2021.05.02-20.33.03:520][385]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube127)
+[2021.05.02-20.33.03:531][385]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.33.05:273][477]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.33.05:340][478]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.33.06:067][517]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.33.06:893][555]Cmd: DUPLICATE
+[2021.05.02-20.33.06:893][555]Cmd: ACTOR DUPLICATE
+[2021.05.02-20.35.25:299][802]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube103)
+[2021.05.02-20.35.25:676][822]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube103)
+[2021.05.02-20.35.25:687][822]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.35.26:014][837]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.35.26:369][852]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.35.26:970][887]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.35.28:000][940]Cmd: DUPLICATE
+[2021.05.02-20.35.28:000][940]Cmd: ACTOR DUPLICATE
+[2021.05.02-20.36.47:315][145]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube123)
+[2021.05.02-20.36.47:762][170]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube123)
+[2021.05.02-20.36.47:771][170]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.36.48:127][188]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.36.50:627][322]Cmd: DUPLICATE
+[2021.05.02-20.36.50:627][322]Cmd: ACTOR DUPLICATE
+[2021.05.02-20.37.00:216][884]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube121)
+[2021.05.02-20.37.00:556][903]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube121)
+[2021.05.02-20.37.00:564][903]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.37.01:097][926]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.37.01:284][935]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.37.01:568][951]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.37.02:729][ 16]Cmd: DUPLICATE
+[2021.05.02-20.37.02:729][ 16]Cmd: ACTOR DUPLICATE
+[2021.05.02-20.37.36:901][ 27]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube103)
+[2021.05.02-20.37.37:402][ 55]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube103)
+[2021.05.02-20.37.37:412][ 55]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.37.38:348][106]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube2)
+[2021.05.02-20.37.38:814][132]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube122)
+[2021.05.02-20.37.40:024][202]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube108)
+[2021.05.02-20.37.40:632][236]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube108)
+[2021.05.02-20.37.40:638][236]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.37.41:177][266]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.37.42:703][345]Cmd: DUPLICATE
+[2021.05.02-20.37.42:703][345]Cmd: ACTOR DUPLICATE
+[2021.05.02-20.37.48:711][695]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube2)
+[2021.05.02-20.37.49:039][711]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube103)
+[2021.05.02-20.37.49:575][740]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube103)
+[2021.05.02-20.37.49:584][740]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.37.50:145][769]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.37.50:980][812]Cmd: DUPLICATE
+[2021.05.02-20.37.50:980][812]Cmd: ACTOR DUPLICATE
+[2021.05.02-20.38.12:332][ 61]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube128)
+[2021.05.02-20.38.13:742][138]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube130)
+[2021.05.02-20.38.14:200][164]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube135)
+[2021.05.02-20.38.35:218][407]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube124)
+[2021.05.02-20.38.35:580][426]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube124)
+[2021.05.02-20.38.35:587][426]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.38.35:912][439]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.38.36:904][488]Cmd: DUPLICATE
+[2021.05.02-20.38.36:904][488]Cmd: ACTOR DUPLICATE
+[2021.05.02-20.38.55:127][714]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.39.04:145][741]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.39.04:164][741]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.05.02-20.39.04:238][741]LogSavePackage: Moving '../../../../Users/bpetr/Documents/GitHub/Game250Project/Project/Saved/Water_Auto3D6DE16D849D205E96EBE95984EEF17B2.tmp' to '../../../../Users/bpetr/Documents/GitHub/Game250Project/Project/Saved/Autosaves/Game/ThirdPersonBP/Maps/Water_Auto3.umap'
+[2021.05.02-20.39.04:241][741]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/Water' took 0.083
+[2021.05.02-20.39.04:242][741]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.083
+[2021.05.02-20.40.40:679][220]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube141)
+[2021.05.02-20.40.45:582][508]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube139)
+[2021.05.02-20.40.45:896][525]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube139)
+[2021.05.02-20.40.45:903][525]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.40.50:870][808]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube139)
+[2021.05.02-20.40.50:879][808]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.40.51:562][843]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.40.52:068][872]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.40.53:447][946]Cmd: DUPLICATE
+[2021.05.02-20.40.53:447][946]Cmd: ACTOR DUPLICATE
+[2021.05.02-20.41.48:928][220]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube137)
+[2021.05.02-20.41.50:297][299]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube137)
+[2021.05.02-20.41.50:304][299]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.41.50:708][322]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.41.51:912][383]Cmd: DUPLICATE
+[2021.05.02-20.41.51:912][383]Cmd: ACTOR DUPLICATE
+[2021.05.02-20.42.04:243][110]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube141)
+[2021.05.02-20.42.06:270][227]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube140)
+[2021.05.02-20.42.08:222][342]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube141)
+[2021.05.02-20.42.16:206][814]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube123)
+[2021.05.02-20.42.16:489][829]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube123)
+[2021.05.02-20.42.16:496][829]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.42.16:868][846]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.42.16:909][847]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.42.16:966][848]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.42.18:275][920]Cmd: DUPLICATE
+[2021.05.02-20.42.18:275][920]Cmd: ACTOR DUPLICATE
+[2021.05.02-20.42.35:014][891]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube141)
+[2021.05.02-20.42.54:759][ 45]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube145)
+[2021.05.02-20.43.00:984][412]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube141)
+[2021.05.02-20.43.03:279][541]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube2)
+[2021.05.02-20.43.03:918][573]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube145)
+[2021.05.02-20.43.05:921][690]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube141)
+[2021.05.02-20.43.07:850][803]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube145)
+[2021.05.02-20.43.16:274][295]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube122)
+[2021.05.02-20.43.16:662][316]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube122)
+[2021.05.02-20.43.16:669][316]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.43.17:218][342]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.43.18:149][393]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.43.19:126][443]Cmd: DUPLICATE
+[2021.05.02-20.43.19:126][443]Cmd: ACTOR DUPLICATE
+[2021.05.02-20.43.27:595][926]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube146)
+[2021.05.02-20.43.28:259][965]Cmd: DELETE
+[2021.05.02-20.43.28:259][965]Cmd: ACTOR DELETE
+[2021.05.02-20.43.28:266][965]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.02-20.43.28:272][965]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.05.02-20.43.28:273][965]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.05.02-20.43.29:281][ 26]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube135)
+[2021.05.02-20.43.29:692][ 49]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube135)
+[2021.05.02-20.43.29:702][ 49]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.43.30:545][ 99]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube130)
+[2021.05.02-20.43.31:115][131]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube130)
+[2021.05.02-20.43.31:124][131]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.43.31:463][145]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.43.31:900][167]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.43.32:802][211]Cmd: DUPLICATE
+[2021.05.02-20.43.32:802][211]Cmd: ACTOR DUPLICATE
+[2021.05.02-20.43.42:217][764]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube132)
+[2021.05.02-20.43.42:563][782]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube132)
+[2021.05.02-20.43.42:573][782]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.43.43:163][806]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.43.43:934][848]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.43.45:182][917]Cmd: DUPLICATE
+[2021.05.02-20.43.45:182][917]Cmd: ACTOR DUPLICATE
+[2021.05.02-20.43.59:532][750]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube136)
+[2021.05.02-20.44.12:638][530]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube142)
+[2021.05.02-20.44.13:909][600]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube147)
+[2021.05.02-20.44.14:545][636]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube142)
+[2021.05.02-20.44.18:746][883]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube147)
+[2021.05.02-20.44.19:160][901]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube142)
+[2021.05.02-20.44.21:477][ 30]Cmd: DELETE
+[2021.05.02-20.44.21:477][ 30]Cmd: ACTOR DELETE
+[2021.05.02-20.44.21:483][ 30]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.02-20.44.21:489][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.05.02-20.44.21:490][ 30]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2021.05.02-20.44.24:859][230]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube147)
+[2021.05.02-20.44.44:810][386]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.02-20.44.44:818][386]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.02-20.44.44:818][386]PIE: New page: PIE session: Water (May 2, 2021, 12:44:44 PM)
+[2021.05.02-20.44.44:818][386]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Water
+[2021.05.02-20.44.44:838][386]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019384s)
+[2021.05.02-20.44.44:839][386]LogAIModule: Creating AISystem for world Water
+[2021.05.02-20.44.44:840][386]LogPlayLevel: PIE: World Init took: (0.001582s)
+[2021.05.02-20.44.44:840][386]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Water.Water to /Game/ThirdPersonBP/Maps/UEDPIE_0_Water.Water (0.021139s)
+[2021.05.02-20.44.44:846][386]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2021.05.02-20.44.44:848][386]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.05.02-20.44.44:848][386]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.02-20.44.44:848][386]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.02-20.44.44:848][386]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.02-20.44.44:848][386]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.02-20.44.44:848][386]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.02-20.44.44:848][386]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.02-20.44.44:848][386]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.02-20.44.44:848][386]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.02-20.44.44:849][386]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.02-20.44.44:849][386]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.02-20.44.44:854][386]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.02-20.44.44:854][386]LogAudioMixer: Display: 1: FrontRight
+[2021.05.02-20.44.44:866][386]LogAudioMixer: Display: Using Audio Device Speakers (3- USB Audio Device)
+[2021.05.02-20.44.44:866][386]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.02-20.44.44:866][386]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.02-20.44.44:866][386]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.02-20.44.44:866][386]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.02-20.44.44:866][386]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.02-20.44.44:866][386]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.02-20.44.44:884][386]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.02-20.44.44:884][386]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.02-20.44.44:884][386]LogInit: FAudioDevice initialized.
+[2021.05.02-20.44.44:884][386]LogAudio: Display: Audio Device (ID: 8) registered with world 'Water'.
+[2021.05.02-20.44.44:899][386]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.02-20.44.44:907][386]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Water.Water up for play (max tick rate 60) at 2021.05.02-16.44.44
+[2021.05.02-20.44.44:908][386]LogWorld: Bringing up level for play took: 0.007831
+[2021.05.02-20.44.44:908][386]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2021.05.02-20.44.44:911][386]PIE: Server logged in
+[2021.05.02-20.44.44:912][386]PIE: Play in editor total start time 0.096 seconds.
+[2021.05.02-20.44.47:792][551]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-20.44.47:792][551]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Water
+[2021.05.02-20.44.47:793][551]LogWorld: UWorld::CleanupWorld for Water, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-20.44.47:795][551]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-20.44.47:806][551]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.02-20.44.47:830][551]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-20.44.47:836][551]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-20.44.47:838][551]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.02-20.44.47:839][551]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.02-20.44.47:857][551]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.05.02-20.44.47:901][552]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2021.05.02-20.44.54:452][938]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Shape_Cube2)
+[2021.05.02-20.44.54:478][938]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.44.55:312][975]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.44.55:884][  8]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.44.56:499][ 40]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube147)
+[2021.05.02-20.44.56:790][ 55]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube147)
+[2021.05.02-20.44.56:797][ 55]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.44.57:107][ 68]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.44.57:162][ 69]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.44.57:800][104]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.44.58:658][145]Cmd: DUPLICATE
+[2021.05.02-20.44.58:658][145]Cmd: ACTOR DUPLICATE
+[2021.05.02-20.45.06:658][617]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Shape_Cube2)
+[2021.05.02-20.45.06:683][617]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.45.07:455][657]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube148)
+[2021.05.02-20.45.07:899][681]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube148)
+[2021.05.02-20.45.07:907][681]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.45.08:186][691]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.45.08:288][695]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.45.09:329][751]Cmd: DUPLICATE
+[2021.05.02-20.45.09:329][751]Cmd: ACTOR DUPLICATE
+[2021.05.02-20.45.21:111][446]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube76)
+[2021.05.02-20.45.22:923][545]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent2)
+[2021.05.02-20.45.40:120][543]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent1)
+[2021.05.02-20.45.47:427][969]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent2)
+[2021.05.02-20.45.52:423][246]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent1)
+[2021.05.02-20.46.20:274][866]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.02-20.46.20:288][866]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.02-20.46.20:288][866]PIE: New page: PIE session: Water (May 2, 2021, 12:46:20 PM)
+[2021.05.02-20.46.20:319][866]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Water
+[2021.05.02-20.46.20:338][866]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019225s)
+[2021.05.02-20.46.20:339][866]LogAIModule: Creating AISystem for world Water
+[2021.05.02-20.46.20:340][866]LogPlayLevel: PIE: World Init took: (0.001305s)
+[2021.05.02-20.46.20:340][866]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Water.Water to /Game/ThirdPersonBP/Maps/UEDPIE_0_Water.Water (0.020794s)
+[2021.05.02-20.46.20:345][866]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.05.02-20.46.20:347][866]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.05.02-20.46.20:347][866]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.02-20.46.20:347][866]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.02-20.46.20:347][866]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.02-20.46.20:347][866]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.02-20.46.20:347][866]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.02-20.46.20:347][866]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.02-20.46.20:347][866]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.02-20.46.20:347][866]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.02-20.46.20:347][866]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.02-20.46.20:347][866]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.02-20.46.20:352][866]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.02-20.46.20:352][866]LogAudioMixer: Display: 1: FrontRight
+[2021.05.02-20.46.20:364][866]LogAudioMixer: Display: Using Audio Device Speakers (3- USB Audio Device)
+[2021.05.02-20.46.20:365][866]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.02-20.46.20:365][866]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.02-20.46.20:365][866]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.02-20.46.20:365][866]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.02-20.46.20:365][866]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.02-20.46.20:365][866]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.02-20.46.20:386][866]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.02-20.46.20:386][866]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.02-20.46.20:386][866]LogInit: FAudioDevice initialized.
+[2021.05.02-20.46.20:386][866]LogAudio: Display: Audio Device (ID: 9) registered with world 'Water'.
+[2021.05.02-20.46.20:392][866]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.02-20.46.20:400][866]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Water.Water up for play (max tick rate 60) at 2021.05.02-16.46.20
+[2021.05.02-20.46.20:400][866]LogWorld: Bringing up level for play took: 0.007828
+[2021.05.02-20.46.20:400][866]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2021.05.02-20.46.20:404][866]PIE: Server logged in
+[2021.05.02-20.46.20:404][866]PIE: Play in editor total start time 0.119 seconds.
+[2021.05.02-20.47.09:691][811]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-20.47.09:691][811]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Water
+[2021.05.02-20.47.09:691][811]LogWorld: UWorld::CleanupWorld for Water, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-20.47.09:692][811]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-20.47.09:702][811]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.02-20.47.09:721][811]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-20.47.09:728][811]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.02-20.47.09:728][811]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.02-20.47.09:729][811]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.02-20.47.09:745][811]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-20.47.09:749][811]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.05.02-20.47.09:792][812]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2021.05.02-20.47.11:686][914]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-20.47.11:710][914]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.05.02-20.47.11:803][914]LogSavePackage: Moving '../../../../Users/bpetr/Documents/GitHub/Game250Project/Project/Saved/Water42CAD7E04FDCEE83F425CBAECD580D40.tmp' to '../../../../Users/bpetr/Documents/GitHub/Game250Project/Project/Content/ThirdPersonBP/Maps/Water.umap'
+[2021.05.02-20.47.11:846][914]AssetCheck: New page: Asset Save: Water
+[2021.05.02-20.47.11:846][914]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Water.Water
