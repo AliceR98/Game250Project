@@ -5103,3 +5103,1916 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.02-09.27.18:062][841]LogSavePackage: Moving '../../../../Users/bpetr/Documents/GitHub/Game250Project/Project/Saved/Water_Auto07E53891244E243997273EBB409C085ED.tmp' to '../../../../Users/bpetr/Documents/GitHub/Game250Project/Project/Saved/Autosaves/Game/ThirdPersonBP/Maps/Water_Auto0.umap'
 [2021.05.02-09.27.18:066][841]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/Water' took 0.069
 [2021.05.02-09.27.18:066][841]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.069
+[2021.05.02-09.32.26:874][997]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube57)
+[2021.05.02-09.32.28:502][ 82]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube59)
+[2021.05.02-09.32.29:119][113]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube57)
+[2021.05.02-09.32.29:849][153]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube59)
+[2021.05.02-09.32.30:880][211]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube57)
+[2021.05.02-09.32.59:816][863]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.32.59:854][863]LogActorFactory: Actor Factory created Cube
+[2021.05.02-09.33.00:227][876]LogActorFactory: Actor Factory created Cube
+[2021.05.02-09.33.42:268][255]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.34.05:177][560]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.34.05:239][561]LogActorFactory: Actor Factory created Cube
+[2021.05.02-09.34.05:506][570]LogActorFactory: Actor Factory created Cube
+[2021.05.02-09.34.49:998][ 62]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.34.58:712][552]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube65)
+[2021.05.02-09.34.58:725][552]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.34.59:443][582]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.35.05:745][937]Cmd: EDIT COPY
+[2021.05.02-09.35.06:649][988]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube65)
+[2021.05.02-09.35.06:661][988]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.35.07:095][  1]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.35.07:300][  8]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.35.07:896][ 39]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.35.08:632][ 70]Cmd: DUPLICATE
+[2021.05.02-09.35.08:632][ 70]Cmd: ACTOR DUPLICATE
+[2021.05.02-09.35.40:613][858]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube66)
+[2021.05.02-09.35.40:621][858]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.35.40:976][873]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.35.41:309][884]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.35.42:593][945]Cmd: DUPLICATE
+[2021.05.02-09.35.42:593][945]Cmd: ACTOR DUPLICATE
+[2021.05.02-09.36.24:982][432]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube66)
+[2021.05.02-09.36.47:319][713]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.02-09.36.47:328][713]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.02-09.36.47:328][713]PIE: New page: PIE session: Water (May 2, 2021, 1:36:47 AM)
+[2021.05.02-09.36.47:356][713]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Water
+[2021.05.02-09.36.47:362][713]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006766s)
+[2021.05.02-09.36.47:363][713]LogAIModule: Creating AISystem for world Water
+[2021.05.02-09.36.47:364][713]LogPlayLevel: PIE: World Init took: (0.001187s)
+[2021.05.02-09.36.47:364][713]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Water.Water to /Game/ThirdPersonBP/Maps/UEDPIE_0_Water.Water (0.008151s)
+[2021.05.02-09.36.47:399][713]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2021.05.02-09.36.47:401][713]LogAudio: Display: Creating Audio Device:                 Id: 50, Scope: Unique, Realtime: True
+[2021.05.02-09.36.47:402][713]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.02-09.36.47:402][713]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.02-09.36.47:402][713]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.02-09.36.47:402][713]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.02-09.36.47:402][713]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.02-09.36.47:402][713]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.02-09.36.47:402][713]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.02-09.36.47:402][713]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.02-09.36.47:402][713]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.02-09.36.47:402][713]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.02-09.36.47:407][713]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.02-09.36.47:407][713]LogAudioMixer: Display: 1: FrontRight
+[2021.05.02-09.36.47:420][713]LogAudioMixer: Display: Using Audio Device Speakers (3- USB Audio Device)
+[2021.05.02-09.36.47:421][713]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.02-09.36.47:421][713]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.02-09.36.47:421][713]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.02-09.36.47:422][713]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.02-09.36.47:423][713]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.02-09.36.47:423][713]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.02-09.36.47:449][713]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.02-09.36.47:449][713]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.02-09.36.47:449][713]LogInit: FAudioDevice initialized.
+[2021.05.02-09.36.47:449][713]LogAudio: Display: Audio Device (ID: 50) registered with world 'Water'.
+[2021.05.02-09.36.47:456][713]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.02-09.36.47:460][713]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Water.Water up for play (max tick rate 60) at 2021.05.02-05.36.47
+[2021.05.02-09.36.47:460][713]LogWorld: Bringing up level for play took: 0.003565
+[2021.05.02-09.36.47:460][713]LogOnline: OSS: Creating online subsystem instance for: :Context_70
+[2021.05.02-09.36.47:463][713]PIE: Server logged in
+[2021.05.02-09.36.47:464][713]PIE: Play in editor total start time 0.139 seconds.
+[2021.05.02-09.37.03:387][648]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-09.37.03:387][648]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Water
+[2021.05.02-09.37.03:387][648]LogWorld: UWorld::CleanupWorld for Water, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-09.37.03:388][648]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-09.37.03:395][648]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.02-09.37.03:417][648]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-09.37.03:445][648]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.02-09.37.03:445][648]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.02-09.37.03:448][648]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.02-09.37.03:477][648]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-09.37.03:480][648]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2021.05.02-09.37.03:531][649]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2021.05.02-09.37.10:255][ 19]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.37.17:322][379]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.37.34:405][965]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.05.02-09.37.34:980][996]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.05.02-09.37.35:377][ 19]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2021.05.02-09.37.41:220][333]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.05.02-09.37.42:784][412]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2021.05.02-09.38.43:136][666]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.38.43:186][666]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2021.05.02-09.38.43:230][666]LogSavePackage: Moving '../../../../Users/bpetr/Documents/GitHub/Game250Project/Project/Saved/WaterE7C56C264969F5E5C59F3A95049F49AB.tmp' to '../../../../Users/bpetr/Documents/GitHub/Game250Project/Project/Content/ThirdPersonBP/Maps/Water.umap'
+[2021.05.02-09.38.43:275][666]AssetCheck: New page: Asset Save: Water
+[2021.05.02-09.38.43:276][666]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Water.Water
+[2021.05.02-09.40.13:452][404]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.40.13:505][404]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2021.05.02-09.40.13:553][404]LogSavePackage: Moving '../../../../Users/bpetr/Documents/GitHub/Game250Project/Project/Saved/Water302E55C2466E1204CD785A8986D1FE60.tmp' to '../../../../Users/bpetr/Documents/GitHub/Game250Project/Project/Content/ThirdPersonBP/Maps/Water.umap'
+[2021.05.02-09.40.13:590][404]AssetCheck: New page: Asset Save: Water
+[2021.05.02-09.40.13:591][404]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Water.Water
+[2021.05.02-09.40.36:886][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2021.05.02-09.40.36:915][490]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.40.44:500][490]LogSlate: Window 'Save Content' being destroyed
+[2021.05.02-09.40.44:517][490]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.40.44:541][490]LogSavePackage: Moving '../../../../Users/bpetr/Documents/GitHub/Game250Project/Project/Saved/T_Perlin_Noise_M_MatE74A06D9442E98E5D6132C96275758A2.tmp' to '../../../../Users/bpetr/Documents/GitHub/Game250Project/Project/Content/StarterContent/Textures/T_Perlin_Noise_M_Mat.uasset'
+[2021.05.02-09.40.44:549][490]LogSavePackage: Moving '../../../../Users/bpetr/Documents/GitHub/Game250Project/Project/Saved/T_Rock_Basalt_MatAB22E73242D7E68EA1E9218E5C9DB694.tmp' to '../../../../Users/bpetr/Documents/GitHub/Game250Project/Project/Content/StarterContent/Textures/T_Rock_Basalt_Mat.uasset'
+[2021.05.02-09.40.44:553][490]LogSavePackage: Moving '../../../../Users/bpetr/Documents/GitHub/Game250Project/Project/Saved/T_Rock_Sandstone_MatF71BEC7949A926559654E2BE803650BA.tmp' to '../../../../Users/bpetr/Documents/GitHub/Game250Project/Project/Content/StarterContent/Textures/T_Rock_Sandstone_Mat.uasset'
+[2021.05.02-09.40.44:576][490]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.40.44:726][490]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.05.02-09.40.44:726][490]Cmd: MAP LOAD FILE="../../../../Users/bpetr/Documents/GitHub/Game250Project/Project/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.02-09.40.44:727][490]LightingResults: New page: Lighting Build
+[2021.05.02-09.40.44:727][490]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2021.05.02-09.40.44:730][490]LogWorld: UWorld::CleanupWorld for Water, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-09.40.44:730][490]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-09.40.44:730][490]MapCheck: New page: Map Check
+[2021.05.02-09.40.44:730][490]LightingResults: New page: Lighting Build
+[2021.05.02-09.40.44:774][490]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.02-09.40.44:777][490]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2021.05.02-09.40.44:778][490]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2021.05.02-09.40.44:794][490]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Tutorial) is flushing async loading
+[2021.05.02-09.40.44:795][490]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2021.05.02-09.40.44:930][490]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.02-09.40.44:930][490]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.05.02-09.40.44:963][490]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2021.05.02-09.40.44:977][490]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.02-09.40.44:978][490]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.259ms to complete.
+[2021.05.02-09.40.44:978][490]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.251
+[2021.05.02-09.40.45:006][490]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.02-09.40.45:006][490]LogContentValidation: Display: Validating Material /Game/StarterContent/Textures/T_Perlin_Noise_M_Mat.T_Perlin_Noise_M_Mat
+[2021.05.02-09.40.45:006][490]LogContentValidation: Display: Validating Material /Game/StarterContent/Textures/T_Rock_Sandstone_Mat.T_Rock_Sandstone_Mat
+[2021.05.02-09.40.45:007][490]LogContentValidation: Display: Validating Material /Game/StarterContent/Textures/T_Rock_Basalt_Mat.T_Rock_Basalt_Mat
+[2021.05.02-09.40.57:646][222]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.05.02-09.40.57:956][233]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube)
+[2021.05.02-09.40.58:358][252]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Shape_Cube)
+[2021.05.02-09.40.58:366][252]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.40.58:676][262]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.40.58:779][263]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.40.59:805][316]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.41.01:109][378]Cmd: DUPLICATE
+[2021.05.02-09.41.01:109][378]Cmd: ACTOR DUPLICATE
+[2021.05.02-09.41.15:442][222]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2021.05.02-09.41.15:468][222]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.41.17:216][222]LogSlate: Window 'Save Content' being destroyed
+[2021.05.02-09.41.17:244][222]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.41.17:310][222]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2021.05.02-09.41.17:372][222]LogSavePackage: Moving '../../../../Users/bpetr/Documents/GitHub/Game250Project/Project/Saved/ThirdPersonExampleMap43C706D54AC7FF59EA31B4BA22E19CF2.tmp' to '../../../../Users/bpetr/Documents/GitHub/Game250Project/Project/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.05.02-09.41.17:393][222]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.130
+[2021.05.02-09.41.17:405][222]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.41.17:440][222]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/Water.Water
+[2021.05.02-09.41.17:440][222]Cmd: MAP LOAD FILE="../../../../Users/bpetr/Documents/GitHub/Game250Project/Project/Content/ThirdPersonBP/Maps/Water.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.02-09.41.17:440][222]LightingResults: New page: Lighting Build
+[2021.05.02-09.41.17:440][222]LoadErrors: New page: Loading map: Water.umap
+[2021.05.02-09.41.17:442][222]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-09.41.17:442][222]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-09.41.17:442][222]LogWorld: UWorld::CleanupWorld for Tutorial, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-09.41.17:442][222]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-09.41.17:442][222]MapCheck: New page: Map Check
+[2021.05.02-09.41.17:442][222]LightingResults: New page: Lighting Build
+[2021.05.02-09.41.17:483][222]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.02-09.41.17:489][222]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2021.05.02-09.41.17:490][222]LogAudio: Display: Audio Device (ID: 1) registered with world 'Water'.
+[2021.05.02-09.41.17:608][222]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.02-09.41.17:608][222]LogAIModule: Creating AISystem for world Water
+[2021.05.02-09.41.17:648][222]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2021.05.02-09.41.17:662][222]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.02-09.41.17:663][222]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.596ms to complete.
+[2021.05.02-09.41.17:663][222]LogFileHelpers: Loading map 'Water' took 0.223
+[2021.05.02-09.41.17:701][222]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2021.05.02-09.41.17:701][222]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.05.02-09.41.17:779][222]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2021.05.02-09.41.19:460][316]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube64)
+[2021.05.02-09.41.19:931][336]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube64)
+[2021.05.02-09.41.21:246][414]Cmd: EDIT PASTE
+[2021.05.02-09.41.36:152][231]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2021.05.02-09.43.06:074][453]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.02-09.43.06:084][453]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.02-09.43.06:084][453]PIE: New page: PIE session: Water (May 2, 2021, 1:43:06 AM)
+[2021.05.02-09.43.06:084][453]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Water
+[2021.05.02-09.43.06:094][453]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009666s)
+[2021.05.02-09.43.06:095][453]LogAIModule: Creating AISystem for world Water
+[2021.05.02-09.43.06:095][453]LogPlayLevel: PIE: World Init took: (0.001421s)
+[2021.05.02-09.43.06:095][453]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Water.Water to /Game/ThirdPersonBP/Maps/UEDPIE_0_Water.Water (0.011216s)
+[2021.05.02-09.43.06:133][453]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2021.05.02-09.43.06:138][453]LogAudio: Display: Creating Audio Device:                 Id: 51, Scope: Unique, Realtime: True
+[2021.05.02-09.43.06:138][453]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.02-09.43.06:138][453]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.02-09.43.06:138][453]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.02-09.43.06:138][453]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.02-09.43.06:138][453]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.02-09.43.06:138][453]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.02-09.43.06:138][453]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.02-09.43.06:139][453]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.02-09.43.06:139][453]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.02-09.43.06:139][453]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.02-09.43.06:143][453]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.02-09.43.06:143][453]LogAudioMixer: Display: 1: FrontRight
+[2021.05.02-09.43.06:160][453]LogAudioMixer: Display: Using Audio Device Speakers (3- USB Audio Device)
+[2021.05.02-09.43.06:160][453]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.02-09.43.06:160][453]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.02-09.43.06:160][453]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.02-09.43.06:161][453]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.02-09.43.06:161][453]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.02-09.43.06:161][453]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.02-09.43.06:177][453]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.02-09.43.06:178][453]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.02-09.43.06:178][453]LogInit: FAudioDevice initialized.
+[2021.05.02-09.43.06:178][453]LogAudio: Display: Audio Device (ID: 51) registered with world 'Water'.
+[2021.05.02-09.43.06:190][453]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.02-09.43.06:194][453]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Water.Water up for play (max tick rate 60) at 2021.05.02-05.43.06
+[2021.05.02-09.43.06:194][453]LogWorld: Bringing up level for play took: 0.003623
+[2021.05.02-09.43.06:195][453]LogOnline: OSS: Creating online subsystem instance for: :Context_72
+[2021.05.02-09.43.06:201][453]PIE: Server logged in
+[2021.05.02-09.43.06:202][453]PIE: Play in editor total start time 0.12 seconds.
+[2021.05.02-09.43.20:047][272]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-09.43.20:048][272]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Water
+[2021.05.02-09.43.20:048][272]LogWorld: UWorld::CleanupWorld for Water, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-09.43.20:048][272]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-09.43.20:059][272]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.02-09.43.20:075][272]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-09.43.20:107][272]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-09.43.20:107][272]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.02-09.43.20:109][272]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.02-09.43.20:130][272]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2021.05.02-09.43.20:168][273]LogPlayLevel: Display: Destroying online subsystem :Context_72
+[2021.05.02-09.43.20:579][295]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube)
+[2021.05.02-09.43.25:296][556]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube64)
+[2021.05.02-09.43.28:095][702]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.02-09.43.28:107][702]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.02-09.43.28:107][702]PIE: New page: PIE session: Water (May 2, 2021, 1:43:28 AM)
+[2021.05.02-09.43.28:108][702]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Water
+[2021.05.02-09.43.28:117][702]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009811s)
+[2021.05.02-09.43.28:119][702]LogAIModule: Creating AISystem for world Water
+[2021.05.02-09.43.28:119][702]LogPlayLevel: PIE: World Init took: (0.001489s)
+[2021.05.02-09.43.28:119][702]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Water.Water to /Game/ThirdPersonBP/Maps/UEDPIE_0_Water.Water (0.011449s)
+[2021.05.02-09.43.28:151][702]LogUObjectHash: Compacting FUObjectHashTables data took   5.40ms
+[2021.05.02-09.43.28:157][702]LogAudio: Display: Creating Audio Device:                 Id: 52, Scope: Unique, Realtime: True
+[2021.05.02-09.43.28:157][702]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.02-09.43.28:157][702]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.02-09.43.28:157][702]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.02-09.43.28:157][702]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.02-09.43.28:157][702]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.02-09.43.28:157][702]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.02-09.43.28:157][702]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.02-09.43.28:157][702]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.02-09.43.28:159][702]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.02-09.43.28:159][702]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.02-09.43.28:165][702]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.02-09.43.28:165][702]LogAudioMixer: Display: 1: FrontRight
+[2021.05.02-09.43.28:175][702]LogAudioMixer: Display: Using Audio Device Speakers (3- USB Audio Device)
+[2021.05.02-09.43.28:175][702]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.02-09.43.28:175][702]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.02-09.43.28:175][702]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.02-09.43.28:175][702]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.02-09.43.28:175][702]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.02-09.43.28:175][702]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.02-09.43.28:190][702]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.02-09.43.28:190][702]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.02-09.43.28:190][702]LogInit: FAudioDevice initialized.
+[2021.05.02-09.43.28:190][702]LogAudio: Display: Audio Device (ID: 52) registered with world 'Water'.
+[2021.05.02-09.43.28:203][702]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.02-09.43.28:209][702]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Water.Water up for play (max tick rate 60) at 2021.05.02-05.43.28
+[2021.05.02-09.43.28:210][702]LogWorld: Bringing up level for play took: 0.005618
+[2021.05.02-09.43.28:210][702]LogOnline: OSS: Creating online subsystem instance for: :Context_73
+[2021.05.02-09.43.28:213][702]PIE: Server logged in
+[2021.05.02-09.43.28:213][702]PIE: Play in editor total start time 0.108 seconds.
+[2021.05.02-09.43.34:908][ 94]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-09.43.34:908][ 94]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Water
+[2021.05.02-09.43.34:908][ 94]LogWorld: UWorld::CleanupWorld for Water, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-09.43.34:910][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-09.43.34:923][ 94]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.02-09.43.34:946][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-09.43.34:977][ 94]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-09.43.34:977][ 94]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.02-09.43.34:978][ 94]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.02-09.43.35:005][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2021.05.02-09.43.35:052][ 95]LogPlayLevel: Display: Destroying online subsystem :Context_73
+[2021.05.02-09.44.03:104][737]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.44.03:140][737]LogActorFactory: Actor Factory created Cylinder
+[2021.05.02-09.44.03:749][757]LogActorFactory: Actor Factory created Cylinder
+[2021.05.02-09.44.05:154][811]LogActorFactory: Actor Factory created Cylinder
+[2021.05.02-09.44.47:293][227]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.02-09.44.47:302][227]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.02-09.44.47:302][227]PIE: New page: PIE session: Water (May 2, 2021, 1:44:47 AM)
+[2021.05.02-09.44.47:302][227]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Water
+[2021.05.02-09.44.47:312][227]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009741s)
+[2021.05.02-09.44.47:313][227]LogAIModule: Creating AISystem for world Water
+[2021.05.02-09.44.47:313][227]LogPlayLevel: PIE: World Init took: (0.001590s)
+[2021.05.02-09.44.47:314][227]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Water.Water to /Game/ThirdPersonBP/Maps/UEDPIE_0_Water.Water (0.011565s)
+[2021.05.02-09.44.47:349][227]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2021.05.02-09.44.47:359][227]LogAudio: Display: Creating Audio Device:                 Id: 53, Scope: Unique, Realtime: True
+[2021.05.02-09.44.47:359][227]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.02-09.44.47:359][227]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.02-09.44.47:359][227]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.02-09.44.47:359][227]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.02-09.44.47:359][227]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.02-09.44.47:359][227]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.02-09.44.47:359][227]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.02-09.44.47:359][227]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.02-09.44.47:360][227]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.02-09.44.47:360][227]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.02-09.44.47:364][227]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.02-09.44.47:364][227]LogAudioMixer: Display: 1: FrontRight
+[2021.05.02-09.44.47:373][227]LogAudioMixer: Display: Using Audio Device Speakers (3- USB Audio Device)
+[2021.05.02-09.44.47:373][227]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.02-09.44.47:373][227]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.02-09.44.47:373][227]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.02-09.44.47:374][227]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.02-09.44.47:374][227]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.02-09.44.47:374][227]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.02-09.44.47:394][227]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.02-09.44.47:394][227]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.02-09.44.47:394][227]LogInit: FAudioDevice initialized.
+[2021.05.02-09.44.47:394][227]LogAudio: Display: Audio Device (ID: 53) registered with world 'Water'.
+[2021.05.02-09.44.47:402][227]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.02-09.44.47:407][227]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Water.Water up for play (max tick rate 60) at 2021.05.02-05.44.47
+[2021.05.02-09.44.47:407][227]LogWorld: Bringing up level for play took: 0.004377
+[2021.05.02-09.44.47:407][227]LogOnline: OSS: Creating online subsystem instance for: :Context_74
+[2021.05.02-09.44.47:410][227]PIE: Server logged in
+[2021.05.02-09.44.47:411][227]PIE: Play in editor total start time 0.11 seconds.
+[2021.05.02-09.44.51:447][463]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-09.44.51:447][463]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Water
+[2021.05.02-09.44.51:447][463]LogWorld: UWorld::CleanupWorld for Water, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-09.44.51:448][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-09.44.51:457][463]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.02-09.44.51:477][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-09.44.51:507][463]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.02-09.44.51:507][463]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.02-09.44.51:508][463]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.02-09.44.51:531][463]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-09.44.51:535][463]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2021.05.02-09.44.51:588][464]LogPlayLevel: Display: Destroying online subsystem :Context_74
+[2021.05.02-09.45.01:261][ 13]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.02-09.45.01:274][ 13]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.02-09.45.01:274][ 13]PIE: New page: PIE session: Water (May 2, 2021, 1:45:01 AM)
+[2021.05.02-09.45.01:274][ 13]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Water
+[2021.05.02-09.45.01:282][ 13]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007854s)
+[2021.05.02-09.45.01:283][ 13]LogAIModule: Creating AISystem for world Water
+[2021.05.02-09.45.01:283][ 13]LogPlayLevel: PIE: World Init took: (0.001175s)
+[2021.05.02-09.45.01:283][ 13]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Water.Water to /Game/ThirdPersonBP/Maps/UEDPIE_0_Water.Water (0.009180s)
+[2021.05.02-09.45.01:315][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2021.05.02-09.45.01:319][ 13]LogAudio: Display: Creating Audio Device:                 Id: 54, Scope: Unique, Realtime: True
+[2021.05.02-09.45.01:319][ 13]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.02-09.45.01:319][ 13]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.02-09.45.01:319][ 13]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.02-09.45.01:319][ 13]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.02-09.45.01:319][ 13]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.02-09.45.01:319][ 13]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.02-09.45.01:319][ 13]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.02-09.45.01:319][ 13]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.02-09.45.01:320][ 13]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.02-09.45.01:320][ 13]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.02-09.45.01:324][ 13]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.02-09.45.01:324][ 13]LogAudioMixer: Display: 1: FrontRight
+[2021.05.02-09.45.01:334][ 13]LogAudioMixer: Display: Using Audio Device Speakers (3- USB Audio Device)
+[2021.05.02-09.45.01:334][ 13]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.02-09.45.01:334][ 13]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.02-09.45.01:334][ 13]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.02-09.45.01:335][ 13]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.02-09.45.01:335][ 13]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.02-09.45.01:335][ 13]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.02-09.45.01:357][ 13]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.02-09.45.01:358][ 13]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.02-09.45.01:358][ 13]LogInit: FAudioDevice initialized.
+[2021.05.02-09.45.01:358][ 13]LogAudio: Display: Audio Device (ID: 54) registered with world 'Water'.
+[2021.05.02-09.45.01:365][ 13]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.02-09.45.01:368][ 13]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Water.Water up for play (max tick rate 60) at 2021.05.02-05.45.01
+[2021.05.02-09.45.01:369][ 13]LogWorld: Bringing up level for play took: 0.003489
+[2021.05.02-09.45.01:369][ 13]LogOnline: OSS: Creating online subsystem instance for: :Context_75
+[2021.05.02-09.45.01:372][ 13]PIE: Server logged in
+[2021.05.02-09.45.01:372][ 13]PIE: Play in editor total start time 0.1 seconds.
+[2021.05.02-09.45.08:106][407]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-09.45.08:106][407]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Water
+[2021.05.02-09.45.08:107][407]LogWorld: UWorld::CleanupWorld for Water, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-09.45.08:107][407]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-09.45.08:123][407]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.02-09.45.08:141][407]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-09.45.08:172][407]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-09.45.08:172][407]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.02-09.45.08:173][407]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.02-09.45.08:192][407]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2021.05.02-09.45.08:238][408]LogPlayLevel: Display: Destroying online subsystem :Context_75
+[2021.05.02-09.45.17:087][898]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cylinder3)
+[2021.05.02-09.45.17:102][898]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.45.17:674][923]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.45.18:377][957]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.45.23:810][248]Cmd: DUPLICATE
+[2021.05.02-09.45.23:810][248]Cmd: ACTOR DUPLICATE
+[2021.05.02-09.45.43:825][386]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder4)
+[2021.05.02-09.46.04:670][566]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder4)
+[2021.05.02-09.46.25:862][806]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cylinder4)
+[2021.05.02-09.46.25:870][806]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.46.26:504][831]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.46.27:162][865]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.46.28:439][928]Cmd: DUPLICATE
+[2021.05.02-09.46.28:440][928]Cmd: ACTOR DUPLICATE
+[2021.05.02-09.46.45:451][909]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cylinder5)
+[2021.05.02-09.46.45:463][909]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.46.46:057][935]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.46.46:653][965]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.46.47:819][ 18]Cmd: DUPLICATE
+[2021.05.02-09.46.47:819][ 18]Cmd: ACTOR DUPLICATE
+[2021.05.02-09.47.11:520][352]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cylinder6)
+[2021.05.02-09.47.11:532][352]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.47.12:015][370]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.47.12:768][407]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.47.13:812][454]Cmd: DUPLICATE
+[2021.05.02-09.47.13:813][454]Cmd: ACTOR DUPLICATE
+[2021.05.02-09.47.28:288][273]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cylinder7)
+[2021.05.02-09.47.28:298][273]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.47.29:522][330]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.47.30:379][374]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.47.31:244][412]Cmd: DUPLICATE
+[2021.05.02-09.47.31:244][412]Cmd: ACTOR DUPLICATE
+[2021.05.02-09.48.11:062][648]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder8)
+[2021.05.02-09.48.11:501][672]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder8)
+[2021.05.02-09.48.21:221][208]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.48.21:582][223]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.48.21:805][233]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.48.21:932][235]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.48.22:481][258]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.48.27:416][530]Cmd: DUPLICATE
+[2021.05.02-09.48.27:416][530]Cmd: ACTOR DUPLICATE
+[2021.05.02-09.48.55:382][144]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.48.55:869][161]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.48.56:078][170]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.48.57:891][270]Cmd: DUPLICATE
+[2021.05.02-09.48.57:891][270]Cmd: ACTOR DUPLICATE
+[2021.05.02-09.49.35:944][428]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder10)
+[2021.05.02-09.49.42:799][816]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder9)
+[2021.05.02-09.49.56:061][560]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder10)
+[2021.05.02-09.49.56:430][580]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cylinder10)
+[2021.05.02-09.49.56:437][580]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.49.56:786][595]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.49.58:434][667]Cmd: DUPLICATE
+[2021.05.02-09.49.58:434][667]Cmd: ACTOR DUPLICATE
+[2021.05.02-09.49.59:335][717]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube)
+[2021.05.02-09.50.00:496][773]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder10)
+[2021.05.02-09.50.28:392][350]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.02-09.50.28:402][350]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.02-09.50.28:402][350]PIE: New page: PIE session: Water (May 2, 2021, 1:50:28 AM)
+[2021.05.02-09.50.28:402][350]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Water
+[2021.05.02-09.50.28:413][350]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011025s)
+[2021.05.02-09.50.28:414][350]LogAIModule: Creating AISystem for world Water
+[2021.05.02-09.50.28:414][350]LogPlayLevel: PIE: World Init took: (0.001409s)
+[2021.05.02-09.50.28:414][350]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Water.Water to /Game/ThirdPersonBP/Maps/UEDPIE_0_Water.Water (0.012571s)
+[2021.05.02-09.50.28:445][350]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2021.05.02-09.50.28:451][350]LogAudio: Display: Creating Audio Device:                 Id: 55, Scope: Unique, Realtime: True
+[2021.05.02-09.50.28:451][350]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.02-09.50.28:451][350]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.02-09.50.28:451][350]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.02-09.50.28:451][350]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.02-09.50.28:451][350]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.02-09.50.28:451][350]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.02-09.50.28:451][350]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.02-09.50.28:451][350]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.02-09.50.28:452][350]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.02-09.50.28:452][350]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.02-09.50.28:457][350]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.02-09.50.28:457][350]LogAudioMixer: Display: 1: FrontRight
+[2021.05.02-09.50.28:470][350]LogAudioMixer: Display: Using Audio Device Speakers (3- USB Audio Device)
+[2021.05.02-09.50.28:470][350]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.02-09.50.28:470][350]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.02-09.50.28:470][350]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.02-09.50.28:471][350]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.02-09.50.28:471][350]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.02-09.50.28:471][350]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.02-09.50.28:484][350]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.02-09.50.28:484][350]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.02-09.50.28:484][350]LogInit: FAudioDevice initialized.
+[2021.05.02-09.50.28:484][350]LogAudio: Display: Audio Device (ID: 55) registered with world 'Water'.
+[2021.05.02-09.50.28:493][350]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.02-09.50.28:497][350]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Water.Water up for play (max tick rate 60) at 2021.05.02-05.50.28
+[2021.05.02-09.50.28:499][350]LogWorld: Bringing up level for play took: 0.005529
+[2021.05.02-09.50.28:499][350]LogOnline: OSS: Creating online subsystem instance for: :Context_76
+[2021.05.02-09.50.28:505][350]PIE: Server logged in
+[2021.05.02-09.50.28:507][350]PIE: Play in editor total start time 0.106 seconds.
+[2021.05.02-09.50.30:527][466]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-09.50.30:527][466]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Water
+[2021.05.02-09.50.30:528][466]LogWorld: UWorld::CleanupWorld for Water, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-09.50.30:528][466]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-09.50.30:538][466]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.02-09.50.30:554][466]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-09.50.30:587][466]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.02-09.50.30:587][466]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.02-09.50.30:589][466]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.02-09.50.30:611][466]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-09.50.30:616][466]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2021.05.02-09.50.30:658][467]LogPlayLevel: Display: Destroying online subsystem :Context_76
+[2021.05.02-09.50.33:337][615]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube)
+[2021.05.02-09.50.40:803][ 21]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder10)
+[2021.05.02-09.50.41:215][ 42]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cylinder10)
+[2021.05.02-09.50.41:223][ 42]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.50.41:713][ 64]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.50.42:534][100]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.50.43:406][141]Cmd: DUPLICATE
+[2021.05.02-09.50.43:406][141]Cmd: ACTOR DUPLICATE
+[2021.05.02-09.51.01:675][166]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.02-09.51.01:686][166]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.02-09.51.01:686][166]PIE: New page: PIE session: Water (May 2, 2021, 1:51:01 AM)
+[2021.05.02-09.51.01:686][166]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Water
+[2021.05.02-09.51.01:694][166]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008388s)
+[2021.05.02-09.51.01:695][166]LogAIModule: Creating AISystem for world Water
+[2021.05.02-09.51.01:695][166]LogPlayLevel: PIE: World Init took: (0.001221s)
+[2021.05.02-09.51.01:695][166]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Water.Water to /Game/ThirdPersonBP/Maps/UEDPIE_0_Water.Water (0.009727s)
+[2021.05.02-09.51.01:729][166]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2021.05.02-09.51.01:732][166]LogAudio: Display: Creating Audio Device:                 Id: 56, Scope: Unique, Realtime: True
+[2021.05.02-09.51.01:732][166]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.02-09.51.01:732][166]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.02-09.51.01:732][166]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.02-09.51.01:732][166]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.02-09.51.01:732][166]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.02-09.51.01:732][166]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.02-09.51.01:732][166]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.02-09.51.01:732][166]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.02-09.51.01:733][166]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.02-09.51.01:733][166]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.02-09.51.01:738][166]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.02-09.51.01:738][166]LogAudioMixer: Display: 1: FrontRight
+[2021.05.02-09.51.01:749][166]LogAudioMixer: Display: Using Audio Device Speakers (3- USB Audio Device)
+[2021.05.02-09.51.01:749][166]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.02-09.51.01:749][166]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.02-09.51.01:749][166]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.02-09.51.01:750][166]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.02-09.51.01:750][166]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.02-09.51.01:750][166]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.02-09.51.01:772][166]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.02-09.51.01:772][166]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.02-09.51.01:772][166]LogInit: FAudioDevice initialized.
+[2021.05.02-09.51.01:772][166]LogAudio: Display: Audio Device (ID: 56) registered with world 'Water'.
+[2021.05.02-09.51.01:781][166]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.02-09.51.01:785][166]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Water.Water up for play (max tick rate 60) at 2021.05.02-05.51.01
+[2021.05.02-09.51.01:786][166]LogWorld: Bringing up level for play took: 0.004314
+[2021.05.02-09.51.01:786][166]LogOnline: OSS: Creating online subsystem instance for: :Context_77
+[2021.05.02-09.51.01:789][166]PIE: Server logged in
+[2021.05.02-09.51.01:790][166]PIE: Play in editor total start time 0.106 seconds.
+[2021.05.02-09.51.07:658][513]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-09.51.07:658][513]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Water
+[2021.05.02-09.51.07:659][513]LogWorld: UWorld::CleanupWorld for Water, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-09.51.07:660][513]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-09.51.07:667][513]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.02-09.51.07:691][513]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-09.51.07:722][513]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.02-09.51.07:722][513]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.02-09.51.07:724][513]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.02-09.51.07:737][513]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-09.51.07:741][513]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2021.05.02-09.51.07:789][514]LogPlayLevel: Display: Destroying online subsystem :Context_77
+[2021.05.02-09.51.34:540][709]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-09.51.34:540][709]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-09.51.35:754][762]LogSlate: Window 'Actor_Blueprint' being destroyed
+[2021.05.02-09.51.35:796][762]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.05.02-09.51.35:796][762]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-09.51.35:796][762]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-09.51.41:044][ 43]Cmd: SELECT NONE
+[2021.05.02-09.51.46:258][159]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube67)
+[2021.05.02-09.51.55:310][675]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube66)
+[2021.05.02-09.52.08:132][413]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube65)
+[2021.05.02-09.52.28:662][601]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder12)
+[2021.05.02-09.52.29:059][620]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cylinder12)
+[2021.05.02-09.52.29:067][620]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.52.29:729][650]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.52.30:236][678]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.52.31:908][764]Cmd: DUPLICATE
+[2021.05.02-09.52.31:908][764]Cmd: ACTOR DUPLICATE
+[2021.05.02-09.52.46:381][595]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.02-09.52.46:393][595]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.02-09.52.46:393][595]PIE: New page: PIE session: Water (May 2, 2021, 1:52:46 AM)
+[2021.05.02-09.52.46:414][595]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Water
+[2021.05.02-09.52.46:423][595]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008815s)
+[2021.05.02-09.52.46:425][595]LogAIModule: Creating AISystem for world Water
+[2021.05.02-09.52.46:426][595]LogPlayLevel: PIE: World Init took: (0.002241s)
+[2021.05.02-09.52.46:426][595]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Water.Water to /Game/ThirdPersonBP/Maps/UEDPIE_0_Water.Water (0.011339s)
+[2021.05.02-09.52.46:492][595]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2021.05.02-09.52.46:504][595]LogAudio: Display: Creating Audio Device:                 Id: 57, Scope: Unique, Realtime: True
+[2021.05.02-09.52.46:505][595]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.02-09.52.46:505][595]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.02-09.52.46:505][595]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.02-09.52.46:505][595]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.02-09.52.46:505][595]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.02-09.52.46:505][595]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.02-09.52.46:505][595]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.02-09.52.46:505][595]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.02-09.52.46:506][595]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.02-09.52.46:506][595]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.02-09.52.46:510][595]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.02-09.52.46:510][595]LogAudioMixer: Display: 1: FrontRight
+[2021.05.02-09.52.46:524][595]LogAudioMixer: Display: Using Audio Device Speakers (3- USB Audio Device)
+[2021.05.02-09.52.46:524][595]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.02-09.52.46:524][595]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.02-09.52.46:524][595]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.02-09.52.46:524][595]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.02-09.52.46:524][595]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.02-09.52.46:524][595]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.02-09.52.46:549][595]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.02-09.52.46:549][595]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.02-09.52.46:549][595]LogInit: FAudioDevice initialized.
+[2021.05.02-09.52.46:549][595]LogAudio: Display: Audio Device (ID: 57) registered with world 'Water'.
+[2021.05.02-09.52.46:558][595]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.02-09.52.46:566][595]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Water.Water up for play (max tick rate 60) at 2021.05.02-05.52.46
+[2021.05.02-09.52.46:567][595]LogWorld: Bringing up level for play took: 0.007652
+[2021.05.02-09.52.46:567][595]LogOnline: OSS: Creating online subsystem instance for: :Context_78
+[2021.05.02-09.52.46:573][595]PIE: Server logged in
+[2021.05.02-09.52.46:573][595]PIE: Play in editor total start time 0.181 seconds.
+[2021.05.02-09.52.49:577][769]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-09.52.49:577][769]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Water
+[2021.05.02-09.52.49:577][769]LogWorld: UWorld::CleanupWorld for Water, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-09.52.49:578][769]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-09.52.49:588][769]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.02-09.52.49:615][769]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-09.52.49:643][769]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.02-09.52.49:643][769]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.02-09.52.49:644][769]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.02-09.52.49:663][769]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-09.52.49:702][769]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2021.05.02-09.52.49:747][770]LogPlayLevel: Display: Destroying online subsystem :Context_78
+[2021.05.02-09.53.19:065][497]Cmd: SELECT NONE
+[2021.05.02-09.55.21:848][879]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.55.23:419][956]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.55.24:741][ 20]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.55.25:511][ 50]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.55.26:930][118]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.55.28:879][213]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.55.30:585][298]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.55.32:358][385]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.55.34:223][472]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.55.36:665][599]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.55.43:095][953]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.56.01:243][  0]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.56.01:282][  1]LogActorFactory: Actor Factory created Cube
+[2021.05.02-09.56.02:210][ 36]LogActorFactory: Actor Factory created Cube
+[2021.05.02-09.56.36:357][938]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.56.46:215][495]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.02-09.56.46:228][495]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.02-09.56.46:228][495]PIE: New page: PIE session: Water (May 2, 2021, 1:56:46 AM)
+[2021.05.02-09.56.46:265][495]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Water
+[2021.05.02-09.56.46:273][495]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008667s)
+[2021.05.02-09.56.46:275][495]LogAIModule: Creating AISystem for world Water
+[2021.05.02-09.56.46:275][495]LogPlayLevel: PIE: World Init took: (0.001213s)
+[2021.05.02-09.56.46:275][495]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Water.Water to /Game/ThirdPersonBP/Maps/UEDPIE_0_Water.Water (0.010104s)
+[2021.05.02-09.56.46:296][495]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2021.05.02-09.56.46:310][495]LogAudio: Display: Creating Audio Device:                 Id: 58, Scope: Unique, Realtime: True
+[2021.05.02-09.56.46:310][495]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.02-09.56.46:310][495]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.02-09.56.46:310][495]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.02-09.56.46:310][495]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.02-09.56.46:310][495]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.02-09.56.46:310][495]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.02-09.56.46:310][495]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.02-09.56.46:310][495]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.02-09.56.46:311][495]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.02-09.56.46:311][495]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.02-09.56.46:317][495]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.02-09.56.46:317][495]LogAudioMixer: Display: 1: FrontRight
+[2021.05.02-09.56.46:330][495]LogAudioMixer: Display: Using Audio Device Speakers (3- USB Audio Device)
+[2021.05.02-09.56.46:330][495]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.02-09.56.46:330][495]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.02-09.56.46:330][495]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.02-09.56.46:330][495]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.02-09.56.46:330][495]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.02-09.56.46:330][495]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.02-09.56.46:354][495]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.02-09.56.46:355][495]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.02-09.56.46:355][495]LogInit: FAudioDevice initialized.
+[2021.05.02-09.56.46:355][495]LogAudio: Display: Audio Device (ID: 58) registered with world 'Water'.
+[2021.05.02-09.56.46:367][495]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.02-09.56.46:372][495]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Water.Water up for play (max tick rate 60) at 2021.05.02-05.56.46
+[2021.05.02-09.56.46:372][495]LogWorld: Bringing up level for play took: 0.004321
+[2021.05.02-09.56.46:372][495]LogOnline: OSS: Creating online subsystem instance for: :Context_79
+[2021.05.02-09.56.46:378][495]PIE: Server logged in
+[2021.05.02-09.56.46:380][495]PIE: Play in editor total start time 0.153 seconds.
+[2021.05.02-09.56.49:848][690]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-09.56.49:848][690]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Water
+[2021.05.02-09.56.49:848][690]LogWorld: UWorld::CleanupWorld for Water, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-09.56.49:850][690]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-09.56.49:861][690]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.02-09.56.49:876][690]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-09.56.49:892][690]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-09.56.49:893][690]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.02-09.56.49:896][690]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.02-09.56.49:922][690]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2021.05.02-09.56.49:962][691]LogPlayLevel: Display: Destroying online subsystem :Context_79
+[2021.05.02-09.56.58:997][201]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube68)
+[2021.05.02-09.56.59:007][201]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.57.01:094][307]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.57.01:895][346]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.57.05:830][560]Cmd: DUPLICATE
+[2021.05.02-09.57.05:830][560]Cmd: ACTOR DUPLICATE
+[2021.05.02-09.57.06:996][618]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube69)
+[2021.05.02-09.57.07:009][618]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.57.09:825][734]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.57.10:545][771]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.57.36:026][220]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (StaticMeshComponent0)
+[2021.05.02-09.57.36:048][220]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.57.39:852][426]Cmd: DUPLICATE
+[2021.05.02-09.57.39:852][426]Cmd: ACTOR DUPLICATE
+[2021.05.02-09.57.58:403][498]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube68)
+[2021.05.02-09.57.59:219][539]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube69)
+[2021.05.02-09.57.59:576][557]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube68)
+[2021.05.02-09.58.05:636][908]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube69)
+[2021.05.02-09.58.25:344][ 39]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube68)
+[2021.05.02-09.58.27:296][144]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube68)
+[2021.05.02-09.58.27:306][144]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.58.28:320][169]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-09.58.29:892][248]Cmd: DUPLICATE
+[2021.05.02-09.58.29:892][248]Cmd: ACTOR DUPLICATE
+[2021.05.02-09.58.41:495][890]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube69)
+[2021.05.02-09.58.42:929][973]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube70)
+[2021.05.02-09.58.43:995][ 34]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube69)
+[2021.05.02-09.58.44:922][ 83]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube70)
+[2021.05.02-09.59.06:196][280]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.02-09.59.06:206][280]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.02-09.59.06:206][280]PIE: New page: PIE session: Water (May 2, 2021, 1:59:06 AM)
+[2021.05.02-09.59.06:206][280]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Water
+[2021.05.02-09.59.06:217][280]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010809s)
+[2021.05.02-09.59.06:219][280]LogAIModule: Creating AISystem for world Water
+[2021.05.02-09.59.06:219][280]LogPlayLevel: PIE: World Init took: (0.002023s)
+[2021.05.02-09.59.06:219][280]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Water.Water to /Game/ThirdPersonBP/Maps/UEDPIE_0_Water.Water (0.012989s)
+[2021.05.02-09.59.06:239][280]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2021.05.02-09.59.06:256][280]LogAudio: Display: Creating Audio Device:                 Id: 59, Scope: Unique, Realtime: True
+[2021.05.02-09.59.06:256][280]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.02-09.59.06:256][280]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.02-09.59.06:256][280]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.02-09.59.06:256][280]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.02-09.59.06:256][280]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.02-09.59.06:256][280]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.02-09.59.06:256][280]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.02-09.59.06:256][280]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.02-09.59.06:257][280]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.02-09.59.06:257][280]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.02-09.59.06:261][280]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.02-09.59.06:261][280]LogAudioMixer: Display: 1: FrontRight
+[2021.05.02-09.59.06:270][280]LogAudioMixer: Display: Using Audio Device Speakers (3- USB Audio Device)
+[2021.05.02-09.59.06:270][280]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.02-09.59.06:270][280]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.02-09.59.06:270][280]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.02-09.59.06:271][280]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.02-09.59.06:271][280]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.02-09.59.06:271][280]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.02-09.59.06:292][280]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.02-09.59.06:292][280]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.02-09.59.06:292][280]LogInit: FAudioDevice initialized.
+[2021.05.02-09.59.06:292][280]LogAudio: Display: Audio Device (ID: 59) registered with world 'Water'.
+[2021.05.02-09.59.06:304][280]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.02-09.59.06:308][280]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Water.Water up for play (max tick rate 60) at 2021.05.02-05.59.06
+[2021.05.02-09.59.06:308][280]LogWorld: Bringing up level for play took: 0.003779
+[2021.05.02-09.59.06:308][280]LogOnline: OSS: Creating online subsystem instance for: :Context_80
+[2021.05.02-09.59.06:311][280]PIE: Server logged in
+[2021.05.02-09.59.06:312][280]PIE: Play in editor total start time 0.109 seconds.
+[2021.05.02-09.59.17:666][953]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-09.59.17:666][953]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Water
+[2021.05.02-09.59.17:666][953]LogWorld: UWorld::CleanupWorld for Water, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-09.59.17:667][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-09.59.17:679][953]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.02-09.59.17:698][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-09.59.17:721][953]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.02-09.59.17:721][953]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.02-09.59.17:723][953]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.02-09.59.17:742][953]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-09.59.17:746][953]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2021.05.02-09.59.17:800][954]LogPlayLevel: Display: Destroying online subsystem :Context_80
+[2021.05.02-09.59.21:971][186]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube69)
+[2021.05.02-09.59.27:643][484]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube68)
+[2021.05.02-09.59.32:828][771]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube69)
+[2021.05.02-09.59.35:025][897]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube70)
+[2021.05.02-10.00.25:295][987]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.00.34:341][ 14]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.00.34:371][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2021.05.02-10.00.34:418][ 14]LogSavePackage: Moving '../../../../Users/bpetr/Documents/GitHub/Game250Project/Project/Saved/Water_Auto1EE1BD567411C8A20920833860F7D99FC.tmp' to '../../../../Users/bpetr/Documents/GitHub/Game250Project/Project/Saved/Autosaves/Game/ThirdPersonBP/Maps/Water_Auto1.umap'
+[2021.05.02-10.00.34:425][ 14]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/Water' took 0.070
+[2021.05.02-10.00.34:425][ 14]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.070
+[2021.05.02-10.01.03:789][324]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube68)
+[2021.05.02-10.01.03:979][333]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube68)
+[2021.05.02-10.01.03:986][333]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.01.04:463][354]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.01.04:959][382]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.01.05:925][432]Cmd: DUPLICATE
+[2021.05.02-10.01.05:926][432]Cmd: ACTOR DUPLICATE
+[2021.05.02-10.01.47:321][887]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube66)
+[2021.05.02-10.01.48:117][930]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube)
+[2021.05.02-10.01.48:623][958]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Shape_Cube)
+[2021.05.02-10.01.48:632][958]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.01.49:163][985]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.01.51:772][130]Cmd: DUPLICATE
+[2021.05.02-10.01.51:772][130]Cmd: ACTOR DUPLICATE
+[2021.05.02-10.02.30:232][399]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (Shape_Cube)
+[2021.05.02-10.02.31:015][444]Cmd: DELETE
+[2021.05.02-10.02.31:015][444]Cmd: ACTOR DELETE
+[2021.05.02-10.02.31:018][444]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.02-10.02.31:038][444]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2021.05.02-10.02.31:051][444]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2021.05.02-10.02.43:297][172]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube66)
+[2021.05.02-10.02.44:425][237]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube66)
+[2021.05.02-10.02.44:433][237]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.02.45:820][305]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.02.47:116][376]Cmd: DUPLICATE
+[2021.05.02-10.02.47:116][376]Cmd: ACTOR DUPLICATE
+[2021.05.02-10.02.47:798][413]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube72)
+[2021.05.02-10.02.47:807][413]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.03.14:653][991]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube72)
+[2021.05.02-10.03.14:662][991]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.03.15:185][ 11]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.03.15:692][ 36]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.03.16:614][ 86]Cmd: DUPLICATE
+[2021.05.02-10.03.16:614][ 86]Cmd: ACTOR DUPLICATE
+[2021.05.02-10.03.28:176][747]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube72)
+[2021.05.02-10.03.34:657][119]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.05.02-10.03.48:432][937]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube72)
+[2021.05.02-10.03.49:209][981]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube72)
+[2021.05.02-10.03.49:218][981]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.03.49:665][  2]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.03.49:746][  3]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.03.50:442][ 35]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.03.51:537][ 93]Cmd: DUPLICATE
+[2021.05.02-10.03.51:537][ 93]Cmd: ACTOR DUPLICATE
+[2021.05.02-10.04.13:510][380]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube74)
+[2021.05.02-10.04.13:517][380]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.04.14:094][404]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.04.15:819][492]Cmd: DUPLICATE
+[2021.05.02-10.04.15:819][492]Cmd: ACTOR DUPLICATE
+[2021.05.02-10.04.37:844][782]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube75)
+[2021.05.02-10.04.37:855][782]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.04.38:372][802]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.04.38:938][833]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.04.39:988][885]Cmd: DUPLICATE
+[2021.05.02-10.04.39:988][885]Cmd: ACTOR DUPLICATE
+[2021.05.02-10.05.35:315][112]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube71)
+[2021.05.02-10.05.35:569][125]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube71)
+[2021.05.02-10.05.35:577][125]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.05.36:360][165]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.05.36:871][193]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.05.37:756][241]Cmd: DUPLICATE
+[2021.05.02-10.05.37:756][241]Cmd: ACTOR DUPLICATE
+[2021.05.02-10.06.02:596][702]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.02-10.06.02:607][702]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.02-10.06.02:607][702]PIE: New page: PIE session: Water (May 2, 2021, 2:06:02 AM)
+[2021.05.02-10.06.02:607][702]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Water
+[2021.05.02-10.06.02:616][702]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008385s)
+[2021.05.02-10.06.02:617][702]LogAIModule: Creating AISystem for world Water
+[2021.05.02-10.06.02:617][702]LogPlayLevel: PIE: World Init took: (0.001612s)
+[2021.05.02-10.06.02:617][702]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Water.Water to /Game/ThirdPersonBP/Maps/UEDPIE_0_Water.Water (0.010162s)
+[2021.05.02-10.06.02:636][702]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2021.05.02-10.06.02:652][702]LogAudio: Display: Creating Audio Device:                 Id: 60, Scope: Unique, Realtime: True
+[2021.05.02-10.06.02:652][702]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.02-10.06.02:652][702]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.02-10.06.02:652][702]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.02-10.06.02:652][702]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.02-10.06.02:652][702]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.02-10.06.02:652][702]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.02-10.06.02:652][702]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.02-10.06.02:652][702]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.02-10.06.02:652][702]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.02-10.06.02:652][702]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.02-10.06.02:657][702]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.02-10.06.02:657][702]LogAudioMixer: Display: 1: FrontRight
+[2021.05.02-10.06.02:666][702]LogAudioMixer: Display: Using Audio Device Speakers (3- USB Audio Device)
+[2021.05.02-10.06.02:667][702]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.02-10.06.02:667][702]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.02-10.06.02:667][702]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.02-10.06.02:667][702]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.02-10.06.02:667][702]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.02-10.06.02:667][702]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.02-10.06.02:683][702]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.02-10.06.02:683][702]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.02-10.06.02:683][702]LogInit: FAudioDevice initialized.
+[2021.05.02-10.06.02:683][702]LogAudio: Display: Audio Device (ID: 60) registered with world 'Water'.
+[2021.05.02-10.06.02:696][702]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.02-10.06.02:700][702]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Water.Water up for play (max tick rate 60) at 2021.05.02-06.06.02
+[2021.05.02-10.06.02:701][702]LogWorld: Bringing up level for play took: 0.003696
+[2021.05.02-10.06.02:701][702]LogOnline: OSS: Creating online subsystem instance for: :Context_81
+[2021.05.02-10.06.02:703][702]PIE: Server logged in
+[2021.05.02-10.06.02:704][702]PIE: Play in editor total start time 0.099 seconds.
+[2021.05.02-10.06.12:497][280]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-10.06.12:497][280]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Water
+[2021.05.02-10.06.12:497][280]LogWorld: UWorld::CleanupWorld for Water, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-10.06.12:498][280]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-10.06.12:505][280]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.02-10.06.12:525][280]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-10.06.12:542][280]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.02-10.06.12:542][280]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.02-10.06.12:543][280]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.02-10.06.12:564][280]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-10.06.12:570][280]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2021.05.02-10.06.12:613][281]LogPlayLevel: Display: Destroying online subsystem :Context_81
+[2021.05.02-10.06.38:496][775]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.02-10.06.38:505][775]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.02-10.06.38:505][775]PIE: New page: PIE session: Water (May 2, 2021, 2:06:38 AM)
+[2021.05.02-10.06.38:505][775]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Water
+[2021.05.02-10.06.38:514][775]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008787s)
+[2021.05.02-10.06.38:516][775]LogAIModule: Creating AISystem for world Water
+[2021.05.02-10.06.38:516][775]LogPlayLevel: PIE: World Init took: (0.001768s)
+[2021.05.02-10.06.38:516][775]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Water.Water to /Game/ThirdPersonBP/Maps/UEDPIE_0_Water.Water (0.010718s)
+[2021.05.02-10.06.38:541][775]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2021.05.02-10.06.38:547][775]LogAudio: Display: Creating Audio Device:                 Id: 61, Scope: Unique, Realtime: True
+[2021.05.02-10.06.38:547][775]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.02-10.06.38:547][775]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.02-10.06.38:547][775]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.02-10.06.38:547][775]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.02-10.06.38:547][775]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.02-10.06.38:547][775]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.02-10.06.38:547][775]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.02-10.06.38:547][775]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.02-10.06.38:548][775]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.02-10.06.38:548][775]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.02-10.06.38:552][775]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.02-10.06.38:552][775]LogAudioMixer: Display: 1: FrontRight
+[2021.05.02-10.06.38:562][775]LogAudioMixer: Display: Using Audio Device Speakers (3- USB Audio Device)
+[2021.05.02-10.06.38:562][775]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.02-10.06.38:562][775]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.02-10.06.38:562][775]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.02-10.06.38:562][775]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.02-10.06.38:562][775]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.02-10.06.38:562][775]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.02-10.06.38:589][775]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.02-10.06.38:589][775]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.02-10.06.38:589][775]LogInit: FAudioDevice initialized.
+[2021.05.02-10.06.38:589][775]LogAudio: Display: Audio Device (ID: 61) registered with world 'Water'.
+[2021.05.02-10.06.38:601][775]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.02-10.06.38:606][775]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Water.Water up for play (max tick rate 60) at 2021.05.02-06.06.38
+[2021.05.02-10.06.38:607][775]LogWorld: Bringing up level for play took: 0.005329
+[2021.05.02-10.06.38:607][775]LogOnline: OSS: Creating online subsystem instance for: :Context_82
+[2021.05.02-10.06.38:610][775]PIE: Server logged in
+[2021.05.02-10.06.38:611][775]PIE: Play in editor total start time 0.107 seconds.
+[2021.05.02-10.06.44:887][146]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-10.06.44:887][146]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Water
+[2021.05.02-10.06.44:887][146]LogWorld: UWorld::CleanupWorld for Water, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-10.06.44:888][146]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-10.06.44:897][146]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.02-10.06.44:919][146]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-10.06.44:934][146]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-10.06.44:935][146]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.02-10.06.44:936][146]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.02-10.06.44:957][146]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2021.05.02-10.06.44:998][147]LogPlayLevel: Display: Destroying online subsystem :Context_82
+[2021.05.02-10.07.04:808][319]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube71)
+[2021.05.02-10.07.05:118][336]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube71)
+[2021.05.02-10.07.05:128][336]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.07.05:484][350]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.07.05:547][351]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.07.06:278][392]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.07.09:426][564]Cmd: DUPLICATE
+[2021.05.02-10.07.09:426][564]Cmd: ACTOR DUPLICATE
+[2021.05.02-10.07.37:058][196]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube78)
+[2021.05.02-10.07.37:065][196]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.07.37:809][227]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.07.38:852][272]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.07.39:171][287]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.07.40:708][371]Cmd: DUPLICATE
+[2021.05.02-10.07.40:708][371]Cmd: ACTOR DUPLICATE
+[2021.05.02-10.07.49:159][866]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube78)
+[2021.05.02-10.07.56:720][304]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube79)
+[2021.05.02-10.08.02:037][609]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube78)
+[2021.05.02-10.08.07:694][941]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube79)
+[2021.05.02-10.08.18:768][589]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube78)
+[2021.05.02-10.08.24:359][913]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube79)
+[2021.05.02-10.08.47:605][286]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube78)
+[2021.05.02-10.08.51:986][529]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.05.02-10.08.52:261][542]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube79)
+[2021.05.02-10.09.09:216][541]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube78)
+[2021.05.02-10.09.13:680][796]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube79)
+[2021.05.02-10.09.55:120][260]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube79)
+[2021.05.02-10.09.55:130][260]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.09.58:866][467]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube76)
+[2021.05.02-10.10.01:463][615]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube76)
+[2021.05.02-10.10.01:471][615]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.10.01:952][636]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.10.02:603][671]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.10.04:863][785]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube76)
+[2021.05.02-10.10.45:499][174]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube78)
+[2021.05.02-10.10.45:720][185]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube78)
+[2021.05.02-10.10.45:730][185]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.10.46:270][208]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.10.46:432][213]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.10.46:466][214]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.10.47:481][266]Cmd: DUPLICATE
+[2021.05.02-10.10.47:481][266]Cmd: ACTOR DUPLICATE
+[2021.05.02-10.10.54:022][651]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube80)
+[2021.05.02-10.10.54:030][651]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.11.16:028][941]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube80)
+[2021.05.02-10.11.16:036][941]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.11.16:589][963]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.11.17:093][992]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.11.17:879][ 29]Cmd: DUPLICATE
+[2021.05.02-10.11.17:879][ 29]Cmd: ACTOR DUPLICATE
+[2021.05.02-10.11.31:258][808]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.11.31:304][809]LogActorFactory: Actor Factory created Cube
+[2021.05.02-10.11.32:313][857]LogActorFactory: Actor Factory created Cube
+[2021.05.02-10.12.56:279][770]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube82)
+[2021.05.02-10.12.56:289][770]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.12.56:895][799]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.12.57:475][830]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.12.58:552][883]Cmd: DUPLICATE
+[2021.05.02-10.12.58:552][883]Cmd: ACTOR DUPLICATE
+[2021.05.02-10.13.36:762][109]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.02-10.13.36:774][109]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.02-10.13.36:774][109]PIE: New page: PIE session: Water (May 2, 2021, 2:13:36 AM)
+[2021.05.02-10.13.36:774][109]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Water
+[2021.05.02-10.13.36:784][109]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010234s)
+[2021.05.02-10.13.36:785][109]LogAIModule: Creating AISystem for world Water
+[2021.05.02-10.13.36:786][109]LogPlayLevel: PIE: World Init took: (0.001131s)
+[2021.05.02-10.13.36:786][109]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Water.Water to /Game/ThirdPersonBP/Maps/UEDPIE_0_Water.Water (0.011581s)
+[2021.05.02-10.13.36:804][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2021.05.02-10.13.36:821][109]LogAudio: Display: Creating Audio Device:                 Id: 62, Scope: Unique, Realtime: True
+[2021.05.02-10.13.36:822][109]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.02-10.13.36:822][109]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.02-10.13.36:822][109]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.02-10.13.36:822][109]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.02-10.13.36:822][109]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.02-10.13.36:822][109]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.02-10.13.36:822][109]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.02-10.13.36:822][109]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.02-10.13.36:822][109]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.02-10.13.36:823][109]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.02-10.13.36:828][109]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.02-10.13.36:828][109]LogAudioMixer: Display: 1: FrontRight
+[2021.05.02-10.13.36:837][109]LogAudioMixer: Display: Using Audio Device Speakers (3- USB Audio Device)
+[2021.05.02-10.13.36:838][109]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.02-10.13.36:838][109]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.02-10.13.36:838][109]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.02-10.13.36:838][109]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.02-10.13.36:838][109]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.02-10.13.36:838][109]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.02-10.13.36:850][109]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.02-10.13.36:850][109]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.02-10.13.36:850][109]LogInit: FAudioDevice initialized.
+[2021.05.02-10.13.36:850][109]LogAudio: Display: Audio Device (ID: 62) registered with world 'Water'.
+[2021.05.02-10.13.36:862][109]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.02-10.13.36:867][109]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Water.Water up for play (max tick rate 60) at 2021.05.02-06.13.36
+[2021.05.02-10.13.36:867][109]LogWorld: Bringing up level for play took: 0.004906
+[2021.05.02-10.13.36:867][109]LogOnline: OSS: Creating online subsystem instance for: :Context_83
+[2021.05.02-10.13.36:872][109]PIE: Server logged in
+[2021.05.02-10.13.36:873][109]PIE: Play in editor total start time 0.101 seconds.
+[2021.05.02-10.13.44:256][545]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-10.13.44:256][545]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Water
+[2021.05.02-10.13.44:256][545]LogWorld: UWorld::CleanupWorld for Water, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-10.13.44:257][545]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-10.13.44:262][545]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.02-10.13.44:276][545]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-10.13.44:298][545]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.02-10.13.44:298][545]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.02-10.13.44:299][545]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.02-10.13.44:313][545]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-10.13.44:317][545]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2021.05.02-10.13.44:360][546]LogPlayLevel: Display: Destroying online subsystem :Context_83
+[2021.05.02-10.14.07:088][898]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube83)
+[2021.05.02-10.14.07:099][898]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.14.07:985][942]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.14.08:031][943]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.14.09:464][ 10]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube83)
+[2021.05.02-10.14.41:543][880]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube83)
+[2021.05.02-10.15.13:211][754]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.15.16:714][951]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube78)
+[2021.05.02-10.15.18:930][ 78]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube81)
+[2021.05.02-10.15.26:631][529]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube79)
+[2021.05.02-10.15.27:910][602]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube81)
+[2021.05.02-10.15.29:565][696]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube81)
+[2021.05.02-10.15.29:574][696]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.15.30:127][720]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.15.30:180][721]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.15.30:892][760]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.15.31:759][802]Cmd: DUPLICATE
+[2021.05.02-10.15.31:759][802]Cmd: ACTOR DUPLICATE
+[2021.05.02-10.15.58:449][355]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube84)
+[2021.05.02-10.16.06:248][816]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube84)
+[2021.05.02-10.16.06:258][816]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.16.06:902][852]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.16.07:960][904]Cmd: DUPLICATE
+[2021.05.02-10.16.07:960][904]Cmd: ACTOR DUPLICATE
+[2021.05.02-10.16.54:093][656]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.17.01:527][ 86]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube85)
+[2021.05.02-10.17.01:535][ 86]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.17.02:227][120]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.17.02:781][151]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.17.03:860][198]Cmd: DUPLICATE
+[2021.05.02-10.17.03:860][198]Cmd: ACTOR DUPLICATE
+[2021.05.02-10.17.32:761][883]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2021.05.02-10.17.32:780][883]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.17.33:343][910]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube86)
+[2021.05.02-10.17.33:376][910]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.17.34:015][941]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.17.35:409][ 18]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.17.36:671][ 84]Cmd: DUPLICATE
+[2021.05.02-10.17.36:671][ 84]Cmd: ACTOR DUPLICATE
+[2021.05.02-10.17.37:289][118]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube86)
+[2021.05.02-10.17.37:316][118]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.17.38:163][157]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.17.38:893][194]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.17.48:269][716]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.17.48:315][716]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2021.05.02-10.17.48:371][716]LogSavePackage: Moving '../../../../Users/bpetr/Documents/GitHub/Game250Project/Project/Saved/Water_Auto244A60AE5471F8E3792486EB25F0FC54E.tmp' to '../../../../Users/bpetr/Documents/GitHub/Game250Project/Project/Saved/Autosaves/Game/ThirdPersonBP/Maps/Water_Auto2.umap'
+[2021.05.02-10.17.48:378][716]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/Water' took 0.085
+[2021.05.02-10.17.48:379][716]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.085
+[2021.05.02-10.18.13:737][211]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube79)
+[2021.05.02-10.18.13:765][211]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.18.14:652][253]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.18.14:720][254]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.18.15:338][286]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.18.17:387][398]Cmd: DUPLICATE
+[2021.05.02-10.18.17:387][398]Cmd: ACTOR DUPLICATE
+[2021.05.02-10.18.29:905][128]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube88)
+[2021.05.02-10.18.29:915][128]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.18.30:383][150]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.18.49:574][236]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube88)
+[2021.05.02-10.18.49:585][236]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.18.49:872][249]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.18.50:038][252]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.18.50:494][271]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.18.51:645][331]Cmd: DUPLICATE
+[2021.05.02-10.18.51:645][331]Cmd: ACTOR DUPLICATE
+[2021.05.02-10.19.06:295][194]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.21.12:159][687]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.21.12:197][687]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2021.05.02-10.21.12:258][687]LogSavePackage: Moving '../../../../Users/bpetr/Documents/GitHub/Game250Project/Project/Saved/Water36AAAEAD42886077A72DC69DDC3174DA.tmp' to '../../../../Users/bpetr/Documents/GitHub/Game250Project/Project/Content/ThirdPersonBP/Maps/Water.umap'
+[2021.05.02-10.21.12:290][687]AssetCheck: New page: Asset Save: Water
+[2021.05.02-10.21.12:290][687]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Water.Water
+[2021.05.02-10.22.00:660][515]Cmd: SELECT NONE
+[2021.05.02-10.22.16:944][440]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2021.05.02-10.22.16:959][440]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.22.16:968][440]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.05.02-10.22.16:968][440]Cmd: MAP LOAD FILE="../../../../Users/bpetr/Documents/GitHub/Game250Project/Project/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.02-10.22.16:968][440]LightingResults: New page: Lighting Build
+[2021.05.02-10.22.16:968][440]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2021.05.02-10.22.16:970][440]LogWorld: UWorld::CleanupWorld for Water, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-10.22.16:970][440]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-10.22.16:970][440]MapCheck: New page: Map Check
+[2021.05.02-10.22.16:970][440]LightingResults: New page: Lighting Build
+[2021.05.02-10.22.16:987][440]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.02-10.22.16:990][440]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2021.05.02-10.22.16:991][440]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2021.05.02-10.22.17:003][440]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Tutorial) is flushing async loading
+[2021.05.02-10.22.17:003][440]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2021.05.02-10.22.17:098][440]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.02-10.22.17:098][440]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.05.02-10.22.17:120][440]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2021.05.02-10.22.17:135][440]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.02-10.22.17:135][440]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.225ms to complete.
+[2021.05.02-10.22.17:135][440]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.167
+[2021.05.02-10.23.26:748][595]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.05.02-10.23.27:698][642]LogEditorViewport: Clicking on Actor (LMB): Soul3_C (Soul3)
+[2021.05.02-10.23.27:934][655]LogEditorViewport: Clicking on Actor (context menu): Soul3_C (Soul3)
+[2021.05.02-10.23.27:945][655]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.23.28:361][675]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.23.28:425][677]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.23.28:738][691]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.23.31:618][853]Cmd: EDIT COPY
+[2021.05.02-10.25.27:804][802]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.05.02-10.25.27:824][802]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.25.27:853][802]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/Water.Water
+[2021.05.02-10.25.27:853][802]Cmd: MAP LOAD FILE="../../../../Users/bpetr/Documents/GitHub/Game250Project/Project/Content/ThirdPersonBP/Maps/Water.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.02-10.25.27:853][802]LightingResults: New page: Lighting Build
+[2021.05.02-10.25.27:853][802]LoadErrors: New page: Loading map: Water.umap
+[2021.05.02-10.25.27:885][802]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-10.25.27:885][802]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-10.25.27:885][802]LogWorld: UWorld::CleanupWorld for Tutorial, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-10.25.27:885][802]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-10.25.27:885][802]MapCheck: New page: Map Check
+[2021.05.02-10.25.27:885][802]LightingResults: New page: Lighting Build
+[2021.05.02-10.25.27:902][802]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.02-10.25.27:909][802]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2021.05.02-10.25.27:909][802]LogAudio: Display: Audio Device (ID: 1) registered with world 'Water'.
+[2021.05.02-10.25.27:999][802]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.02-10.25.27:999][802]LogAIModule: Creating AISystem for world Water
+[2021.05.02-10.25.28:023][802]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2021.05.02-10.25.28:036][802]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.02-10.25.28:037][802]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.787ms to complete.
+[2021.05.02-10.25.28:037][802]LogFileHelpers: Loading map 'Water' took 0.184
+[2021.05.02-10.25.28:092][802]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.05.02-10.25.29:714][896]Cmd: EDIT PASTE
+[2021.05.02-10.26.36:174][788]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.02-10.26.36:188][788]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.02-10.26.36:188][788]PIE: New page: PIE session: Water (May 2, 2021, 2:26:36 AM)
+[2021.05.02-10.26.36:189][788]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Water
+[2021.05.02-10.26.36:199][788]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009967s)
+[2021.05.02-10.26.36:200][788]LogAIModule: Creating AISystem for world Water
+[2021.05.02-10.26.36:201][788]LogPlayLevel: PIE: World Init took: (0.002075s)
+[2021.05.02-10.26.36:201][788]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Water.Water to /Game/ThirdPersonBP/Maps/UEDPIE_0_Water.Water (0.012282s)
+[2021.05.02-10.26.36:229][788]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2021.05.02-10.26.36:240][788]LogAudio: Display: Creating Audio Device:                 Id: 63, Scope: Unique, Realtime: True
+[2021.05.02-10.26.36:240][788]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.02-10.26.36:240][788]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.02-10.26.36:240][788]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.02-10.26.36:240][788]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.02-10.26.36:240][788]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.02-10.26.36:240][788]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.02-10.26.36:240][788]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.02-10.26.36:240][788]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.02-10.26.36:240][788]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.02-10.26.36:240][788]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.02-10.26.36:244][788]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.02-10.26.36:244][788]LogAudioMixer: Display: 1: FrontRight
+[2021.05.02-10.26.36:254][788]LogAudioMixer: Display: Using Audio Device Speakers (3- USB Audio Device)
+[2021.05.02-10.26.36:255][788]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.02-10.26.36:255][788]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.02-10.26.36:255][788]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.02-10.26.36:255][788]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.02-10.26.36:255][788]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.02-10.26.36:255][788]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.02-10.26.36:277][788]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.02-10.26.36:277][788]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.02-10.26.36:277][788]LogInit: FAudioDevice initialized.
+[2021.05.02-10.26.36:277][788]LogAudio: Display: Audio Device (ID: 63) registered with world 'Water'.
+[2021.05.02-10.26.36:286][788]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.02-10.26.36:290][788]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Water.Water up for play (max tick rate 60) at 2021.05.02-06.26.36
+[2021.05.02-10.26.36:291][788]LogWorld: Bringing up level for play took: 0.004315
+[2021.05.02-10.26.36:291][788]LogOnline: OSS: Creating online subsystem instance for: :Context_84
+[2021.05.02-10.26.36:294][788]PIE: Server logged in
+[2021.05.02-10.26.36:295][788]PIE: Play in editor total start time 0.109 seconds.
+[2021.05.02-10.26.47:855][473]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.05.02-10.26.47:855][473]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.05.02-10.26.47:855][473]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.05.02-10.26.49:715][583]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-10.26.49:715][583]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Water
+[2021.05.02-10.26.49:716][583]LogWorld: UWorld::CleanupWorld for Water, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-10.26.49:718][583]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-10.26.49:730][583]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.02-10.26.49:742][583]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-10.26.49:761][583]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.02-10.26.49:762][583]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.02-10.26.49:763][583]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.02-10.26.49:779][583]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-10.26.49:783][583]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2021.05.02-10.26.49:815][584]LogPlayLevel: Display: Destroying online subsystem :Context_84
+[2021.05.02-10.27.41:777][677]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.27.41:815][677]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2021.05.02-10.27.41:869][677]LogSavePackage: Moving '../../../../Users/bpetr/Documents/GitHub/Game250Project/Project/Saved/WaterF1C245DC4AD2762746B55F9C14356F4D.tmp' to '../../../../Users/bpetr/Documents/GitHub/Game250Project/Project/Content/ThirdPersonBP/Maps/Water.umap'
+[2021.05.02-10.27.41:897][677]AssetCheck: New page: Asset Save: Water
+[2021.05.02-10.27.41:897][677]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Water.Water
+[2021.05.02-10.27.43:941][795]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2021.05.02-10.27.43:947][795]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.27.44:027][795]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/Building.Building
+[2021.05.02-10.27.44:027][795]Cmd: MAP LOAD FILE="../../../../Users/bpetr/Documents/GitHub/Game250Project/Project/Content/ThirdPersonBP/Maps/Building.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.02-10.27.44:027][795]LightingResults: New page: Lighting Build
+[2021.05.02-10.27.44:027][795]LoadErrors: New page: Loading map: Building.umap
+[2021.05.02-10.27.44:054][795]LogWorld: UWorld::CleanupWorld for Water, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-10.27.44:054][795]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-10.27.44:054][795]MapCheck: New page: Map Check
+[2021.05.02-10.27.44:054][795]LightingResults: New page: Lighting Build
+[2021.05.02-10.27.44:075][795]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.02-10.27.44:080][795]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2021.05.02-10.27.44:080][795]LogAudio: Display: Audio Device (ID: 1) registered with world 'Building'.
+[2021.05.02-10.27.44:227][795]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.02-10.27.44:228][795]LogAIModule: Creating AISystem for world Building
+[2021.05.02-10.27.44:259][795]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2021.05.02-10.27.44:276][795]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.02-10.27.44:276][795]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.28ms to complete.
+[2021.05.02-10.27.44:276][795]LogFileHelpers: Loading map 'Building' took 0.250
+[2021.05.02-10.28.09:563][198]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.02-10.28.09:574][198]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.02-10.28.09:574][198]PIE: New page: PIE session: Building (May 2, 2021, 2:28:09 AM)
+[2021.05.02-10.28.09:593][198]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Building
+[2021.05.02-10.28.09:623][198]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029369s)
+[2021.05.02-10.28.09:624][198]LogAIModule: Creating AISystem for world Building
+[2021.05.02-10.28.09:624][198]LogPlayLevel: PIE: World Init took: (0.001048s)
+[2021.05.02-10.28.09:624][198]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Building.Building to /Game/ThirdPersonBP/Maps/UEDPIE_0_Building.Building (0.030654s)
+[2021.05.02-10.28.09:642][198]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2021.05.02-10.28.09:649][198]LogAudio: Display: Creating Audio Device:                 Id: 64, Scope: Unique, Realtime: True
+[2021.05.02-10.28.09:649][198]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.02-10.28.09:649][198]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.02-10.28.09:649][198]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.02-10.28.09:649][198]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.02-10.28.09:649][198]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.02-10.28.09:649][198]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.02-10.28.09:649][198]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.02-10.28.09:649][198]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.02-10.28.09:650][198]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.02-10.28.09:650][198]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.02-10.28.09:653][198]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.02-10.28.09:653][198]LogAudioMixer: Display: 1: FrontRight
+[2021.05.02-10.28.09:665][198]LogAudioMixer: Display: Using Audio Device Speakers (3- USB Audio Device)
+[2021.05.02-10.28.09:665][198]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.02-10.28.09:666][198]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.02-10.28.09:666][198]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.02-10.28.09:666][198]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.02-10.28.09:667][198]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.02-10.28.09:667][198]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.02-10.28.09:683][198]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.02-10.28.09:683][198]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.02-10.28.09:683][198]LogInit: FAudioDevice initialized.
+[2021.05.02-10.28.09:683][198]LogAudio: Display: Audio Device (ID: 64) registered with world 'Building'.
+[2021.05.02-10.28.09:692][198]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.02-10.28.09:704][198]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Building.Building up for play (max tick rate 60) at 2021.05.02-06.28.09
+[2021.05.02-10.28.09:707][198]LogWorld: Bringing up level for play took: 0.014306
+[2021.05.02-10.28.09:707][198]LogOnline: OSS: Creating online subsystem instance for: :Context_85
+[2021.05.02-10.28.09:711][198]PIE: Server logged in
+[2021.05.02-10.28.09:712][198]PIE: Play in editor total start time 0.14 seconds.
+[2021.05.02-10.28.22:206][931]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-10.28.22:206][931]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Building
+[2021.05.02-10.28.22:206][931]LogWorld: UWorld::CleanupWorld for Building, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-10.28.22:210][931]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-10.28.22:223][931]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.02-10.28.22:227][931]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-10.28.22:243][931]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-10.28.22:244][931]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.02-10.28.22:245][931]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.02-10.28.22:273][931]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2021.05.02-10.28.22:306][932]LogPlayLevel: Display: Destroying online subsystem :Context_85
+[2021.05.02-10.28.54:935][725]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.02-10.28.54:950][725]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.02-10.28.54:950][725]PIE: New page: PIE session: Building (May 2, 2021, 2:28:54 AM)
+[2021.05.02-10.28.54:950][725]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Building
+[2021.05.02-10.28.54:985][725]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034058s)
+[2021.05.02-10.28.54:986][725]LogAIModule: Creating AISystem for world Building
+[2021.05.02-10.28.54:986][725]LogPlayLevel: PIE: World Init took: (0.001392s)
+[2021.05.02-10.28.54:986][725]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Building.Building to /Game/ThirdPersonBP/Maps/UEDPIE_0_Building.Building (0.035671s)
+[2021.05.02-10.28.55:012][725]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2021.05.02-10.28.55:018][725]LogAudio: Display: Creating Audio Device:                 Id: 65, Scope: Unique, Realtime: True
+[2021.05.02-10.28.55:018][725]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.02-10.28.55:018][725]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.02-10.28.55:018][725]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.02-10.28.55:018][725]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.02-10.28.55:018][725]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.02-10.28.55:018][725]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.02-10.28.55:018][725]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.02-10.28.55:018][725]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.02-10.28.55:018][725]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.02-10.28.55:018][725]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.02-10.28.55:022][725]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.02-10.28.55:022][725]LogAudioMixer: Display: 1: FrontRight
+[2021.05.02-10.28.55:033][725]LogAudioMixer: Display: Using Audio Device Speakers (3- USB Audio Device)
+[2021.05.02-10.28.55:033][725]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.02-10.28.55:033][725]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.02-10.28.55:033][725]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.02-10.28.55:033][725]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.02-10.28.55:033][725]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.02-10.28.55:033][725]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.02-10.28.55:055][725]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.02-10.28.55:055][725]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.02-10.28.55:055][725]LogInit: FAudioDevice initialized.
+[2021.05.02-10.28.55:055][725]LogAudio: Display: Audio Device (ID: 65) registered with world 'Building'.
+[2021.05.02-10.28.55:067][725]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.02-10.28.55:078][725]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Building.Building up for play (max tick rate 60) at 2021.05.02-06.28.55
+[2021.05.02-10.28.55:080][725]LogWorld: Bringing up level for play took: 0.011996
+[2021.05.02-10.28.55:080][725]LogOnline: OSS: Creating online subsystem instance for: :Context_86
+[2021.05.02-10.28.55:084][725]PIE: Server logged in
+[2021.05.02-10.28.55:084][725]PIE: Play in editor total start time 0.136 seconds.
+[2021.05.02-10.29.08:645][508]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-10.29.08:645][508]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Building
+[2021.05.02-10.29.08:646][508]LogWorld: UWorld::CleanupWorld for Building, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-10.29.08:649][508]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-10.29.08:659][508]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.02-10.29.08:664][508]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-10.29.08:681][508]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-10.29.08:682][508]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.02-10.29.08:683][508]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.02-10.29.08:711][508]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2021.05.02-10.29.08:753][509]LogPlayLevel: Display: Destroying online subsystem :Context_86
+[2021.05.02-10.29.27:033][514]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2021.05.02-10.29.27:046][514]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-10.29.27:085][514]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/Water.Water
+[2021.05.02-10.29.27:085][514]Cmd: MAP LOAD FILE="../../../../Users/bpetr/Documents/GitHub/Game250Project/Project/Content/ThirdPersonBP/Maps/Water.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.02-10.29.27:085][514]LightingResults: New page: Lighting Build
+[2021.05.02-10.29.27:085][514]LoadErrors: New page: Loading map: Water.umap
+[2021.05.02-10.29.27:093][514]LogWorld: UWorld::CleanupWorld for Building, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-10.29.27:093][514]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-10.29.27:094][514]MapCheck: New page: Map Check
+[2021.05.02-10.29.27:094][514]LightingResults: New page: Lighting Build
+[2021.05.02-10.29.27:115][514]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.02-10.29.27:127][514]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2021.05.02-10.29.27:128][514]LogAudio: Display: Audio Device (ID: 1) registered with world 'Water'.
+[2021.05.02-10.29.27:226][514]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.02-10.29.27:226][514]LogAIModule: Creating AISystem for world Water
+[2021.05.02-10.29.27:253][514]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2021.05.02-10.29.27:266][514]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.02-10.29.27:267][514]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.892ms to complete.
+[2021.05.02-10.29.27:267][514]LogFileHelpers: Loading map 'Water' took 0.183
+[2021.05.02-10.29.52:829][ 27]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.02-10.29.52:840][ 27]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.02-10.29.52:840][ 27]PIE: New page: PIE session: Water (May 2, 2021, 2:29:52 AM)
+[2021.05.02-10.29.52:841][ 27]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Water
+[2021.05.02-10.29.52:851][ 27]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010158s)
+[2021.05.02-10.29.52:852][ 27]LogAIModule: Creating AISystem for world Water
+[2021.05.02-10.29.52:852][ 27]LogPlayLevel: PIE: World Init took: (0.001194s)
+[2021.05.02-10.29.52:852][ 27]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Water.Water to /Game/ThirdPersonBP/Maps/UEDPIE_0_Water.Water (0.011541s)
+[2021.05.02-10.29.52:877][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2021.05.02-10.29.52:882][ 27]LogAudio: Display: Creating Audio Device:                 Id: 66, Scope: Unique, Realtime: True
+[2021.05.02-10.29.52:882][ 27]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.02-10.29.52:882][ 27]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.02-10.29.52:882][ 27]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.02-10.29.52:882][ 27]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.02-10.29.52:882][ 27]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.02-10.29.52:882][ 27]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.02-10.29.52:882][ 27]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.02-10.29.52:882][ 27]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.02-10.29.52:882][ 27]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.02-10.29.52:882][ 27]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.02-10.29.52:887][ 27]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.02-10.29.52:887][ 27]LogAudioMixer: Display: 1: FrontRight
+[2021.05.02-10.29.52:897][ 27]LogAudioMixer: Display: Using Audio Device Speakers (3- USB Audio Device)
+[2021.05.02-10.29.52:898][ 27]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.02-10.29.52:898][ 27]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.02-10.29.52:898][ 27]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.02-10.29.52:898][ 27]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.02-10.29.52:898][ 27]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.02-10.29.52:898][ 27]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.02-10.29.52:923][ 27]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.02-10.29.52:923][ 27]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.02-10.29.52:923][ 27]LogInit: FAudioDevice initialized.
+[2021.05.02-10.29.52:923][ 27]LogAudio: Display: Audio Device (ID: 66) registered with world 'Water'.
+[2021.05.02-10.29.52:929][ 27]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.02-10.29.52:934][ 27]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Water.Water up for play (max tick rate 60) at 2021.05.02-06.29.52
+[2021.05.02-10.29.52:935][ 27]LogWorld: Bringing up level for play took: 0.004682
+[2021.05.02-10.29.52:935][ 27]LogOnline: OSS: Creating online subsystem instance for: :Context_87
+[2021.05.02-10.29.52:938][ 27]PIE: Server logged in
+[2021.05.02-10.29.52:939][ 27]PIE: Play in editor total start time 0.102 seconds.
+[2021.05.02-10.30.30:875][290]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-10.30.30:875][290]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Water
+[2021.05.02-10.30.30:876][290]LogWorld: UWorld::CleanupWorld for Water, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-10.30.30:876][290]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-10.30.30:889][290]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.02-10.30.30:893][290]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-10.30.30:913][290]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-10.30.30:913][290]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.02-10.30.30:914][290]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.02-10.30.30:936][290]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2021.05.02-10.30.30:965][291]LogPlayLevel: Display: Destroying online subsystem :Context_87
+[2021.05.02-10.30.34:252][482]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.02-10.30.34:261][482]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.02-10.30.34:261][482]PIE: New page: PIE session: Water (May 2, 2021, 2:30:34 AM)
+[2021.05.02-10.30.34:261][482]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Water
+[2021.05.02-10.30.34:270][482]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009344s)
+[2021.05.02-10.30.34:272][482]LogAIModule: Creating AISystem for world Water
+[2021.05.02-10.30.34:272][482]LogPlayLevel: PIE: World Init took: (0.001537s)
+[2021.05.02-10.30.34:272][482]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Water.Water to /Game/ThirdPersonBP/Maps/UEDPIE_0_Water.Water (0.011015s)
+[2021.05.02-10.30.34:297][482]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2021.05.02-10.30.34:298][482]LogAudio: Display: Creating Audio Device:                 Id: 67, Scope: Unique, Realtime: True
+[2021.05.02-10.30.34:298][482]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.02-10.30.34:298][482]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.02-10.30.34:298][482]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.02-10.30.34:298][482]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.02-10.30.34:298][482]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.02-10.30.34:298][482]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.02-10.30.34:298][482]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.02-10.30.34:298][482]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.02-10.30.34:299][482]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.02-10.30.34:299][482]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.02-10.30.34:303][482]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.02-10.30.34:303][482]LogAudioMixer: Display: 1: FrontRight
+[2021.05.02-10.30.34:314][482]LogAudioMixer: Display: Using Audio Device Speakers (3- USB Audio Device)
+[2021.05.02-10.30.34:314][482]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.02-10.30.34:314][482]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.02-10.30.34:314][482]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.02-10.30.34:314][482]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.02-10.30.34:314][482]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.02-10.30.34:314][482]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.02-10.30.34:337][482]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.02-10.30.34:337][482]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.02-10.30.34:337][482]LogInit: FAudioDevice initialized.
+[2021.05.02-10.30.34:337][482]LogAudio: Display: Audio Device (ID: 67) registered with world 'Water'.
+[2021.05.02-10.30.34:347][482]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.02-10.30.34:352][482]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Water.Water up for play (max tick rate 60) at 2021.05.02-06.30.34
+[2021.05.02-10.30.34:353][482]LogWorld: Bringing up level for play took: 0.005107
+[2021.05.02-10.30.34:353][482]LogOnline: OSS: Creating online subsystem instance for: :Context_88
+[2021.05.02-10.30.34:357][482]PIE: Server logged in
+[2021.05.02-10.30.34:358][482]PIE: Play in editor total start time 0.1 seconds.
+[2021.05.02-10.30.37:325][652]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-10.30.37:325][652]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Water
+[2021.05.02-10.30.37:326][652]LogWorld: UWorld::CleanupWorld for Water, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-10.30.37:326][652]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-10.30.37:340][652]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.02-10.30.37:345][652]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-10.30.37:361][652]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-10.30.37:361][652]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.02-10.30.37:362][652]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.02-10.30.37:379][652]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2021.05.02-10.30.37:408][653]LogPlayLevel: Display: Destroying online subsystem :Context_88
+[2021.05.02-10.30.40:877][857]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.02-10.30.40:890][857]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.02-10.30.40:890][857]PIE: New page: PIE session: Water (May 2, 2021, 2:30:40 AM)
+[2021.05.02-10.30.40:890][857]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Water
+[2021.05.02-10.30.40:902][857]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011978s)
+[2021.05.02-10.30.40:903][857]LogAIModule: Creating AISystem for world Water
+[2021.05.02-10.30.40:904][857]LogPlayLevel: PIE: World Init took: (0.001992s)
+[2021.05.02-10.30.40:904][857]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Water.Water to /Game/ThirdPersonBP/Maps/UEDPIE_0_Water.Water (0.014299s)
+[2021.05.02-10.30.40:925][857]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2021.05.02-10.30.40:926][857]LogAudio: Display: Creating Audio Device:                 Id: 68, Scope: Unique, Realtime: True
+[2021.05.02-10.30.40:926][857]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.02-10.30.40:926][857]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.02-10.30.40:927][857]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.02-10.30.40:927][857]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.02-10.30.40:927][857]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.02-10.30.40:927][857]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.02-10.30.40:927][857]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.02-10.30.40:927][857]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.02-10.30.40:927][857]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.02-10.30.40:927][857]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.02-10.30.40:931][857]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.02-10.30.40:931][857]LogAudioMixer: Display: 1: FrontRight
+[2021.05.02-10.30.40:942][857]LogAudioMixer: Display: Using Audio Device Speakers (3- USB Audio Device)
+[2021.05.02-10.30.40:942][857]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.02-10.30.40:942][857]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.02-10.30.40:942][857]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.02-10.30.40:942][857]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.02-10.30.40:942][857]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.02-10.30.40:942][857]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.02-10.30.40:966][857]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.02-10.30.40:966][857]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.02-10.30.40:966][857]LogInit: FAudioDevice initialized.
+[2021.05.02-10.30.40:966][857]LogAudio: Display: Audio Device (ID: 68) registered with world 'Water'.
+[2021.05.02-10.30.40:972][857]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.02-10.30.40:976][857]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Water.Water up for play (max tick rate 60) at 2021.05.02-06.30.40
+[2021.05.02-10.30.40:977][857]LogWorld: Bringing up level for play took: 0.004518
+[2021.05.02-10.30.40:977][857]LogOnline: OSS: Creating online subsystem instance for: :Context_89
+[2021.05.02-10.30.40:980][857]PIE: Server logged in
+[2021.05.02-10.30.40:981][857]PIE: Play in editor total start time 0.094 seconds.
+[2021.05.02-10.30.44:485][ 61]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-10.30.44:485][ 61]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Water
+[2021.05.02-10.30.44:486][ 61]LogWorld: UWorld::CleanupWorld for Water, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-10.30.44:489][ 61]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-10.30.44:503][ 61]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.02-10.30.44:508][ 61]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-10.30.44:524][ 61]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-10.30.44:524][ 61]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.02-10.30.44:525][ 61]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.02-10.30.44:553][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2021.05.02-10.30.44:578][ 62]LogPlayLevel: Display: Destroying online subsystem :Context_89
+[2021.05.02-10.30.46:815][188]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.02-10.30.46:833][188]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.02-10.30.46:833][188]PIE: New page: PIE session: Water (May 2, 2021, 2:30:46 AM)
+[2021.05.02-10.30.46:833][188]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Water
+[2021.05.02-10.30.46:846][188]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012302s)
+[2021.05.02-10.30.46:847][188]LogAIModule: Creating AISystem for world Water
+[2021.05.02-10.30.46:848][188]LogPlayLevel: PIE: World Init took: (0.002385s)
+[2021.05.02-10.30.46:848][188]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Water.Water to /Game/ThirdPersonBP/Maps/UEDPIE_0_Water.Water (0.015053s)
+[2021.05.02-10.30.46:875][188]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2021.05.02-10.30.46:875][188]LogAudio: Display: Creating Audio Device:                 Id: 69, Scope: Unique, Realtime: True
+[2021.05.02-10.30.46:876][188]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.02-10.30.46:876][188]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.02-10.30.46:876][188]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.02-10.30.46:876][188]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.02-10.30.46:876][188]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.02-10.30.46:876][188]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.02-10.30.46:876][188]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.02-10.30.46:876][188]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.02-10.30.46:876][188]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.02-10.30.46:876][188]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.02-10.30.46:881][188]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.02-10.30.46:881][188]LogAudioMixer: Display: 1: FrontRight
+[2021.05.02-10.30.46:897][188]LogAudioMixer: Display: Using Audio Device Speakers (3- USB Audio Device)
+[2021.05.02-10.30.46:897][188]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.02-10.30.46:897][188]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.02-10.30.46:897][188]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.02-10.30.46:897][188]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.02-10.30.46:897][188]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.02-10.30.46:897][188]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.02-10.30.46:918][188]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.02-10.30.46:918][188]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.02-10.30.46:918][188]LogInit: FAudioDevice initialized.
+[2021.05.02-10.30.46:918][188]LogAudio: Display: Audio Device (ID: 69) registered with world 'Water'.
+[2021.05.02-10.30.46:930][188]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.02-10.30.46:937][188]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Water.Water up for play (max tick rate 60) at 2021.05.02-06.30.46
+[2021.05.02-10.30.46:938][188]LogWorld: Bringing up level for play took: 0.007482
+[2021.05.02-10.30.46:938][188]LogOnline: OSS: Creating online subsystem instance for: :Context_90
+[2021.05.02-10.30.46:943][188]PIE: Server logged in
+[2021.05.02-10.30.46:945][188]PIE: Play in editor total start time 0.114 seconds.
+[2021.05.02-10.30.50:165][376]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-10.30.50:165][376]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Water
+[2021.05.02-10.30.50:165][376]LogWorld: UWorld::CleanupWorld for Water, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-10.30.50:167][376]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-10.30.50:174][376]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.02-10.30.50:178][376]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-10.30.50:196][376]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-10.30.50:197][376]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.02-10.30.50:198][376]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.02-10.30.50:222][376]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2021.05.02-10.30.50:257][377]LogPlayLevel: Display: Destroying online subsystem :Context_90
+[2021.05.02-10.30.52:973][531]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.02-10.30.52:982][531]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.02-10.30.52:982][531]PIE: New page: PIE session: Water (May 2, 2021, 2:30:52 AM)
+[2021.05.02-10.30.52:982][531]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Water
+[2021.05.02-10.30.52:998][531]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015452s)
+[2021.05.02-10.30.52:999][531]LogAIModule: Creating AISystem for world Water
+[2021.05.02-10.30.52:999][531]LogPlayLevel: PIE: World Init took: (0.001475s)
+[2021.05.02-10.30.53:000][531]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Water.Water to /Game/ThirdPersonBP/Maps/UEDPIE_0_Water.Water (0.017210s)
+[2021.05.02-10.30.53:020][531]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2021.05.02-10.30.53:021][531]LogAudio: Display: Creating Audio Device:                 Id: 70, Scope: Unique, Realtime: True
+[2021.05.02-10.30.53:021][531]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.02-10.30.53:021][531]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.02-10.30.53:021][531]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.02-10.30.53:021][531]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.02-10.30.53:021][531]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.02-10.30.53:021][531]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.02-10.30.53:021][531]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.02-10.30.53:021][531]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.02-10.30.53:022][531]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.02-10.30.53:022][531]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.02-10.30.53:028][531]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.02-10.30.53:028][531]LogAudioMixer: Display: 1: FrontRight
+[2021.05.02-10.30.53:043][531]LogAudioMixer: Display: Using Audio Device Speakers (3- USB Audio Device)
+[2021.05.02-10.30.53:044][531]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.02-10.30.53:044][531]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.02-10.30.53:044][531]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.02-10.30.53:044][531]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.02-10.30.53:044][531]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.02-10.30.53:044][531]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.02-10.30.53:060][531]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.02-10.30.53:060][531]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.02-10.30.53:060][531]LogInit: FAudioDevice initialized.
+[2021.05.02-10.30.53:060][531]LogAudio: Display: Audio Device (ID: 70) registered with world 'Water'.
+[2021.05.02-10.30.53:077][531]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.02-10.30.53:082][531]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Water.Water up for play (max tick rate 60) at 2021.05.02-06.30.53
+[2021.05.02-10.30.53:083][531]LogWorld: Bringing up level for play took: 0.005554
+[2021.05.02-10.30.53:083][531]LogOnline: OSS: Creating online subsystem instance for: :Context_91
+[2021.05.02-10.30.53:089][531]PIE: Server logged in
+[2021.05.02-10.30.53:090][531]PIE: Play in editor total start time 0.11 seconds.
+[2021.05.02-10.30.55:836][690]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-10.30.55:836][690]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Water
+[2021.05.02-10.30.55:836][690]LogWorld: UWorld::CleanupWorld for Water, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-10.30.55:837][690]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-10.30.55:850][690]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.02-10.30.55:854][690]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-10.30.55:873][690]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-10.30.55:874][690]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.02-10.30.55:876][690]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.02-10.30.55:897][690]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2021.05.02-10.30.55:927][691]LogPlayLevel: Display: Destroying online subsystem :Context_91
+[2021.05.02-10.30.58:114][811]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.02-10.30.58:123][811]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.02-10.30.58:123][811]PIE: New page: PIE session: Water (May 2, 2021, 2:30:58 AM)
+[2021.05.02-10.30.58:123][811]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Water
+[2021.05.02-10.30.58:135][811]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011934s)
+[2021.05.02-10.30.58:136][811]LogAIModule: Creating AISystem for world Water
+[2021.05.02-10.30.58:136][811]LogPlayLevel: PIE: World Init took: (0.000958s)
+[2021.05.02-10.30.58:136][811]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Water.Water to /Game/ThirdPersonBP/Maps/UEDPIE_0_Water.Water (0.013015s)
+[2021.05.02-10.30.58:155][811]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2021.05.02-10.30.58:155][811]LogAudio: Display: Creating Audio Device:                 Id: 71, Scope: Unique, Realtime: True
+[2021.05.02-10.30.58:155][811]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.02-10.30.58:155][811]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.02-10.30.58:156][811]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.02-10.30.58:156][811]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.02-10.30.58:156][811]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.02-10.30.58:156][811]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.02-10.30.58:156][811]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.02-10.30.58:156][811]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.02-10.30.58:156][811]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.02-10.30.58:156][811]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.02-10.30.58:162][811]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.02-10.30.58:162][811]LogAudioMixer: Display: 1: FrontRight
+[2021.05.02-10.30.58:177][811]LogAudioMixer: Display: Using Audio Device Speakers (3- USB Audio Device)
+[2021.05.02-10.30.58:177][811]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.02-10.30.58:177][811]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.02-10.30.58:177][811]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.02-10.30.58:177][811]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.02-10.30.58:178][811]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.02-10.30.58:178][811]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.02-10.30.58:190][811]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.02-10.30.58:190][811]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.02-10.30.58:190][811]LogInit: FAudioDevice initialized.
+[2021.05.02-10.30.58:190][811]LogAudio: Display: Audio Device (ID: 71) registered with world 'Water'.
+[2021.05.02-10.30.58:194][811]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.02-10.30.58:198][811]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Water.Water up for play (max tick rate 60) at 2021.05.02-06.30.58
+[2021.05.02-10.30.58:199][811]LogWorld: Bringing up level for play took: 0.004028
+[2021.05.02-10.30.58:199][811]LogOnline: OSS: Creating online subsystem instance for: :Context_92
+[2021.05.02-10.30.58:204][811]PIE: Server logged in
+[2021.05.02-10.30.58:206][811]PIE: Play in editor total start time 0.086 seconds.
+[2021.05.02-10.31.00:325][932]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-10.31.00:325][932]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Water
+[2021.05.02-10.31.00:326][932]LogWorld: UWorld::CleanupWorld for Water, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-10.31.00:327][932]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-10.31.00:333][932]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.02-10.31.00:336][932]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-10.31.00:354][932]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-10.31.00:354][932]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.02-10.31.00:356][932]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.02-10.31.00:376][932]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2021.05.02-10.31.00:407][933]LogPlayLevel: Display: Destroying online subsystem :Context_92
+[2021.05.02-10.31.02:480][ 50]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.02-10.31.02:490][ 50]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.02-10.31.02:490][ 50]PIE: New page: PIE session: Water (May 2, 2021, 2:31:02 AM)
+[2021.05.02-10.31.02:491][ 50]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Water
+[2021.05.02-10.31.02:504][ 50]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013100s)
+[2021.05.02-10.31.02:505][ 50]LogAIModule: Creating AISystem for world Water
+[2021.05.02-10.31.02:505][ 50]LogPlayLevel: PIE: World Init took: (0.001646s)
+[2021.05.02-10.31.02:505][ 50]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Water.Water to /Game/ThirdPersonBP/Maps/UEDPIE_0_Water.Water (0.014967s)
+[2021.05.02-10.31.02:525][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2021.05.02-10.31.02:526][ 50]LogAudio: Display: Creating Audio Device:                 Id: 72, Scope: Unique, Realtime: True
+[2021.05.02-10.31.02:526][ 50]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.02-10.31.02:526][ 50]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.02-10.31.02:526][ 50]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.02-10.31.02:526][ 50]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.02-10.31.02:526][ 50]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.02-10.31.02:526][ 50]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.02-10.31.02:526][ 50]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.02-10.31.02:526][ 50]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.02-10.31.02:526][ 50]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.02-10.31.02:526][ 50]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.02-10.31.02:530][ 50]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.02-10.31.02:530][ 50]LogAudioMixer: Display: 1: FrontRight
+[2021.05.02-10.31.02:544][ 50]LogAudioMixer: Display: Using Audio Device Speakers (3- USB Audio Device)
+[2021.05.02-10.31.02:545][ 50]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.02-10.31.02:545][ 50]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.02-10.31.02:545][ 50]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.02-10.31.02:546][ 50]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.02-10.31.02:546][ 50]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.02-10.31.02:546][ 50]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.02-10.31.02:565][ 50]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.02-10.31.02:565][ 50]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.02-10.31.02:565][ 50]LogInit: FAudioDevice initialized.
+[2021.05.02-10.31.02:565][ 50]LogAudio: Display: Audio Device (ID: 72) registered with world 'Water'.
+[2021.05.02-10.31.02:577][ 50]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.02-10.31.02:582][ 50]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Water.Water up for play (max tick rate 60) at 2021.05.02-06.31.02
+[2021.05.02-10.31.02:583][ 50]LogWorld: Bringing up level for play took: 0.005342
+[2021.05.02-10.31.02:583][ 50]LogOnline: OSS: Creating online subsystem instance for: :Context_93
+[2021.05.02-10.31.02:588][ 50]PIE: Server logged in
+[2021.05.02-10.31.02:590][ 50]PIE: Play in editor total start time 0.103 seconds.
+[2021.05.02-10.31.04:145][135]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-10.31.04:145][135]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Water
+[2021.05.02-10.31.04:145][135]LogWorld: UWorld::CleanupWorld for Water, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-10.31.04:146][135]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-10.31.04:160][135]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.02-10.31.04:164][135]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-10.31.04:179][135]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-10.31.04:180][135]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.02-10.31.04:181][135]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.02-10.31.04:208][135]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2021.05.02-10.31.04:235][136]LogPlayLevel: Display: Destroying online subsystem :Context_93
+[2021.05.02-10.31.09:240][430]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.02-10.31.09:251][430]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.02-10.31.09:251][430]PIE: New page: PIE session: Water (May 2, 2021, 2:31:09 AM)
+[2021.05.02-10.31.09:251][430]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Water
+[2021.05.02-10.31.09:260][430]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008622s)
+[2021.05.02-10.31.09:261][430]LogAIModule: Creating AISystem for world Water
+[2021.05.02-10.31.09:261][430]LogPlayLevel: PIE: World Init took: (0.001139s)
+[2021.05.02-10.31.09:261][430]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Water.Water to /Game/ThirdPersonBP/Maps/UEDPIE_0_Water.Water (0.009877s)
+[2021.05.02-10.31.09:282][430]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2021.05.02-10.31.09:285][430]LogAudio: Display: Creating Audio Device:                 Id: 73, Scope: Unique, Realtime: True
+[2021.05.02-10.31.09:285][430]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.02-10.31.09:285][430]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.02-10.31.09:285][430]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.02-10.31.09:285][430]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.02-10.31.09:285][430]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.02-10.31.09:285][430]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.02-10.31.09:285][430]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.02-10.31.09:285][430]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.02-10.31.09:285][430]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.02-10.31.09:285][430]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.02-10.31.09:290][430]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.02-10.31.09:290][430]LogAudioMixer: Display: 1: FrontRight
+[2021.05.02-10.31.09:303][430]LogAudioMixer: Display: Using Audio Device Speakers (3- USB Audio Device)
+[2021.05.02-10.31.09:303][430]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.02-10.31.09:303][430]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.02-10.31.09:303][430]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.02-10.31.09:304][430]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.02-10.31.09:304][430]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.02-10.31.09:304][430]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.02-10.31.09:319][430]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.02-10.31.09:319][430]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.02-10.31.09:319][430]LogInit: FAudioDevice initialized.
+[2021.05.02-10.31.09:319][430]LogAudio: Display: Audio Device (ID: 73) registered with world 'Water'.
+[2021.05.02-10.31.09:335][430]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.02-10.31.09:343][430]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Water.Water up for play (max tick rate 60) at 2021.05.02-06.31.09
+[2021.05.02-10.31.09:344][430]LogWorld: Bringing up level for play took: 0.007904
+[2021.05.02-10.31.09:344][430]LogOnline: OSS: Creating online subsystem instance for: :Context_94
+[2021.05.02-10.31.09:347][430]PIE: Server logged in
+[2021.05.02-10.31.09:348][430]PIE: Play in editor total start time 0.099 seconds.
+[2021.05.02-10.31.11:436][548]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-10.31.11:436][548]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Water
+[2021.05.02-10.31.11:437][548]LogWorld: UWorld::CleanupWorld for Water, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-10.31.11:438][548]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-10.31.11:447][548]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.02-10.31.11:452][548]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-10.31.11:467][548]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-10.31.11:468][548]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.02-10.31.11:469][548]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.02-10.31.11:492][548]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2021.05.02-10.31.11:518][549]LogPlayLevel: Display: Destroying online subsystem :Context_94
+[2021.05.02-10.31.13:660][671]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.02-10.31.13:668][671]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.02-10.31.13:668][671]PIE: New page: PIE session: Water (May 2, 2021, 2:31:13 AM)
+[2021.05.02-10.31.13:668][671]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Water
+[2021.05.02-10.31.13:678][671]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009197s)
+[2021.05.02-10.31.13:679][671]LogAIModule: Creating AISystem for world Water
+[2021.05.02-10.31.13:679][671]LogPlayLevel: PIE: World Init took: (0.001292s)
+[2021.05.02-10.31.13:679][671]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Water.Water to /Game/ThirdPersonBP/Maps/UEDPIE_0_Water.Water (0.010682s)
+[2021.05.02-10.31.13:702][671]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2021.05.02-10.31.13:703][671]LogAudio: Display: Creating Audio Device:                 Id: 74, Scope: Unique, Realtime: True
+[2021.05.02-10.31.13:703][671]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.02-10.31.13:703][671]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.02-10.31.13:703][671]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.02-10.31.13:703][671]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.02-10.31.13:704][671]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.02-10.31.13:704][671]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.02-10.31.13:704][671]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.02-10.31.13:704][671]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.02-10.31.13:704][671]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.02-10.31.13:704][671]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.02-10.31.13:708][671]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.02-10.31.13:708][671]LogAudioMixer: Display: 1: FrontRight
+[2021.05.02-10.31.13:717][671]LogAudioMixer: Display: Using Audio Device Speakers (3- USB Audio Device)
+[2021.05.02-10.31.13:717][671]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.02-10.31.13:717][671]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.02-10.31.13:717][671]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.02-10.31.13:718][671]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.02-10.31.13:718][671]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.02-10.31.13:718][671]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.02-10.31.13:734][671]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.02-10.31.13:734][671]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.02-10.31.13:734][671]LogInit: FAudioDevice initialized.
+[2021.05.02-10.31.13:734][671]LogAudio: Display: Audio Device (ID: 74) registered with world 'Water'.
+[2021.05.02-10.31.13:742][671]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.02-10.31.13:748][671]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Water.Water up for play (max tick rate 60) at 2021.05.02-06.31.13
+[2021.05.02-10.31.13:748][671]LogWorld: Bringing up level for play took: 0.005576
+[2021.05.02-10.31.13:749][671]LogOnline: OSS: Creating online subsystem instance for: :Context_95
+[2021.05.02-10.31.13:753][671]PIE: Server logged in
+[2021.05.02-10.31.13:753][671]PIE: Play in editor total start time 0.087 seconds.
+[2021.05.02-10.31.15:445][767]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-10.31.15:445][767]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Water
+[2021.05.02-10.31.15:445][767]LogWorld: UWorld::CleanupWorld for Water, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-10.31.15:446][767]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-10.31.15:457][767]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.02-10.31.15:461][767]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-10.31.15:477][767]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-10.31.15:478][767]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.02-10.31.15:479][767]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.02-10.31.15:503][767]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2021.05.02-10.31.15:535][768]LogPlayLevel: Display: Destroying online subsystem :Context_95
+[2021.05.02-10.31.17:392][876]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.02-10.31.17:401][876]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.02-10.31.17:401][876]PIE: New page: PIE session: Water (May 2, 2021, 2:31:17 AM)
+[2021.05.02-10.31.17:402][876]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Water
+[2021.05.02-10.31.17:412][876]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010665s)
+[2021.05.02-10.31.17:413][876]LogAIModule: Creating AISystem for world Water
+[2021.05.02-10.31.17:414][876]LogPlayLevel: PIE: World Init took: (0.001178s)
+[2021.05.02-10.31.17:414][876]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Water.Water to /Game/ThirdPersonBP/Maps/UEDPIE_0_Water.Water (0.011972s)
+[2021.05.02-10.31.17:431][876]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2021.05.02-10.31.17:432][876]LogAudio: Display: Creating Audio Device:                 Id: 75, Scope: Unique, Realtime: True
+[2021.05.02-10.31.17:432][876]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.02-10.31.17:432][876]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.02-10.31.17:432][876]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.02-10.31.17:432][876]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.02-10.31.17:432][876]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.02-10.31.17:432][876]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.02-10.31.17:433][876]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.02-10.31.17:433][876]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.02-10.31.17:433][876]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.02-10.31.17:433][876]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.02-10.31.17:437][876]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.02-10.31.17:437][876]LogAudioMixer: Display: 1: FrontRight
+[2021.05.02-10.31.17:450][876]LogAudioMixer: Display: Using Audio Device Speakers (3- USB Audio Device)
+[2021.05.02-10.31.17:450][876]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.02-10.31.17:450][876]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.02-10.31.17:450][876]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.02-10.31.17:450][876]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.02-10.31.17:450][876]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.02-10.31.17:450][876]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.02-10.31.17:467][876]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.02-10.31.17:467][876]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.02-10.31.17:467][876]LogInit: FAudioDevice initialized.
+[2021.05.02-10.31.17:467][876]LogAudio: Display: Audio Device (ID: 75) registered with world 'Water'.
+[2021.05.02-10.31.17:473][876]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.02-10.31.17:477][876]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Water.Water up for play (max tick rate 60) at 2021.05.02-06.31.17
+[2021.05.02-10.31.17:478][876]LogWorld: Bringing up level for play took: 0.004192
+[2021.05.02-10.31.17:478][876]LogOnline: OSS: Creating online subsystem instance for: :Context_96
+[2021.05.02-10.31.17:481][876]PIE: Server logged in
+[2021.05.02-10.31.17:481][876]PIE: Play in editor total start time 0.081 seconds.
+[2021.05.02-10.31.19:175][971]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-10.31.19:176][971]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Water
+[2021.05.02-10.31.19:176][971]LogWorld: UWorld::CleanupWorld for Water, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-10.31.19:176][971]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-10.31.19:185][971]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.02-10.31.19:189][971]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-10.31.19:207][971]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-10.31.19:208][971]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.02-10.31.19:209][971]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.02-10.31.19:225][971]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2021.05.02-10.31.19:256][972]LogPlayLevel: Display: Destroying online subsystem :Context_96
+[2021.05.02-10.32.08:219][897]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.02-10.32.08:228][897]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.02-10.32.08:229][897]PIE: New page: PIE session: Water (May 2, 2021, 2:32:08 AM)
+[2021.05.02-10.32.08:229][897]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Water
+[2021.05.02-10.32.08:238][897]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009719s)
+[2021.05.02-10.32.08:239][897]LogAIModule: Creating AISystem for world Water
+[2021.05.02-10.32.08:240][897]LogPlayLevel: PIE: World Init took: (0.001023s)
+[2021.05.02-10.32.08:240][897]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Water.Water to /Game/ThirdPersonBP/Maps/UEDPIE_0_Water.Water (0.010868s)
+[2021.05.02-10.32.08:259][897]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2021.05.02-10.32.08:266][897]LogAudio: Display: Creating Audio Device:                 Id: 76, Scope: Unique, Realtime: True
+[2021.05.02-10.32.08:267][897]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.02-10.32.08:267][897]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.02-10.32.08:267][897]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.02-10.32.08:267][897]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.02-10.32.08:267][897]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.02-10.32.08:267][897]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.02-10.32.08:267][897]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.02-10.32.08:267][897]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.02-10.32.08:267][897]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.02-10.32.08:267][897]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.02-10.32.08:271][897]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.02-10.32.08:271][897]LogAudioMixer: Display: 1: FrontRight
+[2021.05.02-10.32.08:282][897]LogAudioMixer: Display: Using Audio Device Speakers (3- USB Audio Device)
+[2021.05.02-10.32.08:282][897]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.02-10.32.08:282][897]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.02-10.32.08:282][897]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.02-10.32.08:283][897]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.02-10.32.08:283][897]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.02-10.32.08:283][897]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.02-10.32.08:305][897]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.02-10.32.08:305][897]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.02-10.32.08:305][897]LogInit: FAudioDevice initialized.
+[2021.05.02-10.32.08:305][897]LogAudio: Display: Audio Device (ID: 76) registered with world 'Water'.
+[2021.05.02-10.32.08:318][897]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.02-10.32.08:324][897]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Water.Water up for play (max tick rate 60) at 2021.05.02-06.32.08
+[2021.05.02-10.32.08:325][897]LogWorld: Bringing up level for play took: 0.006233
+[2021.05.02-10.32.08:325][897]LogOnline: OSS: Creating online subsystem instance for: :Context_97
+[2021.05.02-10.32.08:329][897]PIE: Server logged in
+[2021.05.02-10.32.08:330][897]PIE: Play in editor total start time 0.103 seconds.
+[2021.05.02-10.32.16:335][371]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-10.32.16:335][371]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Water
+[2021.05.02-10.32.16:335][371]LogWorld: UWorld::CleanupWorld for Water, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-10.32.16:336][371]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-10.32.16:346][371]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.02-10.32.16:350][371]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-10.32.16:368][371]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-10.32.16:369][371]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.02-10.32.16:370][371]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.02-10.32.16:400][371]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2021.05.02-10.32.16:439][372]LogPlayLevel: Display: Destroying online subsystem :Context_97
