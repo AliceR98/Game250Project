@@ -3094,3 +3094,161 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.02-07.30.08:755][791]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2021.05.02-07.30.08:760][791]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
 [2021.05.02-07.30.08:800][792]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2021.05.02-07.31.21:731][ 10]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-07.31.30:791][ 37]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-07.31.30:835][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   5.36ms
+[2021.05.02-07.31.30:878][ 37]LogSavePackage: Moving '../../../../Users/bpetr/Documents/GitHub/Game250Project/Project/Saved/Mountain_Auto31290FC6A4CF53D9122B51D8F3C0C364D.tmp' to '../../../../Users/bpetr/Documents/GitHub/Game250Project/Project/Saved/Autosaves/Game/ThirdPersonBP/Maps/Mountain_Auto3.umap'
+[2021.05.02-07.31.30:885][ 37]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/Mountain' took 0.083
+[2021.05.02-07.31.30:885][ 37]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.083
+[2021.05.02-07.32.29:751][363]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.05.02-07.32.29:769][363]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-07.32.31:153][363]LogSlate: Window 'Save Content' being destroyed
+[2021.05.02-07.32.31:181][363]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-07.32.31:239][363]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.05.02-07.32.31:290][363]LogSavePackage: Moving '../../../../Users/bpetr/Documents/GitHub/Game250Project/Project/Saved/MountainAA1C78CE4425D4A2675F0499B03D466D.tmp' to '../../../../Users/bpetr/Documents/GitHub/Game250Project/Project/Content/ThirdPersonBP/Maps/Mountain.umap'
+[2021.05.02-07.32.31:314][363]LogFileHelpers: Saving map 'Mountain' took 0.112
+[2021.05.02-07.32.31:325][363]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-07.32.31:346][363]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.05.02-07.32.31:346][363]Cmd: MAP LOAD FILE="../../../../Users/bpetr/Documents/GitHub/Game250Project/Project/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.02-07.32.31:346][363]LightingResults: New page: Lighting Build
+[2021.05.02-07.32.31:346][363]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2021.05.02-07.32.31:379][363]LogWorld: UWorld::CleanupWorld for Mountain, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-07.32.31:379][363]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-07.32.31:379][363]MapCheck: New page: Map Check
+[2021.05.02-07.32.31:379][363]LightingResults: New page: Lighting Build
+[2021.05.02-07.32.31:407][363]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.02-07.32.31:412][363]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2021.05.02-07.32.31:412][363]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2021.05.02-07.32.31:428][363]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Tutorial) is flushing async loading
+[2021.05.02-07.32.31:428][363]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2021.05.02-07.32.31:534][363]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.02-07.32.31:534][363]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.05.02-07.32.31:566][363]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2021.05.02-07.32.31:582][363]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.02-07.32.31:582][363]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.187ms to complete.
+[2021.05.02-07.32.31:583][363]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.237
+[2021.05.02-07.32.31:610][363]AssetCheck: New page: Asset Save: Mountain
+[2021.05.02-07.32.31:610][363]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Mountain.Mountain
+[2021.05.02-07.32.37:264][692]LogEditorViewport: Clicking on Actor (LMB): Respawn_bp_C (Respawn_bp)
+[2021.05.02-07.32.37:622][712]LogEditorViewport: Clicking on Actor (context menu): Respawn_bp_C (Respawn_bp)
+[2021.05.02-07.32.37:630][712]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-07.32.38:327][749]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-07.32.38:372][750]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-07.32.39:349][804]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-07.32.49:305][386]Cmd: EDIT COPY
+[2021.05.02-07.33.51:629][693]LogEditorViewport: Clicking on Actor (context menu): Respawn_bp_C (Respawn_bp)
+[2021.05.02-07.33.51:638][693]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-07.33.55:462][896]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2021.05.02-07.33.55:467][896]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-07.33.55:487][896]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/Mountain.Mountain
+[2021.05.02-07.33.55:487][896]Cmd: MAP LOAD FILE="../../../../Users/bpetr/Documents/GitHub/Game250Project/Project/Content/ThirdPersonBP/Maps/Mountain.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.02-07.33.55:487][896]LightingResults: New page: Lighting Build
+[2021.05.02-07.33.55:487][896]LoadErrors: New page: Loading map: Mountain.umap
+[2021.05.02-07.33.55:522][896]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-07.33.55:522][896]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-07.33.55:523][896]LogWorld: UWorld::CleanupWorld for Tutorial, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-07.33.55:523][896]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-07.33.55:523][896]MapCheck: New page: Map Check
+[2021.05.02-07.33.55:523][896]LightingResults: New page: Lighting Build
+[2021.05.02-07.33.55:555][896]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.02-07.33.55:563][896]LogUObjectHash: Compacting FUObjectHashTables data took   4.74ms
+[2021.05.02-07.33.55:563][896]LogAudio: Display: Audio Device (ID: 1) registered with world 'Mountain'.
+[2021.05.02-07.33.55:666][896]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.02-07.33.55:666][896]LogAIModule: Creating AISystem for world Mountain
+[2021.05.02-07.33.55:698][896]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2021.05.02-07.33.55:715][896]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.02-07.33.55:715][896]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.17ms to complete.
+[2021.05.02-07.33.55:715][896]LogFileHelpers: Loading map 'Mountain' took 0.228
+[2021.05.02-07.33.55:780][896]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2021.05.02-07.33.58:615][ 63]Cmd: EDIT PASTE
+[2021.05.02-07.34.36:552][306]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-07.34.37:459][359]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-07.34.38:217][397]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-07.34.38:397][406]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-07.34.39:592][474]Cmd: EDIT COPY
+[2021.05.02-07.34.42:215][624]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-07.34.42:980][663]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-07.34.43:065][665]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-07.34.43:132][668]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-07.34.43:175][670]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-07.34.44:068][720]Cmd: DUPLICATE
+[2021.05.02-07.34.44:068][720]Cmd: ACTOR DUPLICATE
+[2021.05.02-07.35.40:110][ 33]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-07.35.40:653][ 61]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-07.35.40:787][ 66]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-07.35.41:046][ 76]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-07.35.41:250][ 87]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-07.35.42:980][184]Cmd: EDIT COPY
+[2021.05.02-07.36.37:534][414]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-07.36.37:939][430]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-07.36.38:345][448]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-07.36.42:929][719]Cmd: DUPLICATE
+[2021.05.02-07.36.42:929][719]Cmd: ACTOR DUPLICATE
+[2021.05.02-07.37.25:283][214]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-07.37.25:705][234]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-07.37.25:829][240]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-07.37.26:178][256]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-07.37.27:191][314]Cmd: DUPLICATE
+[2021.05.02-07.37.27:192][314]Cmd: ACTOR DUPLICATE
+[2021.05.02-07.38.02:377][415]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-07.38.03:108][452]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-07.38.03:366][466]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-07.38.04:216][514]Cmd: DUPLICATE
+[2021.05.02-07.38.04:216][514]Cmd: ACTOR DUPLICATE
+[2021.05.02-07.38.36:364][424]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.02-07.38.36:372][424]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.02-07.38.36:372][424]PIE: New page: PIE session: Mountain (May 1, 2021, 11:38:36 PM)
+[2021.05.02-07.38.36:409][424]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Mountain
+[2021.05.02-07.38.36:419][424]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009467s)
+[2021.05.02-07.38.36:420][424]LogAIModule: Creating AISystem for world Mountain
+[2021.05.02-07.38.36:420][424]LogPlayLevel: PIE: World Init took: (0.001458s)
+[2021.05.02-07.38.36:420][424]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Mountain.Mountain to /Game/ThirdPersonBP/Maps/UEDPIE_0_Mountain.Mountain (0.011186s)
+[2021.05.02-07.38.36:475][424]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2021.05.02-07.38.36:477][424]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2021.05.02-07.38.36:477][424]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.02-07.38.36:477][424]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.02-07.38.36:477][424]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.02-07.38.36:477][424]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.02-07.38.36:477][424]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.02-07.38.36:477][424]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.02-07.38.36:477][424]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.02-07.38.36:477][424]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.02-07.38.36:477][424]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.02-07.38.36:477][424]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.02-07.38.36:481][424]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.02-07.38.36:481][424]LogAudioMixer: Display: 1: FrontRight
+[2021.05.02-07.38.36:490][424]LogAudioMixer: Display: Using Audio Device Speakers (3- USB Audio Device)
+[2021.05.02-07.38.36:490][424]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.02-07.38.36:490][424]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.02-07.38.36:490][424]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.02-07.38.36:490][424]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.02-07.38.36:490][424]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.02-07.38.36:490][424]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.02-07.38.36:504][424]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.02-07.38.36:504][424]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.02-07.38.36:504][424]LogInit: FAudioDevice initialized.
+[2021.05.02-07.38.36:504][424]LogAudio: Display: Audio Device (ID: 33) registered with world 'Mountain'.
+[2021.05.02-07.38.36:514][424]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.02-07.38.36:518][424]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Mountain.Mountain up for play (max tick rate 60) at 2021.05.02-03.38.36
+[2021.05.02-07.38.36:519][424]LogWorld: Bringing up level for play took: 0.004567
+[2021.05.02-07.38.36:519][424]LogOnline: OSS: Creating online subsystem instance for: :Context_52
+[2021.05.02-07.38.36:521][424]PIE: Server logged in
+[2021.05.02-07.38.36:522][424]PIE: Play in editor total start time 0.152 seconds.
+[2021.05.02-07.38.38:601][545]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-07.38.38:601][545]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Mountain
+[2021.05.02-07.38.38:601][545]LogWorld: UWorld::CleanupWorld for Mountain, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-07.38.38:602][545]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-07.38.38:611][545]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.02-07.38.38:623][545]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-07.38.38:648][545]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.02-07.38.38:648][545]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.02-07.38.38:649][545]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.02-07.38.38:673][545]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-07.38.38:677][545]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2021.05.02-07.38.38:710][546]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2021.05.02-07.43.48:752][371]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-07.44.00:757][639]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.05.02-07.44.00:842][639]LogUObjectHash: Compacting FUObjectHashTables data took   6.15ms
+[2021.05.02-07.44.00:897][639]LogSavePackage: Moving '../../../../Users/bpetr/Documents/GitHub/Game250Project/Project/Saved/Mountain7EBCABE240B2D5303BC55CA385D25993.tmp' to '../../../../Users/bpetr/Documents/GitHub/Game250Project/Project/Content/ThirdPersonBP/Maps/Mountain.umap'
+[2021.05.02-07.44.00:941][639]AssetCheck: New page: Asset Save: Mountain
+[2021.05.02-07.44.00:941][639]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Mountain.Mountain
